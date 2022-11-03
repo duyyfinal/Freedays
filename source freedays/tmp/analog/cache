@@ -1,0 +1,2032 @@
+CACHE type 5 produced by analog 6.0/Unix. Do not modify or delete!
+T	0	0	22925	717	169	231	87794918
+D	27788628	27791489
+19297	189	8	0	512
+19297	192	9	5	4121
+19297	201	1	1	1257
+19297	202	2	2	1216
+19297	205	5	1	4972
+19297	219	5	1	4571
+19297	221	1	1	609
+19297	226	3	3	3771
+19297	233	3	3	3771
+19297	238	1	1	608
+19297	241	1	1	609
+19297	242	1	1	609
+19297	253	2	2	608
+19297	257	3	3	3771
+19297	259	2	1	1779
+19297	260	3	1	1430
+19297	263	3	2	23375
+19297	268	1	1	55821
+19297	270	7	1	552509
+19297	274	1	1	55821
+19297	286	8	1	552509
+19297	287	1	1	9641
+19298	0	2	1	9641
+19298	1	8	2	562127
+19298	2	15	3	1114662
+19298	3	85	1	1571527
+19298	4	143	2	3284793
+19298	5	2	0	102
+19298	6	2	0	102
+19298	7	3	0	153
+19298	8	2	0	102
+19298	9	117	1	1998403
+19298	10	3	0	153
+19298	11	3	0	153
+19298	12	1	0	51
+19298	14	20	7	95976
+19298	15	26	20	19291
+19298	16	11	1	70022
+19298	17	2	0	102
+19298	18	8	1	9758
+19298	19	554	22	1961244
+19298	20	11	1	73312
+19298	21	963	1	439028
+19298	22	66	5	386797
+19298	23	3	0	153
+19298	24	6	2	18964
+19298	25	2	0	102
+19298	27	2	0	102
+19298	28	2	0	102
+19298	29	2	0	102
+19298	31	7	2	162310
+19298	39	2	1	9584
+19298	54	1003	1	457577
+19298	58	1002	1	457577
+19298	66	2	0	232
+19298	70	1	0	232
+19298	73	2	0	232
+19298	77	1	0	232
+19298	80	1	0	232
+19298	87	1207	1	545061
+19298	88	1363	0	3136336
+19298	89	846	0	5644512
+19298	90	614	0	4096608
+19298	91	280	0	1861720
+19298	94	1	0	232
+19298	98	475	1	245697
+19298	99	359	0	143959
+19298	101	1	0	232
+19298	105	1	0	232
+19298	108	2	0	232
+19298	112	2	0	318
+19298	113	30	2	489217
+19298	114	8	0	408
+19298	115	4	0	385
+19298	116	3	0	153
+19298	117	5	0	1259
+19298	118	11	0	19386
+19298	119	26	2	268203
+19298	120	6	0	1506
+19298	121	29	0	118753
+19298	122	33	4	415278
+19298	123	10	1	12253
+19298	124	5	0	339
+19298	125	14	0	98783
+19298	126	6	0	390
+19298	127	10	0	775
+19298	128	7	0	413
+19298	129	3	0	237
+19298	131	25	1	538754
+19298	135	2	0	232
+19298	136	1	0	79
+19298	137	2	0	158
+19298	138	4	0	469
+19298	142	1	0	232
+19298	143	83	5	1585281
+19298	146	3	0	601
+19298	149	21	20	193287
+19298	150	1	0	232
+19298	153	1	0	232
+19298	156	2	0	232
+19298	157	1	0	232
+19298	159	2	1	11129
+19298	160	1	0	232
+19298	162	1	0	232
+19298	163	1	0	232
+19298	164	1	0	232
+19298	166	2	0	311
+19298	167	5	0	469
+19298	168	3	0	390
+19298	169	1	0	79
+19298	170	1	0	232
+19298	171	1	0	232
+19298	172	1	0	232
+19298	173	1	0	232
+19298	174	1	0	232
+19298	176	1	0	232
+19298	177	1	0	232
+19298	178	1	0	232
+19298	179	5	0	469
+19298	180	4	0	469
+19298	181	3	0	390
+19298	182	1	0	232
+19298	184	37	2	622418
+19298	185	1	0	232
+19298	186	1	0	232
+19298	188	1	0	232
+19298	189	1	0	232
+19298	190	1	0	232
+19298	192	2	0	232
+19298	193	1	0	232
+19298	195	1	0	232
+19298	196	1	0	232
+19298	198	1	0	232
+19298	199	1	0	232
+19298	200	1	1	9168
+19298	201	1	0	232
+19298	202	6	0	571
+19298	203	6	0	311
+19298	204	42	1	587240
+19298	205	5	0	492
+19298	206	5	0	339
+19298	207	1	0	232
+19298	208	1	0	232
+19298	209	476	1	268032
+19298	210	1133	1	5354259
+19298	211	131	4	872467
+19298	212	393	1	212315
+19298	213	626	2	267963
+19298	214	449	0	177683
+19298	215	16	0	14159
+19298	216	20	1	90683
+19298	217	3	0	390
+19298	218	1	0	79
+19298	219	1	0	232
+19298	223	21	1	89632
+19298	224	11	1	21437
+19298	225	46	1	186189
+19298	226	7	0	4593
+19298	227	3	0	158
+19298	230	2	2	23428
+19298	232	4	0	335
+19298	233	8	0	1840
+19298	234	4	0	260
+19298	235	3	0	390
+19298	237	1	0	232
+19298	238	2	1	11788
+19298	239	27	0	114516
+19298	240	4	0	469
+19298	241	2	0	158
+19298	242	1	0	232
+19298	245	550	1	326527
+19298	246	297	2	193654
+19298	247	35	1	146553
+19298	248	17	0	11301
+19298	249	68	2	327720
+19298	250	6	0	487
+19298	251	5	0	204
+19298	252	24	1	69955
+19298	253	3	0	237
+19298	254	5	0	395
+19298	255	3	0	1325
+19298	256	261	1	225710
+19298	257	3	0	237
+19298	258	61	3	317643
+19298	259	6	1	12990
+19298	260	6	1	10169
+19298	261	2	0	158
+19298	262	2	0	311
+19298	265	5	2	28044
+19298	266	3	0	237
+19298	267	7	0	2738
+19298	268	25	1	136036
+19298	269	4	1	13123
+19298	270	2	0	158
+19298	271	1	0	2187
+19298	273	70	2	1171924
+19298	275	2	0	2187
+19298	280	5	0	237
+19298	281	4	0	204
+19298	282	9	0	6911
+19298	283	6	0	304
+19298	284	4	0	2338
+19298	285	5	0	255
+19298	286	5	0	255
+19298	287	5	0	255
+19299	0	18	3	66363
+19299	1	9	0	3694
+19299	2	7	0	357
+19299	3	19	0	228274
+19299	4	6	0	2442
+19299	5	2	0	102
+19299	6	3	0	153
+19299	8	2	1	130778
+19299	12	2	0	2187
+19299	14	13	1	23692
+19299	15	3	0	153
+19299	16	2	0	2238
+19299	19	1	1	130271
+19299	20	1	0	2187
+19299	21	1	1	14660
+19299	23	3	1	130322
+19299	24	5	2	165567
+19299	25	3	0	2289
+19299	27	97	16	1564241
+19299	28	3	0	153
+19299	29	5	1	114144
+19299	30	40	35	740216
+19299	31	5	0	404
+19299	32	13	3	155779
+19299	33	25	3	229137
+19299	34	5	0	255
+19299	35	4	0	204
+19299	36	5	0	255
+19299	37	5	0	2340
+19299	38	3	0	153
+19299	39	8	4	87410
+19299	40	5	0	255
+19299	41	3	0	2289
+19299	42	2	0	102
+19299	43	2	2	29422
+19299	45	1	0	2187
+19299	50	2	0	2187
+19299	58	1	0	2187
+19299	61	2	1	14738
+19299	62	1	0	2187
+19299	66	1	0	2187
+19299	70	1	0	2187
+19299	72	3	1	129260
+19299	73	3	1	85961
+19299	74	5	0	33350
+19299	75	3	0	15527
+19299	79	1	0	2187
+19299	80	419	1	291291
+19299	81	1093	0	438305
+19299	82	1420	1	692696
+19299	83	294	0	119680
+19299	87	2	0	2187
+19299	90	1	1	123025
+19299	91	1	0	2187
+19299	96	2	0	2187
+19299	99	3	2	201898
+19299	100	3	0	15527
+19299	106	11	6	216294
+19299	107	40	25	535815
+19299	108	35	18	218049
+19299	109	11	1	120243
+19299	110	4	0	204
+19299	111	3	0	153
+19299	112	2	0	102
+19299	113	73	1	153171
+19299	114	2	0	102
+19299	115	3	0	153
+19299	116	2	0	102
+19299	117	4	0	2370
+19299	118	7	2	215539
+19299	119	15	4	96869
+19299	120	8	0	40384
+19299	121	9	0	35940
+19299	122	2	0	102
+19299	123	3	0	153
+19299	124	39	31	546937
+19299	125	6	0	306
+19299	126	8	1	132864
+19299	127	48	3	788805
+19299	128	110	4	1737044
+19299	129	16	1	66216
+19299	130	12	0	49419
+19299	131	86	3	1359805
+19299	132	54	3	748616
+19299	133	261	45	3385368
+19299	134	32	2	266755
+19299	135	41	1	175879
+19299	136	17	0	100868
+19299	137	15	0	94075
+19299	138	18	0	120852
+19299	139	15	0	96213
+19299	140	23	0	154422
+19299	141	28	0	187992
+19299	142	28	0	187992
+19299	143	35	0	223779
+19299	144	33	0	221562
+19299	145	34	0	228276
+19299	146	31	0	208134
+19299	147	475	22	819983
+19299	148	34	0	228276
+19299	149	34	0	228276
+19299	150	34	0	228276
+19299	151	43	0	299979
+19299	152	42	0	243246
+19299	153	44	0	267395
+19299	154	46	0	237512
+19299	155	331	54	2088787
+19299	156	41	0	245065
+19299	157	36	0	208389
+19299	158	36	0	228378
+19299	159	106	2	1170958
+19299	160	40	2	261324
+19299	161	34	0	228276
+19299	162	34	0	228276
+19299	163	69	1	724518
+19299	164	34	0	228276
+19299	165	70	2	720021
+19299	166	37	1	225308
+19299	167	88	0	748635
+19299	168	63	0	382057
+19299	169	42	0	227586
+19299	170	40	0	225352
+19299	171	52	1	415646
+19299	172	148	3	1744502
+19299	173	42	1	239165
+19299	174	113	6	1191729
+19299	175	496	102	4818694
+19299	176	346	97	2472416
+19299	177	80	1	566422
+19299	178	40	2	221490
+19299	179	39	1	216658
+19299	180	29	0	172247
+19299	181	27	0	178713
+19299	182	30	0	194134
+19299	183	29	0	191951
+19299	184	29	0	191951
+19299	185	26	0	172094
+1	1	0	0	0	27791398	0	0	27791398	0	0	3469	/wp-includes/js/mce-view.min.js?ver=6.1
+1	1	0	0	0	27789141	0	0	27789141	0	0	17171	/wp-admin/themes.php?activated=true
+1	2	0	0	0	27789165	0	0	27789141	0	0	466	/wp-includes/js/dist/warning.min.js?ver=b9190af8fc6a3a48c580473c6f337b88
+1	1	0	0	0	27791338	0	0	27791338	0	0	0	/wp-cron.php?doing_wp_cron=1667368712.5996930599212646484375
+1	19	0	0	0	27791436	0	0	27789686	0	0	325126	/wp-admin/edit.php
+1	1	1	0	0	27789193	0	0	27789193	0	0	16403	/?customize_changeset_uuid=e5a60b43-1e5b-4c32-9034-022c52e99fb3&customize_theme=newsment&customize_messenger_channel=preview-3&customize_autosaved=on
+1	1	1	0	0	27790714	0	0	27790714	0	0	21174	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-9&customize_autosaved=on
+1	1	1	0	0	27789232	0	0	27789232	0	0	16312	/?customize_changeset_uuid=6b14a841-f7bf-4bb9-a8d3-3a8c595e4e6b&customize_theme=newsment&customize_messenger_channel=preview-12&customize_autosaved=on
+1	1	0	0	0	27789135	0	0	27789135	0	0	1255	/wp-includes/css/buttons.min.css?ver=6.0.3
+1	1	0	0	0	27790561	0	0	27790561	0	0	0	/wp-cron.php?doing_wp_cron=1667322095.0999650955200195312500
+1	1	0	0	0	27790464	0	0	27790464	0	0	6894	/wp-content/uploads/2022/11/biasohoadulich-150x150.jpg
+1	5	5	0	0	27791442	0	0	27791339	0	0	8245	/tag/elon_musk/feed/
+1	1	0	0	0	27791398	0	0	27791398	0	0	1001	/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2
+1	1	0	0	0	27789136	0	0	27789136	0	0	1000	/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.1
+1	2	0	0	0	27789165	0	0	27789135	0	0	1292	/wp-includes/js/wp-util.min.js?ver=6.0.3
+1	2	0	0	0	27791436	0	0	27789141	0	0	9250	/wp-content/themes/covernews/admin-dashboard/dist/style-admin_dashboard.css?ver=1.0
+1	1	0	0	0	27789218	0	0	27789218	0	0	10725	/wp-content/uploads/2022/10/anhheader-300x188.jpg
+1	1	0	0	0	27791398	0	0	27791398	0	0	479	/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.1
+1	1	0	0	0	27791339	0	0	27791339	0	0	15	/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=CEO &number=20
+1	3	0	0	0	27790695	0	0	27789141	0	0	5274	/wp-admin/js/widgets/custom-html-widgets.min.js?ver=6.0.3
+1	1	1	0	0	27789218	0	0	27789218	0	0	16351	/?customize_changeset_uuid=e5a60b43-1e5b-4c32-9034-022c52e99fb3&customize_theme=newsment&customize_messenger_channel=preview-7&customize_autosaved=on
+1	1	1	0	0	27790759	0	0	27790759	0	0	20605	/?customize_changeset_uuid=116a63c9-4246-4de0-a8e9-c12802aa76e9&customize_theme=newsment&customize_messenger_channel=preview-3&customize_autosaved=on
+1	2	0	0	0	27789165	0	0	27789141	0	0	21614	/wp-includes/js/dist/rich-text.min.js?ver=e7d57502b62ec4756783a0cd79238841
+1	1	0	0	0	27789865	0	0	27789865	0	0	0	/wp-cron.php?doing_wp_cron=1667280312.6107549667358398437500
+1	2	0	0	0	27788982	0	0	27788982	0	0	822	http://freedays.online:80/_autoindex/assets/icons/folder-fill.svg
+1	1	0	0	0	27789135	0	0	27789135	0	0	5916	/wp-admin/css/forms.min.css?ver=6.0.3
+1	1	0	0	0	27789138	0	0	27789138	0	0	53066	/wp-content/themes/twentytwenty/screenshot.png?ver=2.0
+1	3	0	0	0	27790695	0	0	27789141	0	0	3690	/wp-admin/js/code-editor.min.js?ver=6.0.3
+1	1	0	0	0	27791421	0	0	27791421	0	0	3673	/wp-includes/js/wplink.min.js?ver=6.1
+1	1	0	0	0	27789141	0	0	27789141	0	0	8408	/wp-content/themes/covernews/admin-dashboard/assets/images/af-themes-logo.png
+1	2	0	0	0	27790247	0	0	27790239	0	0	3312	/index.php/wp-json/wp/v2/posts/30?_locale=user
+1	1	0	0	0	27791338	0	0	27791338	0	0	62	/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=S%E1%BB%91&number=20
+1	5	5	0	0	27791442	0	0	27791339	0	0	53732	/dich-sot-xuat-huyet-dien-bien-phuc-tap-xuat-hien-nhieu-o-dich-tai-ha-noi/
+1	1	0	0	0	27790632	0	0	27790632	0	0	385	/index.php/wp-json/wp/v2/sidebars/footer-second-widgets-section?_locale=user
+1	36	0	0	0	27791442	0	0	27789220	0	0	1430604	/wp-content/uploads/2022/10/rounded-in-photoretrica-1.png
+1	2	0	0	0	27789165	0	0	27789141	0	0	8822	/wp-includes/js/dist/dom.min.js?ver=3c10edc1abf3fbbc79f17fd7d1d332eb
+1	3	0	0	0	27790695	0	0	27789141	0	0	12045	/wp-includes/js/codemirror/codemirror.min.css?ver=5.29.1-alpha-ee20357
+1	2	0	0	0	27789165	0	0	27789141	0	0	21532	/wp-includes/js/dist/compose.min.js?ver=e52c48958a19b766c6a9d28c02d53575
+1	1	1	0	0	27790697	0	0	27790697	0	0	904	/index.php/category/xa-hoi/?customize_autosaved=on&customize_changeset_uuid=21ac73ba-59e3-4acd-bdd4-813acd752265&customize_preview_nonce=094e9d9aba
+1	1	1	0	0	27791096	0	0	27791096	0	0	22119	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-11&customize_autosaved=on
+1	0	0	0	1	0	0	27788874	0	0	27788874	0	/wordpress/
+1	1	0	0	0	27789138	0	0	27789138	0	0	11552	/wp-admin/load-scripts.php?c=1&load[chunk_0]=hoverIntent,regenerator-runtime,wp-polyfill,wp-hooks&ver=6.0.3
+1	1	1	0	0	27791100	0	0	27791100	0	0	22305	/?customize_changeset_uuid=4d854840-b8e3-4cc6-9726-aad2767d16d1&customize_theme=newsment&customize_messenger_channel=preview-29&customize_autosaved=on
+1	1	1	0	0	27791100	0	0	27791100	0	0	22308	/?customize_changeset_uuid=4d854840-b8e3-4cc6-9726-aad2767d16d1&customize_theme=newsment&customize_messenger_channel=preview-30&customize_autosaved=on
+1	0	0	1	0	0	27790319	0	0	27790319	0	0	/wp-admin/post.php?post=34&action=edit&meta-box-loader=1&meta-box-loader-nonce=1d0d11138b&_locale=user
+1	1	0	0	0	27789141	0	0	27789141	0	0	87272	/wp-admin/customize.php?theme=newsment&return=https://freedays.online/wp-admin/themes.php
+1	2	0	0	0	27790695	0	0	27789233	0	0	305748	/wp-content/uploads/2022/10/cropped-rounded-in-photoretrica.png
+1	1	0	0	0	27791398	0	0	27791398	0	0	2394	/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17
+1	1	0	0	0	27789141	0	0	27789141	0	0	2394	/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16
+1	1	0	0	0	27789610	0	0	27789610	0	0	0	/wp-cron.php?doing_wp_cron=1667265004.8360369205474853515625
+1	29	0	0	0	27791442	0	0	27790352	0	0	268018	/wp-content/uploads/2022/11/biagiaxangdautang.jpg
+1	1	1	0	0	27791096	0	0	27791096	0	0	22098	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-15&customize_autosaved=on
+1	1	0	0	0	27790246	0	0	27790246	0	0	6	/index.php/wp-json/wp/v2/tags?context=view&per_page=20&orderby=count&order=desc&_fields=id,name&search=xang&_locale=user
+1	7	0	0	0	27791422	0	0	27791235	0	0	803	/wp-json/wp/v2/block-patterns/categories?_locale=user
+1	5	5	0	0	27791442	0	0	27791339	0	0	8662	/tag/mate_pad_se/feed/
+1	3	0	0	0	27790577	0	0	27789728	0	0	29532	/wp-includes/css/dist/block-library/editor.min.css?ver=6.0.3
+1	0	0	0	3	0	0	27788969	0	0	27788689	0	/2019/wp-includes/wlwmanifest.xml
+1	1	0	0	0	27789136	0	0	27789136	0	0	824	/wp-includes/js/thickbox/thickbox.css?ver=6.0.3
+1	1	1	0	0	27789685	0	0	27789685	0	0	16466	/?customize_changeset_uuid=ad19ac8d-3254-4d39-9283-170109b97c49&customize_theme=newsment&customize_messenger_channel=preview-1&customize_autosaved=on
+1	2	0	0	0	27790695	0	0	27789136	0	0	17358	/wp-admin/js/updates.min.js?ver=6.0.3
+1	1	1	0	0	27791097	0	0	27791097	0	0	22232	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-19&customize_autosaved=on
+1	1	1	0	0	27791097	0	0	27791097	0	0	22226	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-20&customize_autosaved=on
+1	1	0	0	0	27791421	0	0	27791421	0	0	4506	/wp-admin/js/editor.min.js?ver=6.1
+1	3	0	0	0	27790564	0	0	27789193	0	0	534	/wp-includes/js/imgareaselect/border-anim-v.gif
+1	1	0	0	0	27789732	0	0	27789732	0	0	344	/index.php/wp-json/wp/v2/categories?context=view&per_page=100&hide_empty=true&_locale=user
+1	1	0	0	0	27789718	0	0	27789718	0	0	0	/wp-cron.php?doing_wp_cron=1667271489.1111490726470947265625
+1	5	0	0	0	27791442	0	0	27791339	0	0	6376	/wp-json/oembed/1.0/embed?url=https://freedays.online/gia-xang-dau-tiep-tuc-tang-trong-vong-hai-tuan-vua-qua/
+1	1	0	0	0	27790368	0	0	27790368	0	0	51939	/wp-admin/post.php?post=38&action=edit&message=4
+1	2	0	0	0	27790319	0	0	27790248	0	0	3540	/index.php/wp-json/wp/v2/posts/34?_locale=user
+1	3	0	0	0	27790695	0	0	27789141	0	0	31926	/wp-includes/js/dist/customize-widgets.min.js?ver=498aa94909e53672986d64a11b67d88b
+1	1	0	0	0	27789136	0	0	27789136	0	0	281	/wp-includes/js/dist/dom-ready.min.js?ver=d996b53411d1533a84951212ab6ac4ff
+1	1	0	0	0	27790577	0	0	27790577	0	0	0	/wp-cron.php?doing_wp_cron=1667323069.5630979537963867187500
+1	5	5	0	0	27791442	0	0	27791339	0	0	54521	/lap-ke-hoach-tiem-vac-xin-covid-19-cho-tre-6-thang-tuoi/
+1	1	0	0	0	27791447	0	0	27791447	0	0	6368	/wp-json/wp/v2/posts?context=edit&order=desc&orderby=date&per_page=5&_embed=wp:featuredmedia&_locale=user
+1	1	0	0	0	27791398	0	0	27791398	0	0	109589	/wp-admin/load-styles.php?c=0&dir=ltr&load[chunk_0]=dashicons,admin-bar,buttons,media-views,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menu&load[chunk_1]=s,wp-pointer,widgets,site-icon,l10n,wp-auth-check&ver=6.1
+1	1	1	0	0	27791226	0	0	27791226	0	0	6067	/index.php/author/admin_q9e47rgg/feed/
+1	1	1	0	0	27791097	0	0	27791097	0	0	22256	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-24&customize_autosaved=on
+1	4	0	0	0	27791398	0	0	27789732	0	0	692380	/wp-admin/load-styles.php?c=1&dir=ltr&load[chunk_0]=dashicons,admin-bar,wp-components,wp-widgets,wp-block-editor,wp-nux,wp-reusable-blocks,wp-editor,common,forms,wp-reset-editor-st&load[chunk_1]=yles,wp-block-library,wp-editor-classic-layout-styles,wp-block-library-theme,wp-edit-blocks,wp-edit-widgets,wp-format-library,ad&load[chunk_2]=min-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets,site-icon,l10n,buttons,wp-auth-che&load[chunk_3]=ck,media-views&ver=6.0.3
+1	1	0	0	0	27791232	0	0	27791232	0	0	11385	/wp-admin/options-reading.php
+1	1	0	0	0	27789193	0	0	27789193	0	0	5068	/wp-content/uploads/2022/10/uriwrplv.jpg
+1	1	0	0	0	27791226	0	0	27791226	0	0	1261	/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/cpi-cua-tphcm-tang-045-trong-thang-10/&format=xml
+1	1	0	0	0	27791226	0	0	27791226	0	0	1275	/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/lap-ke-hoach-tiem-vac-xin-covid-19-cho-tre-6-thang-tuoi/
+1	1	1	0	0	27791098	0	0	27791098	0	0	22272	/?customize_changeset_uuid=ab964550-acef-4a29-9eb4-763aae1b8469&customize_theme=newsment&customize_messenger_channel=preview-28&customize_autosaved=on
+1	3	0	0	0	27790577	0	0	27789728	0	0	1533	/wp-includes/css/dist/edit-post/classic.min.css?ver=6.0.3
+1	10	0	0	0	27790414	0	0	27789717	0	0	8900	/index.php/wp-json/wp/v2/taxonomies/category?context=edit&_locale=user
+1	21	0	1	4	27791442	27789851	27788969	27789216	27789851	27788689	16168	/wp-includes/wlwmanifest.xml
+1	1	0	0	0	27791278	0	0	27791278	0	0	0	/wp-cron.php?doing_wp_cron=1667365089.1720159053802490234375
+1	4	0	0	0	27791338	0	0	27791236	0	0	24	/wp-json/wp/v2/templates?context=edit&post_type=post&per_page=100&_locale=user
+1	26	0	0	0	27791389	0	0	27789141	0	0	67564	/wp-content/themes/covernews/assets/script.js?ver=6.0.3
+1	1	0	0	0	27791421	0	0	27791421	0	0	1664	/wp-includes/js/tinymce/plugins/compat3x/plugin.min.js?ver=49110-20201110
+1	8	0	0	0	27791225	0	0	27789136	0	0	10120	/wp-includes/js/admin-bar.min.js?ver=6.0.3
+1	1	0	0	0	27789900	0	0	27789900	0	0	0	/wp-cron.php?doing_wp_cron=1667282417.8414111137390136718750
+1	0	0	0	12	0	0	27791442	0	0	27791226	0	/sitemap.ashx
+1	1	0	0	0	27791338	0	0	27791338	0	0	0	/wp-cron.php?doing_wp_cron=1667368704.4522340297698974609375
+1	1	0	0	0	27791447	0	0	27791447	0	0	4650	/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2
+1	3	0	0	0	27790695	0	0	27789141	0	0	13944	/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.1
+1	1	0	0	0	27789715	0	0	27789715	0	0	3567	/wp-includes/js/imgareaselect/jquery.imgareaselect.min.js?ver=6.0.3
+1	1	0	0	0	27789141	0	0	27789141	0	0	241278	/wp-content/themes/newsment/screenshot.png?ver=1.0.0
+1	1	0	0	0	27791398	0	0	27791398	0	0	530	/wp-includes/js/api-request.min.js?ver=6.1
+1	1	1	0	0	27791226	0	0	27791226	0	0	486	/index.php/2022/11/01/so-hoa-cac-di-san-van-hoa-va-chuyen-doi-so-trong-nganh-du-lich/feed/
+1	5	0	0	0	27791442	0	0	27791339	0	0	6515	/wp-json/oembed/1.0/embed?url=https://freedays.online/lap-ke-hoach-tiem-vac-xin-covid-19-cho-tre-6-thang-tuoi/&format=xml
+1	1	1	0	0	27791094	0	0	27791094	0	0	22136	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-2&customize_autosaved=on
+1	1	0	0	0	27791421	0	0	27791421	0	0	465	/wp-includes/js/dist/deprecated.min.js?ver=6c963cb9494ba26b77eb
+1	31	0	0	0	27791442	0	0	27790201	0	0	248000	/wp-content/uploads/2022/11/biamatepadSE.jpg
+1	1	0	0	0	27791338	0	0	27791338	0	0	0	/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=huaweu&number=20
+1	1	0	0	0	27791398	0	0	27791398	0	0	3458	/wp-includes/js/media-editor.min.js?ver=6.1
+1	1	0	0	0	27790366	0	0	27790366	0	0	11398	/wp-admin/admin-ajax.php?action=imgedit-preview&_ajax_nonce=8155a4fc65&postid=40&rand=95104
+1	29	0	0	0	27791442	0	0	27790412	0	0	198882	/wp-content/uploads/2022/11/tiemvacxinchotre-150x150.jpg
+1	9	0	0	0	27791205	0	0	27790143	0	0	31098	/index.php/wp-json/wp/v2/widgets?context=edit&per_page=100&_embed=about&_locale=user
+1	3	0	0	0	27790368	0	0	27790356	0	0	5338	/index.php/wp-json/wp/v2/posts/38?_locale=user
+1	2	0	0	0	27791436	0	0	27789136	0	0	7973	/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105
+1	12	0	0	0	27791442	0	0	27791415	0	0	363888	/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+1	27	0	0	0	27791389	0	0	27789135	0	0	820155	/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+1	4	0	0	0	27791436	0	0	27789141	0	0	17140	/wp-includes/js/dist/vendor/react.min.js?ver=17.0.1
+1	1	0	0	0	27791232	0	0	27791232	0	0	12465	/wp-admin/options-discussion.php
+1	1	0	0	0	27791403	0	0	27791403	0	0	63914	/wp-content/uploads/2022/10/anhheader-1024x640.jpg
+1	29	0	0	0	27791442	0	0	27790464	0	0	197316	/wp-content/uploads/2022/11/sohoadulich-150x150.jpg
+1	1	0	0	0	27789138	0	0	27789138	0	0	162290	/wp-content/themes/twentytwentytwo/screenshot.png?ver=1.2
+1	5	0	0	0	27791422	0	0	27791236	0	0	423	/wp-json/wp/v2/tags?context=view&per_page=10&orderby=count&order=desc&hide_empty=true&_fields=id,name,count&_locale=user
+1	2	2	0	0	27790420	0	0	27789240	0	0	18623	/index.php/sample-page/
+1	1	1	0	0	27791095	0	0	27791095	0	0	22177	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-6&customize_autosaved=on
+1	0	0	1	1	0	27789850	27789850	0	27789850	27789850	0	/public/_ignition/health-check/
+1	1	1	0	0	27790714	0	0	27790714	0	0	21179	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-11&customize_autosaved=on
+1	1	0	0	0	27788628	0	0	27788628	0	0	64	/.well-known/acme-challenge/NB2DXM_3OX6NKWVY1OKYXJH-1-SXDR1_
+1	1	0	0	0	27791421	0	0	27791421	0	0	39854	/wp-includes/js/dist/editor.min.js?ver=c9102d37531f38da0681
+1	3	0	0	0	27791229	0	0	27789141	0	0	723834	/wp-content/themes/newsment/screenshot.png
+1	1	0	0	0	27789390	0	0	27789390	0	0	0	/wp-cron.php?doing_wp_cron=1667251808.4844629764556884765625
+1	1	1	1	14	27791295	27789193	27791127	27791295	27789193	27789193	626	/wp-json/wp/v2/users/
+1	3	0	0	0	27791229	0	0	27789136	0	0	5883	/wp-admin/js/site-health.min.js?ver=6.0.3
+1	1	0	0	0	27791339	0	0	27791339	0	0	0	/wp-cron.php?doing_wp_cron=1667368750.7380900382995605468750
+1	2	0	0	0	27791234	0	0	27791230	0	0	39302	/wp-admin/options-general.php
+1	1	0	0	0	27790361	0	0	27790361	0	0	302	/index.php/wp-json/wp-block-editor/v1/url-details?url=https://www.24h.com.vn/nguy-co-bung-phat-dich-sot-xuat-huyet-c62e3128.html&_locale=user
+1	1	0	0	0	27789141	0	0	27789141	0	0	9445	/wp-admin/themes.php?page=covernews-details
+1	1	1	0	0	27790714	0	0	27790714	0	0	21158	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-15&customize_autosaved=on
+1	1	0	0	0	27789136	0	0	27789136	0	0	3676	/wp-includes/js/wplink.min.js?ver=6.0.3
+1	0	0	1	0	0	27790464	0	0	27790464	0	0	/wp-admin/post.php?post=46&action=edit&meta-box-loader=1&meta-box-loader-nonce=4d77dc1693&_locale=user
+1	991	0	0	6	27791463	0	27791201	27789136	0	27790564	185124	/wp-admin/admin-ajax.php
+1	1	0	0	0	27789135	0	0	27789135	0	0	1705	/wp-login.php?redirect_to=https://freedays.online/wp-admin/&reauth=1
+1	1	0	0	0	27791296	0	0	27791296	0	0	0	/wp-cron.php?doing_wp_cron=1667366215.2521929740905761718750
+1	4	4	0	0	27791226	0	0	27790242	0	0	44935	/index.php/2022/11/01/huawei-ra-mat-matepad-se-10-4-snapdragon-680-pin-5100mah/
+1	1	0	0	0	27789136	0	0	27789136	0	0	102736	/wp-admin/load-styles.php?c=0&dir=ltr&load[chunk_0]=dashicons,admin-bar,site-health,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-poi&load[chunk_1]=nter,widgets,site-icon,l10n,buttons,wp-auth-check&ver=6.0.3
+1	1	0	0	0	27789958	0	0	27789958	0	0	0	/wp-cron.php?doing_wp_cron=1667285900.2609651088714599609375
+1	2	0	0	0	27791436	0	0	27791421	0	0	5502	/wp-admin/js/inline-edit-post.min.js?ver=6.1
+1	3	0	0	0	27790695	0	0	27789141	0	0	3192	/wp-admin/js/color-picker.min.js?ver=6.0.3
+1	1	1	0	0	27790696	0	0	27790696	0	0	17377	/index.php/category/xa-hoi/?customize_changeset_uuid=e838132a-25b4-41d7-a911-122ea1de1f8e&customize_theme=newsment&customize_messenger_channel=preview-6&customize_autosaved=on
+1	3	0	0	0	27790413	0	0	27790380	0	0	5483	/index.php/wp-json/wp/v2/posts/42?_locale=user
+1	1	0	0	0	27791338	0	0	27791338	0	0	0	/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=huaw&number=20
+1	1	1	0	0	27790714	0	0	27790714	0	0	21185	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-19&customize_autosaved=on
+1	1	1	0	0	27790714	0	0	27790714	0	0	21185	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-20&customize_autosaved=on
+1	1	1	0	0	27791226	0	0	27791226	0	0	441	/index.php/2022/11/01/cpi-cua-tphcm-tang-045-trong-thang-10/feed/
+1	5	0	0	0	27789134	0	0	27789030	0	0	8910	/wp-content/themes/twentytwentytwo/style.css?ver=1.2
+1	1	0	0	0	27789138	0	0	27789138	0	0	7723	/wp-includes/js/backbone.min.js?ver=1.4.1
+1	2	0	0	0	27791337	0	0	27790413	0	0	104132	/wp-admin/post.php?post=42&action=edit&message=4
+1	0	0	0	12	0	0	27791442	0	0	27791226	0	/sitemap
+1	2	0	0	0	27789165	0	0	27789141	0	0	5172	/wp-includes/js/dist/redux-routine.min.js?ver=5156478c032ea85a2bbdceeb7a43b0c1
+1	1	0	0	0	27791421	0	0	27791421	0	0	4577	/wp-includes/js/dist/dom.min.js?ver=133a042fbbef48f38107
+1	1	0	0	0	27791421	0	0	27791421	0	0	576	/wp-includes/js/dist/token-list.min.js?ver=f2cf0bb3ae80de227e43
+1	5	0	0	0	27789134	0	0	27789030	0	0	8930	/wp-includes/blocks/navigation/style.min.css?ver=6.0.3
+1	5	5	0	0	27791442	0	0	27791339	0	0	7466	/tag/gia_xang_dau_tang/feed/
+1	2	0	0	0	27791436	0	0	27791421	0	0	202980	/wp-admin/load-styles.php?c=0&dir=ltr&load[chunk_0]=dashicons,admin-bar,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets&load[chunk_1]=,site-icon,l10n,buttons,wp-auth-check&ver=6.1
+1	5	5	0	0	27791442	0	0	27791339	0	0	46194	/category/kinh-te/
+1	2	0	0	0	27789165	0	0	27789141	0	0	53004	/wp-includes/js/plupload/moxie.min.js?ver=1.3.5
+1	6	6	0	0	27791442	0	0	27791234	0	0	66819	/elon-musk-hien-tai-la-giam-doc-duy-nhat-cua-twitter/
+1	3	0	0	0	27790695	0	0	27789141	0	0	192045	/wp-includes/js/codemirror/csslint.js?ver=1.0.5
+1	26	0	0	0	27791389	0	0	27789141	0	0	15322	/wp-content/themes/covernews/assets/fixed-header-script.js?ver=6.0.3
+1	1	0	0	0	27790201	0	0	27790201	0	0	0	/wp-cron.php?doing_wp_cron=1667300468.9546420574188232421875
+1	2	0	0	0	27791436	0	0	27791421	0	0	5762	/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.2
+1	1	0	0	0	27789136	0	0	27789136	0	0	2880	/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.1
+1	1	1	0	0	27790714	0	0	27790714	0	0	21161	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-24&customize_autosaved=on
+1	4	0	0	0	27791229	0	0	27789141	0	0	186905	/wp-admin/load-scripts.php?c=1&load[chunk_0]=jquery-core,jquery-migrate,utils,regenerator-runtime,wp-polyfill,wp-hooks&ver=6.0.3
+1	5	5	0	0	27791442	0	0	27791339	0	0	2360	/cpi-cua-tphcm-tang-045-trong-thang-10/feed/
+1	13380	0	0	0	27791297	0	0	27789216	0	0	5351799	/xmlrpc.php
+1	1	0	0	0	27789729	0	0	27789729	0	0	0	/wp-cron.php?doing_wp_cron=1667272193.4483799934387207031250
+1	5	0	0	0	27791442	0	0	27791339	0	0	1560	/wp-json/wp/v2/tags/9
+1	1	0	0	0	27791338	0	0	27791338	0	0	0	/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=HUa&number=20
+1	1	0	0	0	27791447	0	0	27791447	0	0	302	/wp-json/wp/v2/taxonomies?context=view&_locale=user
+1	1	0	0	0	27791421	0	0	27791421	0	0	6472	/wp-includes/js/dist/format-library.min.js?ver=57876a359eac66da202b
+1	3	0	0	0	27790175	0	0	27789729	0	0	155532	/wp-admin/post.php?post=16&action=edit&message=4
+1	3	0	0	0	27790695	0	0	27789141	0	0	51599	/wp-admin/load-scripts.php?c=1&load[chunk_0]=heartbeat,customize-widgets,mce-view,imgareaselect&ver=6.0.3
+1	3	3	0	0	27790696	0	0	27790696	0	0	2643	/?customize_autosaved=on&customize_changeset_uuid=b10b9a9f-6c22-4f95-80fd-41717381fc6d&customize_preview_nonce=094e9d9aba
+1	1	1	0	0	27790714	0	0	27790714	0	0	21019	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-28&customize_autosaved=on
+1	4	4	1	0	27791229	27789135	0	27789136	27789135	0	81300	/wp-admin/
+1	5	5	0	0	27791442	0	0	27791339	0	0	45354	/tag/vaccine_covid_19/
+1	1	0	0	0	27791421	0	0	27791421	0	0	489	/wp-includes/js/dist/is-shallow-equal.min.js?ver=20c2b06ecf04afb14fee
+1	2	2	0	0	27790696	0	0	27790696	0	0	1786	/index.php/category/xa-hoi/?customize_autosaved=on&customize_changeset_uuid=e838132a-25b4-41d7-a911-122ea1de1f8e&customize_preview_nonce=094e9d9aba
+1	5	5	0	0	27791442	0	0	27791339	0	0	45722	/tag/twitter/
+1	1	0	0	0	27789686	0	0	27789686	0	0	2749	/wp-admin/js/inline-edit-post.min.js?ver=6.0.3
+1	3	0	0	0	27790695	0	0	27789141	0	0	3342	/wp-admin/js/widgets/media-gallery-widget.min.js?ver=6.0.3
+1	5	0	0	0	27791442	0	0	27791339	0	0	6318	/wp-json/oembed/1.0/embed?url=https://freedays.online/huawei-ra-mat-matepad-se-10-4-snapdragon-680-pin-5100mah/&format=xml
+1	3	0	0	0	27790695	0	0	27789135	0	0	7062	/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+1	1	0	0	0	27791317	0	0	27791317	0	0	0	/wp-cron.php?doing_wp_cron=1667367441.3683559894561767578125
+1	1	0	0	0	27790319	0	0	27790319	0	0	0	/wp-cron.php?doing_wp_cron=1667307597.1634390354156494140625
+1	12	0	0	0	27791442	0	0	27790199	0	0	95570	/wp-content/uploads/2022/11/matepadSE.jpg
+1	0	0	1	1	0	27789851	27789851	0	27789851	27789851	0	/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
+1	5	0	0	0	27791442	0	0	27791339	0	0	1325	/wp-json/wp/v2/users/1
+1	1	0	0	0	27789220	0	0	27789220	0	0	31456	/wp-content/uploads/2022/10/rounded-in-photoretrica-1-150x150.png
+1	1	1	0	0	27790714	0	0	27790714	0	0	21153	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-33&customize_autosaved=on
+1	0	0	2	28	0	27791357	27791436	0	27789920	27788777	0	/favicon.ico
+1	1	0	0	4	27790167	0	27788969	27790167	0	27788689	814	/xmlrpc.php?rsd
+1	2	0	0	0	27790464	0	0	27790414	0	0	3596	/index.php/wp-json/wp/v2/posts/46?_locale=user
+1	26	0	0	0	27791389	0	0	27789141	0	0	111702	/wp-content/themes/covernews/assets/marquee/jquery.marquee.js?ver=6.0.3
+1	1	0	0	0	27791421	0	0	27791421	0	0	14492	/wp-admin/edit.php?post_status=draft&post_type=page
+1	8	0	0	0	27791442	0	0	27790412	0	0	83184	/wp-content/uploads/2022/11/biatiemvaccine-300x158.jpg
+1	10	0	0	0	27790414	0	0	27789715	0	0	100468	/index.php/wp-json/wp/v2/block-patterns/patterns?_locale=user
+1	2	0	0	0	27789165	0	0	27789141	0	0	1098	/wp-includes/js/dist/priority-queue.min.js?ver=efad6460ae6b28406d39866cb10731e0
+1	2	0	0	0	27790695	0	0	27789138	0	0	4752	/wp-includes/js/customize-base.min.js?ver=6.0.3
+1	1	0	0	0	27789135	0	0	27789135	0	0	2112	/wp-admin/js/user-profile.min.js?ver=6.0.3
+1	2	0	0	0	27789165	0	0	27789141	0	0	930	/wp-includes/js/dist/deprecated.min.js?ver=96593d5d272d008fbcb6912fa0b86778
+1	3	0	0	0	27791337	0	0	27790413	0	0	158522	/wp-admin/post.php?post=42&action=edit
+1	29	0	0	0	27791442	0	0	27790464	0	0	330513	/wp-content/uploads/2022/11/sohoadulich.jpg
+1	1	1	0	0	27791226	0	0	27791226	0	0	2225	/index.php/category/kinh-te/feed/
+1	1	0	0	0	27791326	0	0	27791326	0	0	10552	/wp-admin/term.php?taxonomy=post_tag&tag_ID=11&post_type=post&wp_http_referer=/wp-admin/edit-tags.php%3Ftaxonomy%3Dpost_tag
+1	1	0	0	0	27789214	0	0	27789214	0	0	4490	/wp-content/uploads/2022/10/xocbebtk13.jpg
+1	3	3	0	0	27791226	0	0	27791181	0	0	28757	/index.php/category/xa-hoi/
+1	2	0	0	0	27789165	0	0	27789141	0	0	2946	/wp-includes/js/dist/server-side-render.min.js?ver=9aa1118308e1a7ca5fbe4b842b1ba63e
+1	1	0	0	0	27789135	0	0	27789135	0	0	187	/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+1	0	0	0	12	0	0	27791442	0	0	27791226	0	/sitemap_index.xml.gz
+1	3	0	0	0	27790695	0	0	27789141	0	0	7293	/wp-includes/js/customize-preview-widgets.min.js?ver=6.0.3
+1	1	1	0	0	27790695	0	0	27790695	0	0	20466	/?customize_changeset_uuid=b10b9a9f-6c22-4f95-80fd-41717381fc6d&customize_theme=newsment&customize_messenger_channel=preview-1&customize_autosaved=on
+1	1	0	0	0	27791226	0	0	27791226	0	0	1230	/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/cpi-cua-tphcm-tang-045-trong-thang-10/
+1	1	0	0	0	27791421	0	0	27791421	0	0	14674	/wp-admin/edit.php?post_status=publish&post_type=page
+1	1	0	0	0	27790499	0	0	27790499	0	0	0	/wp-cron.php?doing_wp_cron=1667318352.0039389133453369140625
+1	25	0	0	0	27791441	0	0	27789141	0	0	627400	/wp-content/themes/covernews/assets/font-awesome-v6/webfonts/fa-regular-400.woff2
+1	3	0	0	0	27790695	0	0	27789141	0	0	9000	/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.1
+1	1	0	0	0	27791447	0	0	27791447	0	0	267	/wp-json/wp/v2/users?context=view&per_page=100&has_published_posts[0]=post&_locale=user
+1	7	0	0	0	27791422	0	0	27791236	0	0	8561	/wp-json/wp/v2/taxonomies?context=edit&per_page=100&_locale=user
+1	1	0	0	0	27789137	0	0	27789137	0	0	0	/wp-cron.php?doing_wp_cron=1667236678.3956720829010009765625
+1	8	0	0	0	27791201	0	0	27789732	0	0	5509	/index.php/wp-json/wp/v2/sidebars?per_page=100&_locale=user
+1	1	1	0	0	27790713	0	0	27790713	0	0	21219	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-2&customize_autosaved=on
+1	2	0	0	0	27789165	0	0	27789141	0	0	318668	/wp-includes/js/dist/block-library.min.js?ver=eaf9a7d8b936d26afead09af3f82b117
+1	1	1	0	0	27791094	0	0	27791094	0	0	22125	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-0
+1	1	0	0	0	27791398	0	0	27791398	0	0	2989	/wp-includes/js/clipboard.min.js?ver=2.0.11
+1	1	0	0	0	27789136	0	0	27789136	0	0	2954	/wp-includes/js/clipboard.min.js?ver=2.0.10
+1	5	5	0	0	27791442	0	0	27791339	0	0	51062	/author/admin_q9e47rgg/
+1	3	0	0	0	27790695	0	0	27789141	0	0	5655	/wp-admin/js/widgets/text-widgets.min.js?ver=6.0.3
+1	1	0	0	0	27791447	0	0	27791447	0	0	1114	/wp-admin/js/widgets/media-gallery-widget.min.js?ver=6.1
+1	1	0	0	0	27791421	0	0	27791421	0	0	1456	/wp-includes/js/dist/style-engine.min.js?ver=10341d6e6decffab850e
+1	6	0	0	0	27791442	0	0	27791428	0	0	7368	/wp-includes/js/comment-reply.min.js?ver=6.1
+1	2	0	0	0	27789165	0	0	27789141	0	0	4100	/wp-includes/js/dist/autop.min.js?ver=21d1d6c005241b908b592f52ad684a28
+1	1	0	0	0	27788628	0	0	27788628	0	0	64	/.well-known/acme-challenge/LEKVIHIDA22-H-YOL5Y8V0UT65_4QZBQ
+1	4937	0	6	0	27791489	27791316	0	27789193	27789136	0	32597969	/wp-login.php
+1	1	0	0	0	27789193	0	0	27789193	0	0	0	/wp-cron.php?doing_wp_cron=1667239986.3502359390258789062500
+1	0	0	0	13	0	0	27791442	0	0	27790188	0	/sitemap_index.xml
+1	5	0	0	0	27791442	0	0	27791339	0	0	1620	/wp-json/wp/v2/categories/6
+1	7	0	0	0	27791442	0	0	27790200	0	0	38332	/wp-content/uploads/2022/11/biamatepadSE-150x150.jpg
+1	5	0	0	0	27791442	0	0	27791339	0	0	1510	/wp-json/wp/v2/categories/4
+1	3	0	0	0	27790695	0	0	27789141	0	0	2004	/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+1	5	0	0	0	27791442	0	0	27791339	0	0	1595	/wp-json/wp/v2/categories/3
+1	2	0	0	0	27789165	0	0	27789141	0	0	2936	/wp-includes/js/dist/shortcode.min.js?ver=d6964e945049b6190adc8770cda168c4
+1	5	0	0	0	27791442	0	0	27791339	0	0	1465	/wp-json/wp/v2/categories/2
+1	1	0	0	0	27791158	0	0	27791158	0	0	0	/wp-cron.php?doing_wp_cron=1667357900.9080700874328613281250
+1	1	0	0	0	27791339	0	0	27791339	0	0	0	/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=E&number=20
+1	1	0	0	0	27791447	0	0	27791447	0	0	1758	/wp-admin/js/widgets/custom-html-widgets.min.js?ver=6.1
+1	1	1	0	0	27790714	0	0	27790714	0	0	21159	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-6&customize_autosaved=on
+1	0	0	0	1	0	0	27788998	0	0	27788998	0	/2022/10/31/hello-world/
+1	4	0	0	0	27791229	0	0	27789141	0	0	2848	/wp-admin/load-scripts.php?c=1&load[chunk_0]=hoverIntent&ver=6.0.3
+1	1	1	0	0	27790696	0	0	27790696	0	0	17637	/index.php/category/suc-khoe/?customize_changeset_uuid=e838132a-25b4-41d7-a911-122ea1de1f8e&customize_theme=newsment&customize_messenger_channel=preview-5&customize_autosaved=on
+1	2	0	0	0	27791403	0	0	27789203	0	0	84624	/wp-content/uploads/2022/10/rounded-in-photoretrica.png
+1	1	0	0	0	27791226	0	0	27791226	0	0	269	/index.php/wp-json/wp/v2/users/1
+1	2	0	0	0	27791436	0	0	27791398	0	0	1716	/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664
+1	1	0	0	0	27788628	0	0	27788628	0	0	64	/.well-known/acme-challenge/P3JPXYQFM0WAWDRNW4IA6YMOFAQADIFQ
+1	1	0	0	0	27791234	0	0	27791234	0	0	11022	/wp-admin/options-privacy.php
+1	1	0	0	0	27791398	0	0	27791398	0	0	929	/wp-admin/js/media.min.js?ver=6.1
+1	2	0	0	0	27789165	0	0	27789141	0	0	2140	/wp-includes/js/dist/preferences.min.js?ver=a9b6f95c63bb642d0be7c3d1d208b302
+1	1	1	0	0	27789193	0	0	27789193	0	0	16403	/?customize_changeset_uuid=e5a60b43-1e5b-4c32-9034-022c52e99fb3&customize_theme=newsment&customize_messenger_channel=preview-4&customize_autosaved=on
+1	1	1	0	0	27789232	0	0	27789232	0	0	16267	/?customize_changeset_uuid=6b14a841-f7bf-4bb9-a8d3-3a8c595e4e6b&customize_theme=newsment&customize_messenger_channel=preview-13&customize_autosaved=on
+1	12	0	0	9	27790464	0	27790573	27789193	0	27790530	7155	/wp-admin/async-upload.php
+1	1	0	0	0	27791398	0	0	27791398	0	0	1086	/wp-includes/js/wp-backbone.min.js?ver=6.1
+1	1	0	0	0	27790018	0	0	27790018	0	0	0	/wp-cron.php?doing_wp_cron=1667289538.1574800014495849609375
+1	26	0	0	0	27791389	0	0	27789141	0	0	12890	/wp-content/themes/covernews/assets/slick/css/slick.css?ver=6.0.3
+1	1	0	0	0	27791337	0	0	27791337	0	0	70	/wp-json/wp/v2/tags?context=view&per_page=20&orderby=count&order=desc&_fields=id,name&search=Chuy%E1%BB%83n %C4%91%E1%BB%95i s%E1%BB%91&_locale=user
+1	1	0	0	0	27789136	0	0	27789136	0	0	568	/wp-admin/admin-ajax.php?action=wp-compression-test&test=1&_ajax_nonce=80a8ea4143&1667236618699
+1	1	0	0	0	27789193	0	0	27789193	0	0	7536	/wp-includes/images/spinner-2x.gif
+1	26	0	0	0	27791389	0	0	27789141	0	0	287444	/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3
+1	1	0	0	0	27791338	0	0	27791338	0	0	0	/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=hua&number=20
+1	4	0	0	0	27791339	0	0	27789739	0	0	4912	/wp-includes/js/comment-reply.min.js?ver=6.0.3
+1	1	0	0	0	27791421	0	0	27791421	0	0	29331	/wp-includes/js/dist/edit-post.min.js?ver=2baffbeec6cbe5171dee
+1	1	0	0	0	27791236	0	0	27791236	0	0	6	/wp-json/wp/v2/tags?context=view&per_page=20&orderby=count&order=desc&_fields=id,name&search=dulich&_locale=user
+1	1	0	0	0	27791421	0	0	27791421	0	0	2755	/wp-includes/js/dist/redux-routine.min.js?ver=c9ea6c0df793258797e6
+1	1	1	0	0	27791226	0	0	27791226	0	0	474	/index.php/2022/11/01/elon-musk-hien-tai-la-giam-doc-duy-nhat-cua-twitter/feed/
+1	29	0	0	0	27791442	0	0	27790413	0	0	231797	/wp-content/uploads/2022/11/tiemvacxinchotre.jpg
+1	1	0	0	0	27791337	0	0	27791337	0	0	0	/wp-cron.php?doing_wp_cron=1667368646.5518620014190673828125
+1	1	0	0	0	27791229	0	0	27791229	0	0	109640	/wp-admin/load-styles.php?c=1&dir=ltr&load[chunk_0]=dashicons,admin-bar,buttons,media-views,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menu&load[chunk_1]=s,wp-pointer,widgets,site-icon,l10n,wp-auth-check&ver=6.0.3
+1	1	0	0	0	27791447	0	0	27791447	0	0	1885	/wp-admin/js/widgets/text-widgets.min.js?ver=6.1
+1	1	1	0	0	27789218	0	0	27789218	0	0	16351	/?customize_changeset_uuid=e5a60b43-1e5b-4c32-9034-022c52e99fb3&customize_theme=newsment&customize_messenger_channel=preview-8&customize_autosaved=on
+1	1	1	0	0	27790759	0	0	27790759	0	0	22187	/?customize_changeset_uuid=116a63c9-4246-4de0-a8e9-c12802aa76e9&customize_theme=newsment&customize_messenger_channel=preview-4&customize_autosaved=on
+1	1	0	0	0	27791421	0	0	27791421	0	0	2053	/wp-admin/js/postbox.min.js?ver=6.1
+1	7	0	0	0	27790464	0	0	27789729	0	0	1834	/index.php/wp-json/wp/v2/categories?context=edit&slug=uncategorized&_locale=user
+1	4	0	0	0	27791447	0	0	27789732	0	0	233571	/wp-admin/widgets.php
+1	3	0	0	0	27790695	0	0	27789141	0	0	8943	/wp-content/themes/covernews/inc/customizer/css/customizer.css?ver=1.0
+1	1	0	0	0	27789136	0	0	27789136	0	0	11550	/wp-admin/load-scripts.php?c=0&load[chunk_0]=hoverIntent,regenerator-runtime,wp-polyfill,wp-hooks&ver=6.0.3
+1	1	0	0	0	27789138	0	0	27789138	0	0	1086	/wp-includes/js/wp-backbone.min.js?ver=6.0.3
+1	10	0	0	0	27791442	0	0	27791415	0	0	4830	/wp-content/themes/covernews/assets/slick/css/slick.css?ver=6.1
+1	1	0	0	0	27791226	0	0	27791226	0	0	1337	/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/dich-sot-xuat-huyet-dien-bien-phuc-tap-xuat-hien-nhieu-o-dich-tai-ha-noi/&format=xml
+1	2	2	0	0	27788982	0	0	27788946	0	0	608	http://freedays.online:80/
+1	1	0	0	0	27789729	0	0	27789729	0	0	820	/index.php/wp-json/wp/v2/media/18?context=edit&_locale=user
+1	1	1	0	0	27791106	0	0	27791106	0	0	22451	/?customize_changeset_uuid=d783a8f6-f5b2-496c-b3c9-34852b5d6373&customize_theme=newsment&customize_messenger_channel=preview-0
+1	1	1	0	0	27791096	0	0	27791096	0	0	22177	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-12&customize_autosaved=on
+1	1	0	0	0	27790319	0	0	27790319	0	0	51839	/wp-admin/post.php?post=34&action=edit&message=4
+1	10	0	0	0	27790414	0	0	27789734	0	0	60	/index.php/wp-json/wp/v2/tags?context=view&per_page=10&orderby=count&order=desc&hide_empty=true&_fields=id,name,count&_locale=user
+1	12	0	0	0	27791442	0	0	27790367	0	0	70929	/wp-content/uploads/2022/11/biasotxuathuyet.jpg
+1	1	1	0	0	27791100	0	0	27791100	0	0	22305	/?customize_changeset_uuid=4d854840-b8e3-4cc6-9726-aad2767d16d1&customize_theme=newsment&customize_messenger_channel=preview-31&customize_autosaved=on
+1	1	0	0	0	27791447	0	0	27791447	0	0	6491	/wp-admin/load-styles.php?c=0&dir=ltr&load[chunk_0]=editor-buttons,code-editor&ver=6.1
+1	1	0	0	0	27789124	0	0	27789124	0	0	0	/wp-cron.php?doing_wp_cron=1667235850.2269699573516845703125
+1	7	7	0	0	27791422	0	0	27791235	0	0	2535	/wp-json/?_fields=description,gmt_offset,home,name,site_icon,site_icon_url,site_logo,timezone_string,url&_locale=user
+1	1	0	0	0	27791421	0	0	27791421	0	0	3327	/wp-includes/js/quicktags.min.js?ver=6.1
+1	1	0	0	0	27789135	0	0	27789135	0	0	1947	/wp-admin/css/login.min.css?ver=6.0.3
+1	3	0	0	0	27790695	0	0	27789141	0	0	20841	/wp-includes/js/dist/widgets.min.js?ver=80e98954519d1dad7a91a2248dbc2cc9
+1	1	0	0	0	27791218	0	0	27791218	0	0	0	/wp-cron.php?doing_wp_cron=1667361497.2387309074401855468750
+1	2	0	0	0	27791327	0	0	27791321	0	0	26509	/wp-admin/edit-tags.php?taxonomy=post_tag
+1	1	0	0	0	27791421	0	0	27791421	0	0	159793	/wp-includes/js/dist/block-editor.min.js?ver=d39738cb7c1202964677
+1	1	0	0	0	27789136	0	0	27789136	0	0	24132	/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19
+1	1	1	0	0	27791096	0	0	27791096	0	0	22160	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-16&customize_autosaved=on
+1	1	1	0	0	27791226	0	0	27791226	0	0	6031	/index.php/feed/
+1	4	4	0	0	27791228	0	0	27791182	0	0	43494	/index.php/2022/11/
+1	2	0	0	0	27789165	0	0	27789141	0	0	16938	/wp-includes/js/dist/data.min.js?ver=6c1ab5799c4b061254d313d2d8d9fb87
+1	1	0	0	0	27791338	0	0	27791338	0	0	0	/wp-cron.php?doing_wp_cron=1667368686.8541290760040283203125
+1	5	5	0	0	27791442	0	0	27791339	0	0	50882	/2022/11/
+1	2	0	0	0	27791436	0	0	27791421	0	0	5358	/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.2
+1	1	0	0	0	27789136	0	0	27789136	0	0	2692	/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.1
+1	1	0	0	0	27790449	0	0	27790449	0	0	0	/wp-cron.php
+1	5	0	0	0	27791422	0	0	27791236	0	0	4230	/wp-json/wp/v2/taxonomies/post_tag?context=edit&_locale=user
+1	1	0	1	0	27791233	27791233	0	27791233	27791233	0	11804	/wp-admin/options-permalink.php
+1	1	0	0	0	27791236	0	0	27791236	0	0	6	/wp-json/wp/v2/tags?context=view&per_page=20&orderby=count&order=desc&_fields=id,name&search=DU&_locale=user
+1	1	1	0	0	27790564	0	0	27790564	0	0	18974	/?customize_changeset_uuid=ad19ac8d-3254-4d39-9283-170109b97c49&customize_theme=newsment&customize_messenger_channel=preview-2&customize_autosaved=on
+1	1	0	0	0	27791338	0	0	27791338	0	0	0	/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=Huawei Mate &number=20
+1	1	0	0	0	27791226	0	0	27791226	0	0	1582	/index.php/wp-json/wp/v2/posts/46
+1	29	0	0	0	27791442	0	0	27790176	0	0	161762	/wp-content/uploads/2022/11/biaelonmusktw.jpg
+1	31	0	2	6	27791442	27791155	27791183	27791192	27790122	27790122	2511	/robots.txt
+1	1	1	0	0	27789731	0	0	27789731	0	0	17321	/?customize_changeset_uuid=878ac675-8fcc-40ec-b4fe-18e790a01d40&customize_theme=newsment&customize_messenger_channel=preview-0
+1	1	0	0	0	27790200	0	0	27790200	0	0	790	/index.php/wp-json/wp/v2/media/28?context=view&_locale=user
+1	1	1	0	0	27791097	0	0	27791097	0	0	22228	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-21&customize_autosaved=on
+1	1	0	0	0	27791226	0	0	27791226	0	0	1744	/index.php/wp-json/wp/v2/posts/42
+1	1	0	0	0	27791226	0	0	27791226	0	0	1586	/index.php/wp-json/wp/v2/posts/38
+1	1	0	0	0	27789141	0	0	27789141	0	0	270772	/wp-content/themes/covernews/screenshot.png?ver=3.4.6
+1	1	0	0	0	27791226	0	0	27791226	0	0	1546	/index.php/wp-json/wp/v2/posts/34
+1	1	0	0	0	27791226	0	0	27791226	0	0	1271	/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/elon-musk-hien-tai-la-giam-doc-duy-nhat-cua-twitter/
+1	0	0	1	1	0	27791078	27791078	0	27791078	27791078	0	/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+1	4	0	0	0	27788640	0	0	27788640	0	0	348	/.well-known/acme-challenge/wrLFrJ2Sap_c9pJ76D3KNYy5FPVAxRhkkWngn8ELnmQ
+1	1	0	0	0	27791226	0	0	27791226	0	0	1323	/index.php/wp-json/wp/v2/posts/30
+1	1	0	0	0	27791226	0	0	27791226	0	0	1563	/index.php/wp-json/wp/v2/posts/26
+1	3	0	0	0	27791436	0	0	27791415	0	0	10908	/wp-includes/css/admin-bar.min.css?ver=6.1
+1	1	0	0	0	27791422	0	0	27791422	0	0	881	/wp-json/wp/v2/media/48?context=view&_locale=user
+1	3	3	0	0	27791226	0	0	27791181	0	0	29131	/index.php/category/suc-khoe/
+1	1	0	0	0	27791226	0	0	27791226	0	0	1466	/index.php/wp-json/wp/v2/posts/16
+1	3	0	0	0	27790356	0	0	27789686	0	0	42971	/wp-admin/edit-tags.php?taxonomy=category
+1	8	0	0	0	27791094	0	0	27789165	0	0	713600	/wp-admin/customize.php?url=https://freedays.online/
+1	2	0	0	0	27791436	0	0	27791398	0	0	7434	/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+1	1	0	0	0	27789795	0	0	27789795	0	0	0	/wp-cron.php?doing_wp_cron=1667276105.2991659641265869140625
+1	1	0	0	0	27789319	0	0	27789319	0	0	0	/wp-cron.php?doing_wp_cron=1667247582.0786058902740478515625
+1	1	1	0	0	27791097	0	0	27791097	0	0	22247	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-25&customize_autosaved=on
+1	0	0	0	4	0	0	27788969	0	0	27788689	0	/sito/wp-includes/wlwmanifest.xml
+1	1	0	0	0	27791421	0	0	27791421	0	0	11613	/wp-includes/js/dist/compose.min.js?ver=37228270687b2a94e518
+1	1	0	0	0	27791338	0	0	27791338	0	0	26	/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=gi%C3%A1 &number=20
+1	5	5	0	0	27791442	0	0	27791339	0	0	9458	/tag/vaccine_covid_19/feed/
+1	30	0	0	0	27791442	0	0	27790246	0	0	214950	/wp-content/uploads/2022/11/biagiaxangdautang-150x150.jpg
+1	5	5	0	0	27791442	0	0	27791339	0	0	8766	/tag/chuyen_doi_so_nganh_du_lich/feed/
+1	1	0	0	0	27789203	0	0	27789203	0	0	26001	/wp-content/uploads/2022/10/rounded-in-photoretrica-150x150.png
+1	1	1	0	0	27790696	0	0	27790696	0	0	17766	/index.php/category/cong-nghe/?customize_changeset_uuid=e838132a-25b4-41d7-a911-122ea1de1f8e&customize_theme=newsment&customize_messenger_channel=preview-3&customize_autosaved=on
+1	0	0	1	0	0	27790175	0	0	27790175	0	0	/wp-admin/post.php?post=1&action=trash&_wpnonce=4d1aa9f252
+1	1	0	0	0	27790464	0	0	27790464	0	0	0	/wp-cron.php?doing_wp_cron=1667316292.2213199138641357421875
+1	20	0	0	1	27791442	0	27790188	27791191	0	27790188	11555	/sitemap.xml
+1	2	0	0	0	27789165	0	0	27789141	0	0	958	/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.0.3
+1	3	0	0	0	27790695	0	0	27789141	0	0	10449	/wp-includes/js/customize-selective-refresh.min.js?ver=6.0.3
+1	1	0	0	0	27789136	0	0	27789136	0	0	530	/wp-includes/js/api-request.min.js?ver=6.0.3
+1	1	0	0	0	27791421	0	0	27791421	0	0	6718	/wp-includes/js/dist/block-directory.min.js?ver=000a47d4ebe2ceac3593
+1	3	0	0	0	27790577	0	0	27789728	0	0	1794	/wp-includes/css/dist/block-library/theme.min.css?ver=6.0.3
+1	4	0	0	0	27791229	0	0	27789136	0	0	7884	/wp-admin/js/svg-painter.js?ver=6.0.3
+1	4	4	0	0	27791226	0	0	27791155	0	0	39296	/index.php/category/kinh-te/
+1	1	0	0	0	27789138	0	0	27789138	0	0	101448	/wp-admin/load-styles.php?c=1&dir=ltr&load[chunk_0]=dashicons,admin-bar,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets&load[chunk_1]=,site-icon,l10n,buttons,wp-auth-check&ver=6.0.3
+1	1	0	0	0	27791421	0	0	27791421	0	0	447	/wp-includes/js/dist/blob.min.js?ver=a078f260190acf405764
+1	2	0	0	0	27788777	0	0	27788706	0	0	4437	/_autoindex/assets/js/tablesort.js
+1	0	0	12	0	0	27791337	0	0	27790239	0	0	/wp-admin/post.php?
+1	2	0	0	0	27791436	0	0	27791398	0	0	352	/wp-content/themes/covernews/assets/css/notice.css?ver=6.1
+1	1	1	0	0	27791094	0	0	27791094	0	0	22165	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-3&customize_autosaved=on
+1	1	0	0	0	27790368	0	0	27790368	0	0	0	/wp-cron.php?doing_wp_cron=1667310490.9739019870758056640625
+1	17	0	0	0	27791442	0	0	27789233	0	0	24888	/wp-content/uploads/2022/10/cropped-rounded-in-photoretrica-32x32.png
+1	2	0	0	0	27789165	0	0	27789141	0	0	788	/wp-includes/js/dist/html-entities.min.js?ver=c6385fb7cd9fdada1cf8892a545f8a26
+1	10	0	0	0	27790414	0	0	27789715	0	0	9590	/index.php/wp-json/wp/v2/templates?_locale=user
+1	1	0	0	0	27791447	0	0	27791447	0	0	767	/wp-json/wp/v2/media/10?context=view&_locale=user
+1	10	0	0	0	27790414	0	0	27789715	0	0	12280	/index.php/wp-json/wp/v2/taxonomies?context=edit&per_page=100&_locale=user
+1	1	0	0	0	27789136	0	0	27789136	0	0	18177	/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.4
+1	10	10	0	0	27790414	0	0	27789715	0	0	3140	/index.php/wp-json/?_fields=description,gmt_offset,home,name,site_icon,site_icon_url,site_logo,timezone_string,url&_locale=user
+1	2	0	0	0	27789165	0	0	27789141	0	0	4354	/wp-includes/js/plupload/wp-plupload.min.js?ver=6.0.3
+1	1	1	0	0	27791095	0	0	27791095	0	0	22162	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-7&customize_autosaved=on
+1	1	1	0	0	27790714	0	0	27790714	0	0	21175	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-12&customize_autosaved=on
+1	1	1	0	0	27790696	0	0	27790696	0	0	17649	/index.php/category/kinh-te/?customize_changeset_uuid=e838132a-25b4-41d7-a911-122ea1de1f8e&customize_theme=newsment&customize_messenger_channel=preview-4&customize_autosaved=on
+1	3	0	0	0	27790577	0	0	27789728	0	0	45588	/wp-includes/css/dist/block-editor/style.min.css?ver=6.0.3
+1	4	4	0	0	27791226	0	0	27790413	0	0	45459	/index.php/2022/11/01/lap-ke-hoach-tiem-vac-xin-covid-19-cho-tre-6-thang-tuoi/
+1	1	0	0	0	27791338	0	0	27791338	0	0	24	/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=S%E1%BB%91t&number=20
+1	1	0	0	0	27790367	0	0	27790367	0	0	824	/index.php/wp-json/wp/v2/media/39?context=edit&_locale=user
+1	10	0	0	0	27790414	0	0	27789715	0	0	1100	/index.php/wp-json/wp/v2/block-patterns/categories?_locale=user
+1	2	0	0	0	27791436	0	0	27791398	0	0	562	/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca
+1	5	5	0	0	27791442	0	0	27791339	0	0	53498	/cpi-cua-tphcm-tang-045-trong-thang-10/
+1	2	0	0	0	27790171	0	0	27789745	0	0	1500	/index.php/wp-json/wp/v2/media/20?context=view&_locale=user
+1	1	0	0	0	27791447	0	0	27791447	0	0	3952	/wp-json/wp/v2/widgets?context=edit&per_page=100&_embed=about&_locale=user
+1	14	0	0	0	27791442	0	0	27789276	0	0	517076	/wp-content/uploads/2022/10/cropped-rounded-in-photoretrica-192x192.png
+1	1	1	0	0	27789193	0	0	27789193	0	0	320	/?customize_changeset_uuid=e5a60b43-1e5b-4c32-9034-022c52e99fb3&customize_autosaved=on&customize_preview_nonce=33c3f4ec32
+1	1	1	0	0	27790714	0	0	27790714	0	0	21129	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-16&customize_autosaved=on
+1	1	0	0	0	27791447	0	0	27791447	0	0	6965	/wp-includes/js/dist/widgets.min.js?ver=ec7c547bc8a579c6061e
+1	13	0	0	0	27791442	0	0	27791415	0	0	55315	/wp-content/themes/covernews/assets/marquee/jquery.marquee.js?ver=6.1
+1	5	5	0	0	27791442	0	0	27791339	0	0	8666	/category/xa-hoi/feed/
+1	10	0	0	0	27790414	0	0	27789715	0	0	60	/index.php/wp-json/wp/v2/blocks?context=edit&per_page=100&_locale=user
+1	2	0	0	0	27790695	0	0	27789138	0	0	15072	/wp-admin/images/spinner-2x.gif
+1	0	0	0	3	0	0	27788969	0	0	27788689	0	/media/wp-includes/wlwmanifest.xml
+1	1	0	0	0	27790198	0	0	27790198	0	0	0	/wp-cron.php?doing_wp_cron=1667300288.0227499008178710937500
+1	1	0	0	0	27789135	0	0	27789135	0	0	596	/wp-admin/css/l10n.min.css?ver=6.0.3
+1	1	0	0	0	27791398	0	0	27791398	0	0	1078	/wp-includes/js/shortcode.min.js?ver=6.1
+1	0	0	0	2	0	0	27788727	0	0	27788724	0	/wp-admin/setup-config.php?step=1
+1	1	0	0	0	27790170	0	0	27790170	0	0	0	/wp-cron.php?doing_wp_cron=1667298635.3411860466003417968750
+1	1	1	0	0	27790714	0	0	27790714	0	0	21149	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-21&customize_autosaved=on
+1	5	0	0	0	27791442	0	0	27791339	0	0	6651	/wp-json/oembed/1.0/embed?url=https://freedays.online/dich-sot-xuat-huyet-dien-bien-phuc-tap-xuat-hien-nhieu-o-dich-tai-ha-noi/&format=xml
+1	3	0	0	0	27788976	0	0	27788706	0	0	3627	/_autoindex/assets/css/autoindex.css
+1	1	0	0	0	27791234	0	0	27791234	0	0	1533	/wp-admin/js/privacy-tools.min.js?ver=6.0.3
+1	5	0	0	0	27791442	0	0	27791339	0	0	6502	/wp-json/oembed/1.0/embed?url=https://freedays.online/gia-xang-dau-tiep-tuc-tang-trong-vong-hai-tuan-vua-qua/&format=xml
+1	2	0	0	0	27791436	0	0	27791398	0	0	13600	/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+1	1	0	0	0	27789136	0	0	27789136	0	0	6637	/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1
+1	0	0	1	0	0	27791232	0	0	27791232	0	0	/wp-admin/options.php
+1	2	0	0	0	27789165	0	0	27789141	0	0	424400	/wp-includes/js/tinymce/wp-tinymce.js?ver=49110-20201110
+1	1	0	0	0	27790448	0	0	27790448	0	0	0	/wp-cron.php?doing_wp_cron=1667315339.8135991096496582031250
+1	2	0	0	0	27790171	0	0	27789745	0	0	10700	/wp-content/uploads/2022/11/biaelonmusktw-150x150.jpg
+1	10	10	0	0	27791453	0	0	27791339	0	0	118067	/huawei-ra-mat-matepad-se-10-4-snapdragon-680-pin-5100mah/
+1	3	0	0	0	27791201	0	0	27789732	0	0	19509	/wp-admin/load-styles.php?c=1&dir=ltr&load[chunk_0]=editor-buttons,code-editor&ver=6.0.3
+1	1	0	0	0	27788628	0	0	27788628	0	0	64	/.well-known/acme-challenge/BLMDRFYOHRB5LGC43EK9QLUUGD48FZLK
+1	1	1	0	0	27790714	0	0	27790714	0	0	21160	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-25&customize_autosaved=on
+1	1	0	0	0	27791421	0	0	27791421	0	0	394	/wp-includes/js/dist/html-entities.min.js?ver=36a4a255da7dd2e1bf8e
+1	1	0	0	0	27791390	0	0	27791390	0	0	21	/wp-admin/upgrade.php?step=upgrade_db
+1	5	0	0	0	27789134	0	0	27789030	0	0	518195	/wp-content/themes/twentytwentytwo/assets/images/flight-path-on-transparent-d.png
+1	5	5	0	0	27791442	0	0	27791339	0	0	30915	/author/admin_q9e47rgg/feed/
+1	4	4	0	0	27791226	0	0	27790464	0	0	44244	/index.php/2022/11/01/so-hoa-cac-di-san-van-hoa-va-chuyen-doi-so-trong-nganh-du-lich/
+1	1	1	0	0	27791226	0	0	27791226	0	0	2634	/index.php/category/suc-khoe/feed/
+1	12	0	0	0	27791442	0	0	27790317	0	0	96120	/wp-content/uploads/2022/11/baiCPIphhcm.jpg
+1	5	5	0	0	27791442	0	0	27791339	0	0	2682	/dich-sot-xuat-huyet-dien-bien-phuc-tap-xuat-hien-nhieu-o-dich-tai-ha-noi/feed/
+1	1	0	0	0	27789138	0	0	27789138	0	0	282897	/wp-content/themes/twentytwentyone/screenshot.png?ver=1.6
+1	0	0	0	6	0	0	27791442	0	0	27791226	0	/jfhjkdshfdsfkjhdjfdjfhjskdhfeuwfewifhhdfjkfhkdjhfsdjkfhdjkfhdkfhdfhk
+1	13	0	0	0	27791442	0	0	27791415	0	0	16432	/wp-content/themes/covernews/assets/jquery-match-height/jquery.matchHeight.min.js?ver=6.1
+1	1	0	0	0	27791421	0	0	27791421	0	0	978	/wp-includes/js/dist/wordcount.min.js?ver=feb9569307aec24292f2
+1	2	0	0	0	27791436	0	0	27791421	0	0	1928	/wp-admin/js/tags-suggest.min.js?ver=6.1
+1	1	0	0	0	27790201	0	0	27790201	0	0	51821	/wp-admin/post.php?post=26&action=edit&message=4
+1	5	0	0	0	27791442	0	0	27791339	0	0	6424	/wp-json/oembed/1.0/embed?url=https://freedays.online/dich-sot-xuat-huyet-dien-bien-phuc-tap-xuat-hien-nhieu-o-dich-tai-ha-noi/
+1	1	0	0	0	27791421	0	0	27791421	0	0	119543	/wp-includes/js/tinymce/tinymce.min.js?ver=49110-20201110
+1	1	1	0	0	27790714	0	0	27790714	0	0	21123	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-29&customize_autosaved=on
+1	1	1	0	0	27790714	0	0	27790714	0	0	21148	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-30&customize_autosaved=on
+1	2	0	0	0	27791436	0	0	27791398	0	0	6804	/wp-includes/js/dist/url.min.js?ver=bb0ef862199bcae73aa7
+1	0	0	0	2	0	0	27789730	0	0	27789085	0	/security.txt
+1	2	0	0	0	27791436	0	0	27791398	0	0	986	/wp-includes/js/dist/escape-html.min.js?ver=03e27a7b6ae14f7afaa6
+1	2	0	0	0	27791436	0	0	27791398	0	0	1424	/wp-admin/load-scripts.php?c=0&load[chunk_0]=hoverIntent&ver=6.1
+1	0	0	0	12	0	0	27791442	0	0	27791226	0	/sitemap.xml.gz
+1	5	0	0	0	27791442	0	0	27791339	0	0	6300	/wp-json/oembed/1.0/embed?url=https://freedays.online/elon-musk-hien-tai-la-giam-doc-duy-nhat-cua-twitter/
+1	1	1	0	0	27790714	0	0	27790714	0	0	21087	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-34&customize_autosaved=on
+1	1	0	0	0	27791447	0	0	27791447	0	0	610	/wp-admin/js/widgets/media-audio-widget.min.js?ver=6.1
+1	1	1	0	0	27790695	0	0	27790695	0	0	20348	/?customize_changeset_uuid=d6119657-ef3a-44a3-8af6-f60660ef332c&customize_theme=newsment&customize_messenger_channel=preview-0
+1	1	0	0	0	27790355	0	0	27790355	0	0	10960	/wp-admin/term.php?taxonomy=category&tag_ID=1&post_type=post&wp_http_referer=/wp-admin/edit-tags.php%3Ftaxonomy%3Dcategory
+1	1	1	0	0	27791226	0	0	27791226	0	0	1688	/index.php/category/xa-hoi/feed/
+1	1	0	0	0	27789136	0	0	27789136	0	0	5	/wp-admin/admin-ajax.php?action=wp-compression-test&test=yes&_ajax_nonce=80a8ea4143&1667236619022
+1	0	0	0	12	0	0	27791442	0	0	27791226	0	/sitemap.txt
+1	1	0	0	0	27790319	0	0	27790319	0	0	0	/wp-cron.php?doing_wp_cron=1667307552.3952190876007080078125
+1	5	5	0	0	27791442	0	0	27791339	0	0	2100	/comments/feed/
+1	2	0	0	0	27789165	0	0	27789141	0	0	6924	/wp-includes/js/media-editor.min.js?ver=6.0.3
+1	1	0	0	0	27791398	0	0	27791398	0	0	6328	/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2
+1	1	0	0	0	27789136	0	0	27789136	0	0	6330	/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.1
+1	1	0	0	0	27790577	0	0	27790577	0	0	4098	/wp-includes/css/dist/edit-widgets/style.min.css?ver=6.0.3
+1	3	0	0	0	27790695	0	0	27789141	0	0	1029	/wp-admin/js/accordion.min.js?ver=6.0.3
+1	1	0	0	0	27791421	0	0	27791421	0	0	896	/wp-includes/js/dist/notices.min.js?ver=9c1575b7a31659f45a45
+1	1	0	0	0	27791338	0	0	27791338	0	0	0	/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=huawei&number=20
+1	11	0	0	0	27791441	0	0	27791398	0	0	50809	/wp-includes/js/wp-emoji-release.min.js?ver=6.1
+1	2	0	0	0	27790726	0	0	27790632	0	0	5050	/index.php/wp-json/wp/v2/widgets?context=edit&_locale=user
+1	1	0	0	0	27791398	0	0	27791398	0	0	982	/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.1
+1	5	5	0	0	27791442	0	0	27791339	0	0	2466	/gia-xang-dau-tiep-tuc-tang-trong-vong-hai-tuan-vua-qua/feed/
+1	1	0	0	0	27791398	0	0	27791398	0	0	690	/wp-includes/js/wp-util.min.js?ver=6.1
+1	1	0	0	0	27791421	0	0	27791421	0	0	1473	/wp-includes/js/dist/server-side-render.min.js?ver=ba8027ee85d65ae23ec7
+1	0	0	0	4	0	0	27788969	0	0	27788689	0	/test/wp-includes/wlwmanifest.xml
+1	1	0	0	0	27791106	0	0	27791106	0	0	90954	/wp-admin/customize.php?return=/wp-admin/widgets.php&autofocus[control]=header_image
+1	1	0	0	0	27791226	0	0	27791226	0	0	1294	/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/dich-sot-xuat-huyet-dien-bien-phuc-tap-xuat-hien-nhieu-o-dich-tai-ha-noi/
+1	1	1	0	0	27790696	0	0	27790696	0	0	21096	/?customize_changeset_uuid=b10b9a9f-6c22-4f95-80fd-41717381fc6d&customize_theme=newsment&customize_messenger_channel=preview-2&customize_autosaved=on
+1	1	0	0	0	27791421	0	0	27791421	0	0	2137	/wp-includes/js/dist/preferences-persistence.min.js?ver=c5543628aa7ff5bd5be4
+1	4	0	0	0	27791436	0	0	27789141	0	0	148244	/wp-includes/js/dist/vendor/react-dom.min.js?ver=17.0.1
+1	12	0	0	0	27791442	0	0	27791415	0	0	218772	/wp-content/themes/covernews/assets/bootstrap/css/bootstrap.min.css?ver=6.1
+1	1	0	0	0	27790623	0	0	27790623	0	0	0	/wp-cron.php?doing_wp_cron=1667325805.4625189304351806640625
+1	1	0	0	0	27791226	0	0	27791226	0	0	1314	/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/gia-xang-dau-tiep-tuc-tang-trong-vong-hai-tuan-vua-qua/&format=xml
+1	2	0	0	0	27789165	0	0	27789141	0	0	12296	/wp-includes/js/dist/block-directory.min.js?ver=7cf0ebaf9ad71b48f8e259da09c04a96
+1	1	0	0	0	27791226	0	0	27791226	0	0	1246	/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/huawei-ra-mat-matepad-se-10-4-snapdragon-680-pin-5100mah/
+1	3	0	0	0	27791229	0	0	27789136	0	0	4602	/wp-includes/js/jquery/jquery.query.js?ver=2.2.3
+1	5	0	0	0	27791422	0	0	27791236	0	0	690	/wp-json/wp/v2/categories?context=view&per_page=100&orderby=name&order=asc&_fields=id,name,parent&_locale=user
+1	1	0	0	0	27791338	0	0	27791338	0	0	14	/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=CPI&number=20
+1	0	0	2	0	0	27791337	0	0	27791317	0	0	/wp-admin/post.php?post=46&action=edit&meta-box-loader=1&meta-box-loader-nonce=5006ca79ec&_locale=user
+1	3	0	0	0	27791201	0	0	27789732	0	0	816	/index.php/wp-json/wp/v2/users?context=view&per_page=100&has_published_posts[0]=post&_locale=user
+1	2	0	0	0	27791436	0	0	27791398	0	0	3942	/wp-admin/js/svg-painter.js?ver=6.1
+1	0	0	1	0	0	27790247	0	0	27790247	0	0	/wp-admin/post.php?post=30&action=edit&meta-box-loader=1&meta-box-loader-nonce=1d0d11138b&_locale=user
+1	40	40	0	0	27789220	0	0	27789193	0	0	4897	/?customize_autosaved=on&customize_changeset_uuid=e5a60b43-1e5b-4c32-9034-022c52e99fb3&customize_preview_nonce=33c3f4ec32
+1	1	1	0	0	27790713	0	0	27790713	0	0	21157	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-3&customize_autosaved=on
+1	2	0	0	0	27790695	0	0	27789136	0	0	472	/wp-includes/js/wp-sanitize.min.js?ver=6.0.3
+1	1	0	0	0	27791447	0	0	27791447	0	0	570	/wp-json/wp/v2/categories?context=view&per_page=100&_locale=user
+1	1	0	0	0	27791421	0	0	27791421	0	0	233	/wp-includes/js/dist/warning.min.js?ver=4acee5fc2fd9a24cefc2
+1	2	0	0	0	27789165	0	0	27789141	0	0	1780	/wp-includes/js/dist/notices.min.js?ver=e44820c667bf205cacdfc48cbeb3c2e6
+1	3	0	0	0	27791229	0	0	27789136	0	0	2694	/wp-admin/js/plugin-install.min.js?ver=6.0.3
+1	4	4	0	0	27791228	0	0	27791182	0	0	45796	/index.php/2022/11/01/cpi-cua-tphcm-tang-045-trong-thang-10/
+1	4	0	0	0	27790412	0	0	27790381	0	0	4114	/index.php/wp-json/wp/v2/posts/42/autosaves?_locale=user
+1	3	0	0	0	27790695	0	0	27789141	0	0	720	/wp-content/themes/covernews/assets/customizer-admin.css?ver=6.0.3
+1	0	0	0	4	0	0	27788969	0	0	27788689	0	/wp/wp-includes/wlwmanifest.xml
+1	4	0	0	0	27791447	0	0	27791229	0	0	97484	/wp-admin/upload.php
+1	2	0	0	0	27790319	0	0	27790246	0	0	19310	/wp-content/uploads/2022/11/giaxangdautang-150x150.jpg
+1	3	0	0	0	27790695	0	0	27789141	0	0	21102	/wp-admin/js/nav-menu.min.js?ver=6.0.3
+1	1	1	0	0	27789193	0	0	27789193	0	0	16364	/?customize_changeset_uuid=e5a60b43-1e5b-4c32-9034-022c52e99fb3&customize_theme=newsment&customize_messenger_channel=preview-1&customize_autosaved=on
+1	1	1	0	0	27790714	0	0	27790714	0	0	21161	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-7&customize_autosaved=on
+1	2	0	0	0	27791436	0	0	27791398	0	0	1906	/wp-content/themes/covernews/admin-dashboard/dist/plugin_installer.build.js?ver=6.1
+1	1	1	0	0	27789232	0	0	27789232	0	0	16313	/?customize_changeset_uuid=6b14a841-f7bf-4bb9-a8d3-3a8c595e4e6b&customize_theme=newsment&customize_messenger_channel=preview-10&customize_autosaved=on
+1	1	0	0	0	27791398	0	0	27791398	0	0	3132	/wp-includes/js/media-audiovideo.min.js?ver=6.1
+1	1	0	0	0	27791421	0	0	27791421	0	0	15031	/wp-includes/js/dist/core-data.min.js?ver=d8d458b31912f858bcdf
+1	3	0	0	0	27790695	0	0	27789141	0	0	5400	/wp-includes/js/customize-models.js?ver=6.0.3
+1	1	0	0	0	27791234	0	0	27791234	0	0	10078	/wp-admin/tools.php
+1	3	0	0	0	27790695	0	0	27789141	0	0	548560	/wp-admin/load-styles.php?c=1&dir=ltr&load[chunk_0]=dashicons,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets,site-icon&load[chunk_1]=,l10n,buttons,customize-controls,customize-widgets,wp-block-library,media-views,wp-components,wp-widgets,wp-block-editor,wp-nux,&load[chunk_2]=wp-reusable-blocks,wp-editor,wp-reset-editor-styles,wp-editor-classic-layout-styles,wp-block-library-theme,wp-edit-blocks,wp-cus&load[chunk_3]=tomize-widgets,wp-block-directory,wp-format-library,customize-nav-menus,wp-color-picker,code-editor&ver=6.0.3
+1	1	0	0	0	27791236	0	0	27791236	0	0	6	/wp-json/wp/v2/tags?context=view&per_page=20&orderby=count&order=desc&_fields=id,name&search=D&_locale=user
+1	1	0	0	0	27791337	0	0	27791337	0	0	70	/wp-json/wp/v2/tags?context=view&per_page=20&orderby=count&order=desc&_fields=id,name&search=Chuy%E1%BB%83n %C4%91%E1%BB%95i s%E1%BB%91 &_locale=user
+1	1	1	0	0	27791226	0	0	27791226	0	0	476	/index.php/2022/11/01/lap-ke-hoach-tiem-vac-xin-covid-19-cho-tre-6-thang-tuoi/feed/
+1	1	0	0	0	27791398	0	0	27791398	0	0	2169	/wp-includes/js/plupload/wp-plupload.min.js?ver=6.1
+1	5	0	0	0	27790464	0	0	27790455	0	0	5031	/index.php/wp-json/wp/v2/posts/46/autosaves?_locale=user
+1	1	0	0	0	27791337	0	0	27791337	0	0	54	/wp-json/wp/v2/tags?context=view&per_page=20&orderby=count&order=desc&_fields=id,name&search=Co&_locale=user
+1	0	0	3	0	0	27789614	0	0	27789216	0	0	/?author=3
+1	3	0	0	0	27790695	0	0	27789141	0	0	1830	/wp-admin/js/widgets/media-audio-widget.min.js?ver=6.0.3
+1	0	0	16	1	0	27791295	27789193	0	27789193	27789193	0	/?author=2
+1	1	0	0	0	27789487	0	0	27789487	0	0	0	/wp-cron.php?doing_wp_cron=1667257639.1118268966674804687500
+1	0	0	16	0	0	27791295	0	0	27789193	0	0	/?author=1
+1	1	1	0	0	27789196	0	0	27789196	0	0	16419	/?customize_changeset_uuid=e5a60b43-1e5b-4c32-9034-022c52e99fb3&customize_theme=newsment&customize_messenger_channel=preview-5&customize_autosaved=on
+1	1	1	0	0	27790758	0	0	27790758	0	0	22176	/?customize_changeset_uuid=116a63c9-4246-4de0-a8e9-c12802aa76e9&customize_theme=newsment&customize_messenger_channel=preview-1&customize_autosaved=on
+1	1	0	0	0	27790319	0	0	27790319	0	0	722	/index.php/wp-json/wp/v2/media/36?context=view&_locale=user
+1	5	5	0	0	27791442	0	0	27791339	0	0	2511	/lap-ke-hoach-tiem-vac-xin-covid-19-cho-tre-6-thang-tuoi/feed/
+1	1	0	0	0	27791421	0	0	27791421	0	0	48742	/wp-includes/js/dist/blocks.min.js?ver=69022aed79bfd45b3b1d
+1	1	0	0	0	27790247	0	0	27790247	0	0	51610	/wp-admin/post.php?post=30&action=edit&message=4
+1	0	0	2	0	0	27789867	0	0	27789552	0	0	/.env
+1	3	0	0	0	27790695	0	0	27789141	0	0	166965	/wp-admin/load-scripts.php?c=1&load[chunk_0]=jquery-core,jquery-migrate,regenerator-runtime,wp-polyfill,wp-hooks,underscore,customize-base,wp-dom-ready&ver=6.0.3
+1	1	0	0	0	27789138	0	0	27789138	0	0	7004	/wp-admin/js/theme.min.js?ver=6.0.3
+1	3	0	0	0	27790695	0	0	27789136	0	0	2877	/wp-includes/js/wp-ajax-response.min.js?ver=6.0.3
+1	5	0	0	0	27789134	0	0	27789030	0	0	12985	/wp-includes/blocks/navigation/view.min.js?ver=009e29110e016c14bac4ba0ecc809fcd
+1	3	0	0	0	27790695	0	0	27789141	0	0	8652	/wp-includes/js/customize-preview.min.js?ver=6.0.3
+1	1	0	0	0	27789452	0	0	27789452	0	0	0	/wp-cron.php?doing_wp_cron=1667255558.1161959171295166015625
+1	1	1	0	0	27789218	0	0	27789218	0	0	16359	/?customize_changeset_uuid=e5a60b43-1e5b-4c32-9034-022c52e99fb3&customize_theme=newsment&customize_messenger_channel=preview-9&customize_autosaved=on
+1	5	5	0	0	27791442	0	0	27791339	0	0	45316	/tag/cpi_tphcm/
+1	5	0	0	0	27791442	0	0	27791339	0	0	6120	/wp-json/oembed/1.0/embed?url=https://freedays.online/cpi-cua-tphcm-tang-045-trong-thang-10/
+1	1	0	0	0	27791234	0	0	27791234	0	0	14166	/wp-admin/plugins.php
+1	0	0	1	0	0	27791326	0	0	27791326	0	0	/wp-admin/edit-tags.php
+1	1	1	0	0	27790729	0	0	27790729	0	0	22180	/?customize_changeset_uuid=116a63c9-4246-4de0-a8e9-c12802aa76e9&customize_theme=newsment&customize_messenger_channel=preview-0
+1	1	1	0	0	27789165	0	0	27789165	0	0	16251	/?customize_changeset_uuid=e5a60b43-1e5b-4c32-9034-022c52e99fb3&customize_theme=newsment&customize_messenger_channel=preview-0
+1	2	0	0	0	27790695	0	0	27789139	0	0	1726	/wp-admin/images/arrows-2x.png
+1	2	0	0	0	27789165	0	0	27789141	0	0	10742	/wp-includes/js/plupload/plupload.min.js?ver=2.1.9
+1	1	1	0	0	27790707	0	0	27790707	0	0	21180	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-0
+1	38	0	0	0	27791442	0	0	27789141	0	0	70454	/wp-content/themes/newsment/style.css?ver=1.0.0
+1	0	0	0	2	0	0	27788778	0	0	27788778	0	/cgi-bin/
+1	5	5	0	0	27791442	0	0	27791339	0	0	2497	/elon-musk-hien-tai-la-giam-doc-duy-nhat-cua-twitter/feed/
+1	3	0	0	0	27791337	0	0	27790368	0	0	158564	/wp-admin/post.php?post=38&action=edit
+1	3	0	0	0	27790695	0	0	27789141	0	0	6441	/wp-includes/js/dist/api-fetch.min.js?ver=63050163caffa6aac54e9ebf21fe0472
+1	2	0	0	0	27791436	0	0	27791398	0	0	1648	/wp-includes/js/thickbox/thickbox.css?ver=6.1
+1	1	0	0	0	27791458	0	0	27791458	0	0	0	/wp-cron.php?doing_wp_cron=1667375887.5706040859222412109375
+1	1	0	0	0	27790722	0	0	27790722	0	0	387	/index.php/wp-json/wp/v2/sidebars/footer-third-widgets-section?_locale=user
+1	1	0	0	0	27790247	0	0	27790247	0	0	748	/index.php/wp-json/wp/v2/media/32?context=view&_locale=user
+1	4	4	0	0	27791226	0	0	27791155	0	0	39936	/index.php/category/cong-nghe/
+1	1	0	0	0	27789135	0	0	27789135	0	0	389493	/wp-includes/js/zxcvbn.min.js
+1	1	1	0	0	27791096	0	0	27791096	0	0	22195	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-13&customize_autosaved=on
+1	1	0	0	0	27789136	0	0	27789136	0	0	2052	/wp-admin/js/postbox.min.js?ver=6.0.3
+1	1	0	0	0	27789141	0	0	27789141	0	0	1939	/index.php/wp-json/aft-useful-plugins/v1/get-useful-plugins?plug=[{"slug":"elespare","description":"DESIGN PERFECT BLOG, NEWS, OR MAGAZINE WEBSITES Elespare is a simple yet effective WordPress plugin that lets you use Elementor to create fantastic Header, Footer and Contents of websites with highly customization options for FREE. "},{"slug":"blockspare","description":"You may design complicated layouts for your website in just a few minutes with our adaptable and inventive blocks."},{"slug":"latest-posts-block-lite","description":"A beautiful collection of latest posts Gutenberg blocks for WordPress, which helps you to design posts grid, posts list, full posts layout, advanced express posts design and tile layouts of your posts."},{"slug":"magic-content-box-lite","description":"We build a beautiful series of page section Gutenberg blocks for WordPress content to help you quickly create the website you've always desired."},{"slug":"wp-post-author","description":"It has 3 different widgets for post's author, selective author by id and custom author. It also provides shortcodes for the author profile."},{"slug":"wp-live-chat-support","description":"This free plugin offers a free live chat solution for your website visitors to contact you via live chat or a live call - all for free! Engage with your customers and increase sales."},{"slug":"frontend-post-submission-manager-lite","description":"A free WordPress Plugin which facilitates with the functionality to submit Posts from frontend with or without logging in with various configurable options."},{"slug":"mailchimp-for-wp","description":"This plugin helps you grow your Mailchimp lists and write better newsletters through various methods. You can create good looking opt-in forms or integrate with any existing form on your site, like your comment, contact or checkout form."}]&_locale=user
+1	2	0	0	0	27789141	0	0	27789138	0	0	28849	/wp-admin/themes.php
+1	10	0	0	0	27791106	0	0	27789141	0	0	11249	/index.php/wp-json/wp/v2/widget-types?context=edit&per_page=100&_locale=user
+1	1	0	0	0	27791421	0	0	27791421	0	0	2050	/wp-includes/js/dist/autop.min.js?ver=43197d709df445ccf849
+1	2	0	0	0	27790365	0	0	27790319	0	0	16306	/wp-content/uploads/2022/11/baiCPIphhcm-150x150.jpg
+1	3	0	0	0	27790695	0	0	27789135	0	0	20616	/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+1	5	0	0	0	27791422	0	0	27791236	0	0	4415	/wp-json/wp/v2/taxonomies/category?context=edit&_locale=user
+1	7	0	0	0	27791422	0	0	27791235	0	0	71737	/wp-json/wp/v2/block-patterns/patterns?_locale=user
+1	0	0	0	4	0	0	27788969	0	0	27788689	0	/wp1/wp-includes/wlwmanifest.xml
+1	0	0	0	4	0	0	27788969	0	0	27788689	0	/site/wp-includes/wlwmanifest.xml
+1	1	0	0	0	27790577	0	0	27790577	0	0	1038	/wp-includes/css/dist/widgets/style.min.css?ver=6.0.3
+1	5	5	0	0	27791442	0	0	27791339	0	0	46172	/category/suc-khoe/
+1	1	1	0	0	27791096	0	0	27791096	0	0	22218	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-17&customize_autosaved=on
+1	2	0	0	0	27791422	0	0	27791337	0	0	140	/wp-json/wp/v2/tags?context=view&per_page=100&orderby=count&order=desc&_fields=id,name&include=9&_locale=user
+1	3	0	0	0	27790695	0	0	27789141	0	0	3024	/wp-includes/js/mediaelement/wp-playlist.min.js?ver=6.0.3
+1	1	0	0	0	27789214	0	0	27789214	0	0	3771	/wp-content/uploads/2022/10/xocbebtk13-150x150.jpg
+1	1	0	0	0	27791421	0	0	27791421	0	0	2125	/wp-includes/js/dist/reusable-blocks.min.js?ver=3fb4b31e589a583a362e
+1	1	0	0	0	27791447	0	0	27791447	0	0	1898	/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.2
+1	0	0	1	0	0	27790201	0	0	27790201	0	0	/wp-admin/post.php?post=26&action=edit&meta-box-loader=1&meta-box-loader-nonce=1d0d11138b&_locale=user
+1	3	0	0	0	27790695	0	0	27789141	0	0	5691	/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.1
+1	1	1	0	0	27791226	0	0	27791226	0	0	2415	/index.php/category/cong-nghe/feed/
+1	1	0	0	0	27791226	0	0	27791226	0	0	1271	/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/huawei-ra-mat-matepad-se-10-4-snapdragon-680-pin-5100mah/&format=xml
+1	1	0	0	0	27791232	0	0	27791232	0	0	11297	/wp-admin/options-writing.php
+1	11	0	0	0	27791436	0	0	27789136	0	0	7315	/wp-includes/js/hoverintent-js.min.js?ver=2.2.1
+1	1	1	0	0	27790564	0	0	27790564	0	0	18817	/?customize_changeset_uuid=ad19ac8d-3254-4d39-9283-170109b97c49&customize_theme=newsment&customize_messenger_channel=preview-3&customize_autosaved=on
+1	10	0	0	0	27790414	0	0	27789715	0	0	290	/index.php/wp-json/wp/v2/users?context=view&who=authors&per_page=50&_fields=id,name&_locale=user
+1	2	0	0	0	27790726	0	0	27790632	0	0	773	/index.php/wp-json/wp/v2/sidebars/footer-first-widgets-section?_locale=user
+1	1	1	0	0	27791097	0	0	27791097	0	0	22247	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-22&customize_autosaved=on
+1	13	0	0	0	27791442	0	0	27791415	0	0	283062	/wp-content/themes/covernews/assets/font-awesome-v6/css/all.min.css?ver=6.1
+1	5	5	0	0	27791442	0	0	27791339	0	0	45430	/tag/sot_xuat_huyet/
+1	1	1	0	0	27791098	0	0	27791098	0	0	22222	/?customize_changeset_uuid=ab964550-acef-4a29-9eb4-763aae1b8469&customize_theme=newsment&customize_messenger_channel=preview-26&customize_autosaved=on
+1	1	0	0	0	27790199	0	0	27790199	0	0	713	/index.php/wp-json/wp/v2/media/27?context=view&_locale=user
+1	2	0	0	0	27789165	0	0	27789135	0	0	7434	/wp-includes/js/dist/i18n.min.js?ver=ebee46757c6a411e38fd079a7ac71d94
+1	5	0	0	0	27791442	0	0	27791339	0	0	6311	/wp-json/oembed/1.0/embed?url=https://freedays.online/lap-ke-hoach-tiem-vac-xin-covid-19-cho-tre-6-thang-tuoi/
+1	0	0	1	0	0	27790413	0	0	27790413	0	0	/wp-admin/post.php?post=42&action=edit&meta-box-loader=1&meta-box-loader-nonce=4d77dc1693&_locale=user
+1	2	0	0	0	27791229	0	0	27789136	0	0	794	/wp-admin/admin-ajax.php?action=dashboard-widgets&widget=dashboard_primary&pagenow=dashboard
+1	2	0	0	0	27789165	0	0	27789141	0	0	4280	/wp-includes/js/dist/reusable-blocks.min.js?ver=7387bed6e19d1b3aec4b6fda683a0768
+1	1	1	0	0	27789141	0	0	27789141	0	0	16202	/?customize_changeset_uuid=7d0201d3-9d44-4235-8b4e-57fc7d66049f&customize_theme=newsment&customize_messenger_channel=preview-0
+1	5	0	0	0	27791442	0	0	27791339	0	0	1375	/wp-json/wp/v2/tags/16
+1	1	0	0	0	27790413	0	0	27790413	0	0	0	/wp-cron.php?doing_wp_cron=1667313187.3458769321441650390625
+1	5	0	0	0	27791442	0	0	27791339	0	0	1520	/wp-json/wp/v2/tags/15
+1	10	0	0	0	27791442	0	0	27790245	0	0	116016	/wp-content/uploads/2022/11/giaxangdautang.jpg
+1	5	0	0	0	27791442	0	0	27791339	0	0	1470	/wp-json/wp/v2/tags/14
+1	5	0	0	0	27791442	0	0	27791339	0	0	1500	/wp-json/wp/v2/tags/13
+1	1	0	0	0	27791338	0	0	27791338	0	0	0	/wp-cron.php?doing_wp_cron=1667368696.9212150573730468750000
+1	5	0	0	0	27791442	0	0	27791339	0	0	1405	/wp-json/wp/v2/tags/12
+1	5	0	0	0	27791442	0	0	27791339	0	0	1275	/wp-json/wp/v2/tags/11
+1	5	0	0	0	27791442	0	0	27791339	0	0	1465	/wp-json/wp/v2/tags/10
+1	2	0	0	0	27788777	0	0	27788706	0	0	688	/_autoindex/assets/js/tablesort.number.js
+1	2	0	0	0	27789165	0	0	27789141	0	0	1188	/wp-includes/js/dist/token-list.min.js?ver=4ebce6423dfff99d40033fd33ce52cc9
+1	1	0	0	0	27791339	0	0	27791339	0	0	13	/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=Elon&number=20
+1	1	0	0	0	27791229	0	0	27791229	0	0	3656	/wp-includes/js/media-grid.min.js?ver=6.0.3
+1	1	0	0	0	27789136	0	0	27789136	0	0	1070	/wp-includes/js/shortcode.min.js?ver=6.0.3
+1	1	0	0	0	27791398	0	0	27791398	0	0	0	/wp-cron.php?doing_wp_cron=1667372284.1991369724273681640625
+1	3	0	0	0	27790695	0	0	27789141	0	0	2409	/wp-content/themes/covernews/assets/widgets.js?ver=1.0.0
+1	1	0	0	0	27790319	0	0	27790319	0	0	6	/index.php/wp-json/wp/v2/tags?context=view&per_page=20&orderby=count&order=desc&_fields=id,name&search=tieudung&_locale=user
+1	5	5	0	0	27791442	0	0	27791339	0	0	8559	/tag/cpi_tphcm/feed/
+1	36	0	0	0	27791442	0	0	27789141	0	0	34816	/wp-content/themes/covernews/js/navigation.js?ver=20151215
+1	0	0	0	4	0	0	27788969	0	0	27788689	0	/news/wp-includes/wlwmanifest.xml
+1	3	0	0	0	27790695	0	0	27789141	0	0	16392	/wp-includes/js/codemirror/htmlhint.js?ver=0.9.14-xwp
+1	10	0	0	0	27791442	0	0	27789276	0	0	339050	/wp-content/uploads/2022/10/cropped-rounded-in-photoretrica-180x180.png
+1	2	0	0	0	27789165	0	0	27789141	0	0	894	/wp-includes/js/dist/blob.min.js?ver=87cf2365cd719a6954f1e2bb8bcc692a
+1	3	0	0	0	27790695	0	0	27789141	0	0	4878	/wp-includes/js/customize-preview-nav-menus.min.js?ver=6.0.3
+1	1	0	0	0	27791421	0	0	27791421	0	0	10276	/wp-includes/js/dist/rich-text.min.js?ver=c704284bebe26cf1dd51
+1	7	7	0	0	27791455	0	0	27791339	0	0	69422	/category/cong-nghe/
+1	1	1	0	0	27790695	0	0	27790695	0	0	20447	/?customize_changeset_uuid=b10b9a9f-6c22-4f95-80fd-41717381fc6d&customize_theme=newsment&customize_messenger_channel=preview-0
+1	1	0	0	0	27790747	0	0	27790747	0	0	0	/wp-cron.php?doing_wp_cron=1667333266.2573940753936767578125
+1	1	0	0	0	27791337	0	0	27791337	0	0	54	/wp-json/wp/v2/tags?context=view&per_page=100&orderby=count&order=desc&_fields=id,name&include=13&_locale=user
+1	12	0	0	0	27791442	0	0	27791415	0	0	176832	/wp-content/themes/covernews/assets/bootstrap/js/bootstrap.min.js?ver=6.1
+1	1	0	0	0	27790247	0	0	27790247	0	0	0	/wp-cron.php?doing_wp_cron=1667303247.0501120090484619140625
+1	2	0	0	0	27789165	0	0	27789141	0	0	3786	/wp-includes/js/dist/plugins.min.js?ver=f885533aefb501e1eedcbd4a9d04ca70
+1	1	1	0	0	27791094	0	0	27791094	0	0	22117	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-4&customize_autosaved=on
+1	3	0	0	0	27790695	0	0	27789141	0	0	2859	/wp-content/themes/covernews/admin-dashboard/dist/plugin_installer.build.js?ver=6.0.3
+1	1	0	0	0	27791398	0	0	27791398	0	0	7179	/wp-includes/js/underscore.min.js?ver=1.13.4
+1	2	0	0	0	27789165	0	0	27789135	0	0	14352	/wp-includes/js/underscore.min.js?ver=1.13.3
+1	1	0	0	0	27789141	0	0	27789141	0	0	176	/wp-content/themes/covernews/assets/css/notice.css?ver=6.0.3
+1	5	5	0	0	27791442	0	0	27791339	0	0	12363	/category/cong-nghe/feed/
+1	0	0	0	3	0	0	27788969	0	0	27788689	0	/shop/wp-includes/wlwmanifest.xml
+1	1	1	0	0	27791095	0	0	27791095	0	0	22160	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-8&customize_autosaved=on
+1	3	0	0	0	27791201	0	0	27789732	0	0	1717	/index.php/wp-json/wp/v2/categories?context=view&per_page=100&_locale=user
+1	1	1	0	0	27790714	0	0	27790714	0	0	21184	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-13&customize_autosaved=on
+1	1	0	0	0	27790143	0	0	27790143	0	0	348	/index.php/wp-json/wp/v2/sidebars/sidebar-1?_locale=user
+1	0	0	0	4	0	0	27788969	0	0	27788689	0	/wp2/wp-includes/wlwmanifest.xml
+1	3	0	0	0	27790695	0	0	27789141	0	0	561	/wp-content/themes/covernews/assets/customizer-admin.js?ver=6.0.3
+1	3	0	0	0	27790695	0	0	27789141	0	0	2286	/wp-admin/js/widgets/media-image-widget.min.js?ver=6.0.3
+1	1	0	0	0	27791421	0	0	27791421	0	0	1721	/wp-includes/js/dist/keyboard-shortcuts.min.js?ver=b696c16720133edfc065
+1	1	0	0	0	27791421	0	0	27791421	0	0	175385	/wp-includes/js/dist/block-library.min.js?ver=e005fd256a910edf8c87
+1	1	0	0	0	27789136	0	0	27789136	0	0	3327	/wp-includes/js/quicktags.min.js?ver=6.0.3
+1	2	0	0	0	27790173	0	0	27789726	0	0	1454	/index.php/wp-json/wp/v2/media/18?context=view&_locale=user
+1	1	0	0	0	27791421	0	0	27791421	0	0	56639	/wp-admin/post.php?post=3&action=edit
+1	1	0	0	0	27791447	0	0	27791447	0	0	15906	/wp-includes/js/dist/edit-widgets.min.js?ver=f920c6385e705b28f823
+1	1	1	0	0	27790714	0	0	27790714	0	0	21173	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-17&customize_autosaved=on
+1	1	0	0	0	27789193	0	0	27789193	0	0	2973	/wp-content/uploads/2022/10/uriwrplv-150x150.jpg
+1	3	0	0	0	27790695	0	0	27789141	0	0	13116	/wp-admin/js/widgets/media-widgets.min.js?ver=6.0.3
+1	3	0	0	0	27791321	0	0	27789686	0	0	2502	/wp-admin/js/tags.min.js?ver=6.0.3
+1	5	0	0	0	27791442	0	0	27791339	0	0	6593	/wp-json/oembed/1.0/embed?url=https://freedays.online/so-hoa-cac-di-san-van-hoa-va-chuyen-doi-so-trong-nganh-du-lich/&format=xml
+1	1	0	0	0	27791398	0	0	27791398	0	0	3544	/wp-admin/js/image-edit.min.js?ver=6.1
+1	1	0	0	0	27790810	0	0	27790810	0	0	0	/wp-cron.php?doing_wp_cron=1667337026.7615909576416015625000
+1	1	0	0	0	27790170	0	0	27790170	0	0	4635	/wp-admin/js/revisions.min.js?ver=6.0.3
+1	2	0	0	0	27791357	0	0	27791357	0	0	146374	/wp-content/uploads/2022/10/cropped-rounded-in-photoretrica-270x270.png
+1	9	0	0	0	27791099	0	0	27789726	0	0	9825	/index.php/wp-json/wp/v2/media?_locale=user
+1	1	1	0	0	27790714	0	0	27790714	0	0	21153	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-22&customize_autosaved=on
+1	0	0	1	0	0	27790368	0	0	27790368	0	0	/wp-admin/post.php?post=38&action=edit&meta-box-loader=1&meta-box-loader-nonce=4d77dc1693&_locale=user
+1	1	0	0	0	27791447	0	0	27791447	0	0	171333	/wp-admin/load-styles.php?c=0&dir=ltr&load[chunk_0]=dashicons,admin-bar,wp-components,wp-widgets,wp-block-editor,wp-nux,wp-reusable-blocks,wp-editor,common,forms,wp-reset-editor-st&load[chunk_1]=yles,wp-block-library,wp-editor-classic-layout-styles,wp-block-library-theme,wp-edit-blocks,wp-edit-widgets,wp-format-library,ad&load[chunk_2]=min-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets,site-icon,l10n,buttons,wp-auth-che&load[chunk_3]=ck,media-views&ver=6.1
+1	1	0	0	0	27789136	0	0	27789136	0	0	0	/wp-cron.php?doing_wp_cron=1667236617.8895459175109863281250
+1	1	1	0	0	27791226	0	0	27791226	0	0	9755	/index.php/wp-json/
+1	2	0	0	0	27791436	0	0	27791398	0	0	3860	/wp-includes/js/heartbeat.min.js?ver=6.1
+1	5	5	0	0	27791442	0	0	27791339	0	0	49873	/wp-json/
+1	2	0	0	0	27789165	0	0	27789141	0	0	56694	/wp-includes/js/dist/edit-post.min.js?ver=51ebcd5cd745a9866ab9a430d8318189
+1	2	0	0	0	27789165	0	0	27789141	0	0	49510	/wp-includes/js/media-views.min.js?ver=6.0.3
+1	12	0	0	0	27790175	0	0	27789716	0	0	11425	/index.php/wp-json/wp/v2/posts/16/autosaves?_locale=user
+1	1	0	0	0	27791421	0	0	27791421	0	0	1690	/wp-includes/js/dist/keycodes.min.js?ver=6e0aadc0106bd8aadc89
+1	12	0	0	0	27791442	0	0	27791415	0	0	1728	/wp-includes/css/classic-themes.min.css?ver=1
+1	2	0	0	0	27790173	0	0	27789745	0	0	177692	/wp-content/uploads/2022/10/cropped-rounded-in-photoretrica-300x300.png
+1	2	0	0	0	27791447	0	0	27791447	0	0	1780	/wp-json/batch/v1?_locale=user
+1	1	0	0	0	27790464	0	0	27790464	0	0	837	/index.php/wp-json/wp/v2/media/48?context=view&_locale=user
+1	1	1	0	0	27789233	0	0	27789233	0	0	16420	/?customize_changeset_uuid=4432d69d-a8f4-4b6c-8c66-e0c64388885f&customize_theme=newsment&customize_messenger_channel=preview-0
+1	11	0	0	0	27791442	0	0	27791415	0	0	333003	/wp-content/themes/covernews/style.css?ver=6.1
+1	1	1	0	0	27790714	0	0	27790714	0	0	21149	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-26&customize_autosaved=on
+1	2	0	0	0	27789165	0	0	27789141	0	0	292494	/wp-includes/js/dist/block-editor.min.js?ver=1aaefec40aaf345b5e6e969304e78e07
+1	29	0	0	0	27791442	0	0	27790364	0	0	157354	/wp-content/uploads/2022/11/sotxuathuyet.jpg
+1	0	0	0	4	0	0	27788969	0	0	27788689	0	/web/wp-includes/wlwmanifest.xml
+1	3	0	0	0	27790695	0	0	27789141	0	0	33261	/wp-admin/js/customize-nav-menus.min.js?ver=6.0.3
+1	3	0	0	0	27790695	0	0	27789136	0	0	18717	/wp-admin/js/common.min.js?ver=6.0.3
+1	1	0	0	0	27789663	0	0	27789663	0	0	0	/wp-cron.php?doing_wp_cron=1667268219.8833749294281005859375
+1	14	14	0	0	27791102	0	0	27791099	0	0	1677	/?customize_autosaved=on&customize_changeset_uuid=4d854840-b8e3-4cc6-9726-aad2767d16d1&customize_preview_nonce=40ab1299ca
+1	1	0	0	0	27791236	0	0	27791236	0	0	6	/wp-json/wp/v2/tags?context=view&per_page=20&orderby=count&order=desc&_fields=id,name&search=Du&_locale=user
+1	1	0	0	0	27791099	0	0	27791099	0	0	0	/wp-cron.php?doing_wp_cron=1667354356.6622369289398193359375
+1	3	0	0	0	27790695	0	0	27789141	0	0	6213	/wp-includes/js/mediaelement/renderers/vimeo.min.js?ver=4.2.16
+1	5	5	0	0	27791442	0	0	27791339	0	0	45613	/tag/elon_musk/
+1	10	0	0	0	27790414	0	0	27789715	0	0	60	/index.php/wp-json/wp/v2/templates?context=edit&post_type=post&per_page=100&_locale=user
+1	26	0	0	0	27791389	0	0	27789141	0	0	285616	/wp-content/themes/covernews/assets/slick/js/slick.min.js?ver=6.0.3
+1	1	0	0	0	27790196	0	0	27790196	0	0	0	/index.php/wp-json/wp-block-editor/v1/url-details?url=https://cellphones.com.vn/phu-kien/camera.html&_locale=user
+1	26	0	0	0	27791389	0	0	27789141	0	0	479766	/wp-content/themes/covernews/assets/bootstrap/css/bootstrap.min.css?ver=6.0.3
+1	2	0	0	0	27789165	0	0	27789141	0	0	73888	/wp-includes/js/dist/editor.min.js?ver=5ed697cafca349e71af1c7f8842fcd44
+1	1	1	0	0	27790714	0	0	27790714	0	0	21153	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-31&customize_autosaved=on
+1	1	0	0	0	27791447	0	0	27791447	0	0	1056	/wp-admin/js/widgets/media-video-widget.min.js?ver=6.1
+1	5	5	0	1	27791442	0	27790167	27791339	0	27790167	30656	/feed/
+1	1	0	0	0	27791421	0	0	27791421	0	0	179548	/wp-admin/load-styles.php?c=0&dir=ltr&load[chunk_0]=dashicons,admin-bar,buttons,media-views,editor-buttons,wp-components,wp-block-editor,wp-nux,wp-reusable-blocks,wp-editor,common,&load[chunk_1]=forms,wp-reset-editor-styles,wp-block-library,wp-editor-classic-layout-styles,wp-block-library-theme,wp-edit-blocks,wp-edit-post&load[chunk_2]=,wp-block-directory,wp-format-library,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,wi&load[chunk_3]=dgets,site-icon,l10n,wp-auth-check&ver=6.1
+1	2	0	0	0	27789165	0	0	27789141	0	0	2118	/wp-includes/js/dist/block-serialization-default-parser.min.js?ver=8ee151736a1e51db2bafbb61ddd60634
+1	3	0	0	0	27791436	0	0	27791415	0	0	105330	/wp-includes/css/dashicons.min.css?ver=6.1
+1	1	1	0	0	27790714	0	0	27790714	0	0	21050	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-35&customize_autosaved=on
+1	1	0	0	0	27789138	0	0	27789138	0	0	10328	/wp-admin/theme-install.php
+1	3	0	0	0	27791201	0	0	27789732	0	0	14626	/index.php/wp-json/wp/v2/posts?context=edit&order=desc&orderby=date&per_page=5&_embed=wp:featuredmedia&_locale=user
+1	2	0	0	0	27789165	0	0	27789141	0	0	6278	/wp-includes/js/media-audiovideo.min.js?ver=6.0.3
+1	1	0	0	0	27791226	0	0	27791226	0	0	1315	/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/lap-ke-hoach-tiem-vac-xin-covid-19-cho-tre-6-thang-tuoi/&format=xml
+1	2	0	0	0	27789165	0	0	27789141	0	0	2024	/wp-includes/js/dist/viewport.min.js?ver=7ee74cd3ed0dfcfd22b233b8750d1025
+1	2	0	0	0	27790413	0	0	27790413	0	0	1520	/index.php/wp-json/wp/v2/media/44?context=view&_locale=user
+1	3	0	0	0	27791201	0	0	27789732	0	0	1572	/index.php/wp-json/wp/v2/types?context=view&_locale=user
+1	5	5	0	0	27791442	0	0	27791339	0	0	11404	/category/kinh-te/feed/
+1	1	0	0	0	27790365	0	0	27790365	0	0	6500	/wp-content/uploads/2022/11/biasotxuathuyet-150x150.jpg
+1	4	0	0	0	27790246	0	0	27790240	0	0	3188	/index.php/wp-json/wp/v2/posts/30/autosaves?_locale=user
+1	4	0	0	0	27791436	0	0	27789141	0	0	376332	/wp-content/themes/covernews/admin-dashboard/dist/admin_dashboard.build.js?ver=1.0.0
+1	1	0	0	0	27791338	0	0	27791338	0	0	0	/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=huawei &number=20
+1	1	0	0	0	27791398	0	0	27791398	0	0	3652	/wp-includes/js/media-grid.min.js?ver=6.1
+1	2	0	0	0	27789165	0	0	27789141	0	0	2502	/wp-includes/js/dist/keycodes.min.js?ver=84a0e6bbcf0b9e1ea0184c3f2bf28022
+1	29	0	0	0	27791442	0	0	27790365	0	0	146682	/wp-content/uploads/2022/11/sotxuathuyet-150x150.jpg
+1	2	0	0	0	27790726	0	0	27790576	0	0	1440	/index.php/wp-json/wp/v2/media/10?context=view&_locale=user
+1	2	0	0	0	27790695	0	0	27789233	0	0	81252	/wp-admin/images/browser.png
+1	1	0	0	0	27791232	0	0	27791232	0	0	19758	/wp-admin/options-general.php?settings-updated=true
+1	1	0	0	0	27790998	0	0	27790998	0	0	0	/wp-cron.php?doing_wp_cron=1667348303.8113811016082763671875
+1	10	0	0	0	27790414	0	0	27789715	0	0	13440	/index.php/wp-json/wp/v2/themes?context=edit&status=active&_locale=user
+1	1	0	0	0	27790679	0	0	27790679	0	0	0	/wp-cron.php?doing_wp_cron=1667329157.9672579765319824218750
+1	3	0	0	0	27791229	0	0	27789136	0	0	14580	/wp-admin/js/edit-comments.min.js?ver=6.0.3
+1	3	0	0	0	27790577	0	0	27789728	0	0	10395	/wp-includes/css/dist/editor/style.min.css?ver=6.0.3
+1	1	0	0	0	27790924	0	0	27790924	0	0	0	/wp-cron.php?doing_wp_cron=1667343855.8891220092773437500000
+1	5	0	0	0	27790319	0	0	27790249	0	0	4037	/index.php/wp-json/wp/v2/posts/34/autosaves?_locale=user
+1	1	0	0	0	27791226	0	0	27791226	0	0	1306	/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/elon-musk-hien-tai-la-giam-doc-duy-nhat-cua-twitter/&format=xml
+1	0	0	1	0	0	27789141	0	0	27789141	0	0	/wp-admin/themes.php?action=activate&_wpnonce=f5fe434852&stylesheet=newsment
+1	1	0	0	0	27789136	0	0	27789136	0	0	572	/wp-admin/admin-ajax.php?action=wp-compression-test&test=2&_ajax_nonce=80a8ea4143&1667236618916
+1	3	0	0	0	27790695	0	0	27789141	0	0	12525	/wp-includes/js/dist/element.min.js?ver=3dfdc75a0abf30f057df44e9a39abe5b
+1	1	0	0	0	27791338	0	0	27791338	0	0	0	/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=Huawei &number=20
+1	1	0	0	0	27790868	0	0	27790868	0	0	0	/wp-cron.php?doing_wp_cron=1667340481.4808869361877441406250
+1	11	0	0	0	27791442	0	0	27790463	0	0	86184	/wp-content/uploads/2022/11/biasohoadulich.jpg
+1	2	0	0	0	27791436	0	0	27791398	0	0	9410	/wp-includes/js/dist/element.min.js?ver=47162ff4492c7ec4956b
+1	14	0	0	0	27791442	0	0	27791415	0	0	35952	/wp-content/themes/covernews/assets/script.js?ver=6.1
+1	3	0	0	0	27790695	0	0	27789141	0	0	3930	/wp-includes/js/customize-views.js?ver=6.0.3
+1	1	0	0	0	27789852	0	0	27789852	0	0	0	/wp-cron.php?doing_wp_cron=1667279551.4147660732269287109375
+1	26	0	0	0	27791389	0	0	27789141	0	0	33340	/wp-content/themes/covernews/assets/jquery-match-height/jquery.matchHeight.min.js?ver=6.0.3
+1	1	0	0	0	27791421	0	0	27791421	0	0	1518	/wp-json/wp/v2/pages/2?_locale=user
+1	0	0	0	1	0	0	27789527	0	0	27789527	0	/.htaccess
+1	3	0	0	0	27790577	0	0	27789728	0	0	43911	/wp-includes/css/dist/components/style.min.css?ver=6.0.3
+1	8	0	0	0	27790367	0	0	27790359	0	0	7647	/index.php/wp-json/wp/v2/posts/38/autosaves?_locale=user
+1	1	0	0	0	27791421	0	0	27791421	0	0	1047	/wp-includes/js/dist/block-serialization-default-parser.min.js?ver=eb2cdc8cd7a7975d49d9
+1	1	0	0	0	27790175	0	0	27790175	0	0	16040	/wp-admin/edit.php?trashed=1&ids=1
+1	3	0	0	0	27790695	0	0	27789141	0	0	1017	/wp-content/themes/covernews/js/customizer.js?ver=20151215
+1	30	0	0	0	27791442	0	0	27790319	0	0	263700	/wp-content/uploads/2022/11/CPItphcm-150x150.jpg
+1	2	0	0	0	27788777	0	0	27788706	0	0	744	/_autoindex/assets/icons/folder-fill.svg
+1	2	0	0	0	27790171	0	0	27790171	0	0	105107	/wp-admin/post.php?post=16&action=edit
+1	4	4	0	0	27791226	0	0	27789193	0	0	40105	/index.php/author/admin_q9e47rgg/
+1	1	0	0	0	27790365	0	0	27790365	0	0	755	/index.php/wp-json/wp/v2/media/40?context=view&_locale=user
+1	2	0	0	0	27790368	0	0	27790364	0	0	1511	/index.php/wp-json/wp/v2/media/39?context=view&_locale=user
+1	1	1	0	0	27790713	0	0	27790713	0	0	21153	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-4&customize_autosaved=on
+1	1	0	0	0	27790378	0	0	27790378	0	0	0	/wp-cron.php?doing_wp_cron=1667311128.9272520542144775390625
+1	2	0	0	0	27789165	0	0	27789141	0	0	12638	/wp-includes/js/dist/format-library.min.js?ver=98e32e5276b4b59e7b283addf7cdbd8c
+1	2	0	0	0	27791436	0	0	27791398	0	0	92318	/wp-admin/load-scripts.php?c=0&load[chunk_0]=jquery-core,jquery-migrate,utils,regenerator-runtime,wp-polyfill,wp-hooks&ver=6.1
+1	3	0	0	0	27790695	0	0	27789141	0	0	23172	/wp-admin/js/iris.min.js?ver=1.1.1
+1	3	0	0	0	27790695	0	0	27789141	0	0	1479	/wp-includes/js/dist/escape-html.min.js?ver=00a5735837e9efe13da1d979f16a7105
+1	1	0	0	0	27791338	0	0	27791338	0	0	1737	/wp-json/wp/v2/posts/38?_locale=user
+1	1	0	0	0	27791421	0	0	27791421	0	0	1518	/wp-json/wp/v2/pages/3?_locale=user
+1	1	0	0	0	27790246	0	0	27790246	0	0	6	/index.php/wp-json/wp/v2/tags?context=view&per_page=20&orderby=count&order=desc&_fields=id,name&search=xang-dau&_locale=user
+1	26	0	0	0	27791389	0	0	27789141	0	0	792330	/wp-content/themes/covernews/style.css?ver=6.0.3
+1	38	0	0	0	27791442	0	0	27789141	0	0	12952	/wp-content/themes/covernews/js/skip-link-focus-fix.js?ver=20151215
+1	1	0	0	0	27789114	0	0	27789114	0	0	0	/wp-cron.php?doing_wp_cron=1667235283.7562000751495361328125
+1	5	5	0	0	27791442	0	0	27791339	0	0	45733	/category/xa-hoi/
+1	5	0	0	0	27791442	0	0	27791339	0	0	6473	/wp-json/oembed/1.0/embed?url=https://freedays.online/elon-musk-hien-tai-la-giam-doc-duy-nhat-cua-twitter/&format=xml
+1	1	0	0	0	27791398	0	0	27791398	0	0	392	/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.1
+1	1	1	0	0	27789193	0	0	27789193	0	0	16403	/?customize_changeset_uuid=e5a60b43-1e5b-4c32-9034-022c52e99fb3&customize_theme=newsment&customize_messenger_channel=preview-2&customize_autosaved=on
+1	1	1	0	0	27790714	0	0	27790714	0	0	21158	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-8&customize_autosaved=on
+1	1	1	0	0	27789232	0	0	27789232	0	0	16313	/?customize_changeset_uuid=6b14a841-f7bf-4bb9-a8d3-3a8c595e4e6b&customize_theme=newsment&customize_messenger_channel=preview-11&customize_autosaved=on
+1	1	0	0	0	27789136	0	0	27789136	0	0	858	/wp-includes/js/dist/a11y.min.js?ver=a38319d7ba46c6e60f7f9d4c371222c5
+1	1	0	0	0	27791421	0	0	27791421	0	0	55492	/wp-admin/post.php?post=2&action=edit
+1	1	0	0	0	27789556	0	0	27789556	0	0	0	/wp-cron.php?doing_wp_cron=1667261779.2216179370880126953125
+1	26	0	0	0	27791389	0	0	27789141	0	0	385772	/wp-content/themes/covernews/assets/bootstrap/js/bootstrap.min.js?ver=6.0.3
+1	1	0	0	0	27791398	0	0	27791398	0	0	3567	/wp-includes/js/imgareaselect/jquery.imgareaselect.min.js?ver=6.1
+1	1	1	0	0	27789215	0	0	27789215	0	0	16318	/?customize_changeset_uuid=e5a60b43-1e5b-4c32-9034-022c52e99fb3&customize_theme=newsment&customize_messenger_channel=preview-6&customize_autosaved=on
+1	1	1	0	0	27790759	0	0	27790759	0	0	22169	/?customize_changeset_uuid=116a63c9-4246-4de0-a8e9-c12802aa76e9&customize_theme=newsment&customize_messenger_channel=preview-2&customize_autosaved=on
+1	7	0	0	0	27791422	0	0	27791235	0	0	203	/wp-json/wp/v2/users?context=view&who=authors&per_page=50&_fields=id,name&_locale=user
+1	2	0	0	0	27791229	0	0	27789686	0	0	205488	/wp-admin/load-styles.php?c=1&dir=ltr&load[chunk_0]=dashicons,admin-bar,site-health,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-poi&load[chunk_1]=nter,widgets,site-icon,l10n,buttons,wp-auth-check&ver=6.0.3
+1	2	0	0	0	27789165	0	0	27789141	0	0	8048	/wp-includes/js/media-models.min.js?ver=6.0.3
+1	1	0	0	0	27790317	0	0	27790317	0	0	720	/index.php/wp-json/wp/v2/media/35?context=view&_locale=user
+1	3	0	0	0	27791422	0	0	27791235	0	0	161965	/wp-admin/post.php?post=46&action=edit
+1	1	0	0	0	27788628	0	0	27788628	0	0	64	/.well-known/acme-challenge/XVKVOCLDB0S_WTDR812ZKVTGI94TM5H7
+1	1	0	0	0	27789240	0	0	27789240	0	0	0	/wp-cron.php?doing_wp_cron=1667242806.1556639671325683593750
+1	2	0	0	0	27789165	0	0	27789141	0	0	430	/wp-includes/js/imgareaselect/imgareaselect.css?ver=0.9.8
+1	3	0	0	0	27791229	0	0	27789136	0	0	8505	/wp-admin/js/dashboard.min.js?ver=6.0.3
+1	1	0	0	0	27791398	0	0	27791398	0	0	36433	/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17
+1	1	0	0	0	27791421	0	0	27791421	0	0	1508	/wp-includes/js/dist/priority-queue.min.js?ver=99e325da95c5a35c7dc2
+1	2	0	0	0	27789165	0	0	27789141	0	0	72622	/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.16
+1	2	0	0	0	27791337	0	0	27791337	0	0	3741	/wp-json/wp/v2/posts/42?_locale=user
+1	1	0	0	0	27790081	0	0	27790081	0	0	0	/wp-cron.php?doing_wp_cron=1667293307.2444291114807128906250
+1	2	0	0	0	27789165	0	0	27789141	0	0	9030	/wp-admin/js/editor.min.js?ver=6.0.3
+1	1	0	0	0	27791421	0	0	27791421	0	0	2762	/wp-includes/js/dist/media-utils.min.js?ver=17f6455b0630582352a4
+1	1	0	0	0	27791338	0	0	27791338	0	0	0	/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=Hua&number=20
+1	13	0	0	0	27791442	0	0	27791415	0	0	142064	/wp-content/themes/covernews/assets/slick/js/slick.min.js?ver=6.1
+1	1	1	0	0	27791095	0	0	27791095	0	0	22169	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-10&customize_autosaved=on
+1	1	0	0	0	27789136	0	0	27789136	0	0	538	/wp-admin/js/media-upload.min.js?ver=6.0.3
+1	2	0	0	0	27789165	0	0	27789141	0	0	1918	/wp-includes/js/dist/primitives.min.js?ver=cadf5cfaabdb15c8c8fc440547afe919
+1	1	1	0	0	27788998	0	0	27788998	0	0	12530	/index.php/2022/10/31/hello-world/
+1	26	0	0	0	27791389	0	0	27789141	0	0	567724	/wp-content/themes/covernews/assets/font-awesome-v6/css/all.min.css?ver=6.0.3
+1	1	0	0	0	27791234	0	0	27791234	0	0	12611	/wp-admin/users.php
+1	1	0	0	0	27790246	0	0	27790246	0	0	6	/index.php/wp-json/wp/v2/tags?context=view&per_page=20&orderby=count&order=desc&_fields=id,name&search=xang-&_locale=user
+1	1	0	0	0	27791226	0	0	27791226	0	0	1286	/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/gia-xang-dau-tiep-tuc-tang-trong-vong-hai-tuan-vua-qua/
+1	1	0	0	0	27790366	0	0	27790366	0	0	11398	/wp-admin/admin-ajax.php?action=imgedit-preview&_ajax_nonce=8155a4fc65&postid=40&rand=36563
+1	1	0	0	0	27790041	0	0	27790041	0	0	232	/xmlrpc.php?195.211.77.140
+1	5	0	0	0	27791442	0	0	27791339	0	0	6255	/wp-json/oembed/1.0/embed?url=https://freedays.online/cpi-cua-tphcm-tang-045-trong-thang-10/&format=xml
+1	1	0	0	0	27788628	0	0	27788628	0	0	64	/.well-known/acme-challenge/7ULO6BROQUV_AXDP12H24103DLZYDSEL
+1	1	1	0	0	27791096	0	0	27791096	0	0	22223	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-14&customize_autosaved=on
+1	0	0	3	0	0	27790175	0	0	27789729	0	0	/wp-admin/post.php?post=16&action=edit&meta-box-loader=1&meta-box-loader-nonce=1d0d11138b&_locale=user
+1	2	0	0	0	27789686	0	0	27789136	0	0	11336	/wp-includes/css/editor.min.css?ver=6.0.3
+1	1	0	0	0	27790245	0	0	27790245	0	0	712	/index.php/wp-json/wp/v2/media/31?context=view&_locale=user
+1	1	0	0	0	27791421	0	0	27791421	0	0	1868	/wp-includes/js/dist/plugins.min.js?ver=0d1b90278bae7df6ecf9
+1	2	0	0	0	27790695	0	0	27789136	0	0	5600	/wp-includes/js/jquery/jquery.color.min.js?ver=2.2.0
+1	1	0	0	0	27788628	0	0	27788628	0	0	64	/.well-known/acme-challenge/X34HU_AKN25HFYCLOR463B2L0M5T9IGX
+1	1	0	0	0	27791421	0	0	27791421	0	0	987	/wp-includes/js/dist/primitives.min.js?ver=ae0bece54c0487c976b1
+1	16	0	0	0	27791442	0	0	27790464	0	0	229072	/wp-content/uploads/2022/11/sohoadulich-300x156.jpg
+1	0	0	0	4	0	0	27788969	0	0	27788689	0	/cms/wp-includes/wlwmanifest.xml
+1	5	0	0	0	27791442	0	0	27791339	0	0	8047	/wp-json/wp/v2/posts/46
+1	1	1	0	0	27791096	0	0	27791096	0	0	22185	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-18&customize_autosaved=on
+1	5	0	0	0	27791442	0	0	27791339	0	0	8752	/wp-json/wp/v2/posts/42
+1	5	0	0	0	27791442	0	0	27791339	0	0	8041	/wp-json/wp/v2/posts/38
+1	1	0	0	0	27791232	0	0	27791232	0	0	10606	/wp-admin/options-media.php
+1	5	0	0	0	27791442	0	0	27791339	0	0	7799	/wp-json/wp/v2/posts/34
+1	3	0	0	0	27790695	0	0	27789141	0	0	81924	/wp-admin/js/customize-controls.min.js?ver=6.0.3
+1	5	0	0	0	27791422	0	0	27791236	0	0	8917	/wp-json/wp/v2/posts/46?_locale=user
+1	5	0	0	0	27791442	0	0	27791339	0	0	6661	/wp-json/wp/v2/posts/30
+1	4	0	0	0	27791201	0	0	27789732	0	0	1224	/index.php/wp-json/wp/v2/taxonomies?context=view&_locale=user
+1	4	4	0	0	27791226	0	0	27790368	0	0	44821	/index.php/2022/11/01/dich-sot-xuat-huyet-dien-bien-phuc-tap-xuat-hien-nhieu-o-dich-tai-ha-noi/
+1	5	0	0	0	27791442	0	0	27791339	0	0	7823	/wp-json/wp/v2/posts/26
+1	0	0	1	1	0	27789850	27789850	0	27789850	27789850	0	/_ignition/health-check/
+1	1	0	0	0	27791040	0	0	27791040	0	0	0	/wp-cron.php?doing_wp_cron=1667350845.5799219608306884765625
+1	9	9	0	0	27791226	0	0	27789739	0	0	98550	/index.php/2022/11/01/elon-musk-hien-tai-la-giam-doc-duy-nhat-cua-twitter/
+1	1	1	0	0	27790564	0	0	27790564	0	0	18897	/?customize_changeset_uuid=ad19ac8d-3254-4d39-9283-170109b97c49&customize_theme=newsment&customize_messenger_channel=preview-4&customize_autosaved=on
+1	3	0	0	0	27791436	0	0	27789136	0	0	45714	/wp-includes/js/thickbox/loadingAnimation.gif
+1	5	0	0	0	27791442	0	0	27791339	0	0	7409	/wp-json/wp/v2/posts/16
+1	3	0	0	0	27790577	0	0	27789728	0	0	2061	/wp-includes/css/dist/nux/style.min.css?ver=6.0.3
+1	1	1	0	0	27791097	0	0	27791097	0	0	22201	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-23&customize_autosaved=on
+1	1	0	0	0	27789135	0	0	27789135	0	0	558	/wp-admin/js/password-strength-meter.min.js?ver=6.0.3
+1	1	0	0	0	27790319	0	0	27790319	0	0	6	/index.php/wp-json/wp/v2/tags?context=view&per_page=20&orderby=count&order=desc&_fields=id,name&search=tieu&_locale=user
+1	1	1	0	0	27791098	0	0	27791098	0	0	22250	/?customize_changeset_uuid=ab964550-acef-4a29-9eb4-763aae1b8469&customize_theme=newsment&customize_messenger_channel=preview-27&customize_autosaved=on
+1	3	0	0	0	27790695	0	0	27789141	0	0	18652	/wp-admin/load-styles.php?c=1&dir=ltr&load[chunk_0]=editor-buttons&ver=6.0.3
+1	3	0	0	0	27790695	0	0	27789135	0	0	4725	/wp-includes/js/dist/hooks.min.js?ver=c6d64f2cb8f5c6bb49caca37f8828ce3
+1	5	5	0	0	27791442	0	0	27791339	0	0	8217	/tag/twitter/feed/
+1	3	0	0	0	27789733	0	0	27789732	0	0	666	/index.php/wp-json/wp/v2/block-renderer/core/latest-comments?context=edit&attributes[commentsToShow]=5&attributes[displayAvatar]=false&attributes[displayDate]=false&attributes[displayExcerpt]=false&_locale=site
+1	2	0	0	0	27789165	0	0	27789141	0	0	3516	/wp-includes/js/dist/keyboard-shortcuts.min.js?ver=37fdd241f3be3126e9248060e363e7c9
+1	1	0	0	0	27791338	0	0	27791338	0	0	15	/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=Mate&number=20
+1	1	0	0	0	27789729	0	0	27789729	0	0	823	/index.php/wp-json/wp/v2/media?context=edit&include=18&per_page=100&_locale=user
+1	1	0	0	0	27791338	0	0	27791338	0	0	26	/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=gi%C3%A1 x%C4%83ng&number=20
+1	1	0	0	0	27791398	0	0	27791398	0	0	24757	/wp-includes/js/media-views.min.js?ver=6.1
+1	0	0	0	4	0	0	27788969	0	0	27788689	0	/wordpress/wp-includes/wlwmanifest.xml
+1	5	5	0	0	27791442	0	0	27791339	0	0	8843	/tag/sot_xuat_huyet/feed/
+1	1	0	0	0	27790258	0	0	27790258	0	0	0	/wp-cron.php?doing_wp_cron=1667303898.8225638866424560546875
+1	10	0	0	0	27790414	0	0	27789729	0	0	8490	/index.php/wp-json/wp/v2/taxonomies/post_tag?context=edit&_locale=user
+1	1	1	0	0	27790696	0	0	27790696	0	0	935	/?customize_autosaved=on&customize_changeset_uuid=e838132a-25b4-41d7-a911-122ea1de1f8e&customize_preview_nonce=094e9d9aba
+1	3	0	0	0	27789733	0	0	27789732	0	0	372	/index.php/wp-json/wp/v2/block-renderer/core/archives?context=edit&attributes[displayAsDropdown]=false&attributes[showPostCounts]=false&attributes[type]=monthly&_locale=user
+1	28	0	0	0	27791389	0	0	27789030	0	0	130136	/wp-includes/js/wp-emoji-release.min.js?ver=6.0.3
+1	2	0	0	0	27789165	0	0	27789141	0	0	5564	/wp-includes/js/dist/media-utils.min.js?ver=ee812d25ec8504c5b419a1aa3cae974d
+1	1	1	0	0	27791094	0	0	27791094	0	0	22145	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-1&customize_autosaved=on
+1	29	0	0	0	27791442	0	0	27790352	0	0	395241	/wp-content/uploads/2022/11/CPItphcm.jpg
+1	3	0	0	0	27791398	0	0	27789732	0	0	10470	/wp-admin/js/widgets.min.js?ver=6.0.3
+1	4	0	0	0	27791229	0	0	27789136	0	0	2764	/wp-includes/js/wp-auth-check.min.js?ver=6.0.3
+1	5	5	0	0	27791442	0	0	27791339	0	0	53090	/so-hoa-cac-di-san-van-hoa-va-chuyen-doi-so-trong-nganh-du-lich/
+1	2	0	0	0	27789165	0	0	27789141	0	0	1494	/wp-includes/css/customize-preview.min.css?ver=6.0.3
+1	20	0	0	0	27791442	0	0	27789726	0	0	80955	/wp-content/uploads/2022/11/postelonmusktw.jpg
+1	7	0	0	0	27791422	0	0	27791235	0	0	42	/wp-json/wp/v2/blocks?context=edit&per_page=100&_locale=user
+1	1	0	0	0	27789136	0	0	27789136	0	0	31117	/wp-includes/js/dist/date.min.js?ver=e923a564a0407e0c2ffcbd348817ca86
+1	39	0	0	0	27791442	0	0	27789135	0	0	156497	/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+1	1	0	0	0	27789138	0	0	27789138	0	0	36058	/wp-admin/load-scripts.php?c=1&load[chunk_0]=jquery-core,jquery-migrate,utils&ver=6.0.3
+1	1	0	0	0	27791447	0	0	27791447	0	0	762	/wp-admin/js/widgets/media-image-widget.min.js?ver=6.1
+1	1	1	0	0	27791095	0	0	27791095	0	0	22178	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-5&customize_autosaved=on
+1	1	1	0	0	27790714	0	0	27790714	0	0	21187	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-10&customize_autosaved=on
+1	0	0	0	1	0	0	27788947	0	0	27788947	0	/favicon.png
+1	5	5	0	0	27791442	0	0	27791339	0	0	13377	/category/suc-khoe/feed/
+1	2	0	0	0	27790695	0	0	27789141	0	0	286704	/wp-content/themes/newsment/assets/img/default-header-image.jpeg
+1	5	5	0	0	27791442	0	0	27791339	0	0	2561	/so-hoa-cac-di-san-van-hoa-va-chuyen-doi-so-trong-nganh-du-lich/feed/
+1	1	0	0	0	27791421	0	0	27791421	0	0	538	/wp-admin/js/media-upload.min.js?ver=6.1
+1	5	0	0	0	27789134	0	0	27789030	0	0	2142240	/wp-content/themes/twentytwentytwo/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2
+1	1	1	0	0	27791095	0	0	27791095	0	0	22066	/?customize_changeset_uuid=bdc2a93f-a676-49a9-9bb7-b25338b86c85&customize_theme=newsment&customize_messenger_channel=preview-9&customize_autosaved=on
+1	1	1	0	0	27790714	0	0	27790714	0	0	21129	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-14&customize_autosaved=on
+1	5	5	0	0	27791442	0	0	27791339	0	0	45300	/tag/gia_xang_dau_tang/
+1	3	0	0	0	27791398	0	0	27789732	0	0	47174	/wp-includes/js/dist/edit-widgets.min.js?ver=d81f8f3ae104f6157df90b9c8d26cd39
+1	13	0	0	0	27791442	0	0	27791415	0	0	150813	/wp-includes/css/dist/block-library/style.min.css?ver=6.1
+1	1	0	0	0	27791421	0	0	27791421	0	0	1478	/wp-includes/js/dist/shortcode.min.js?ver=7539044b04e6bca57f2e
+1	5	0	0	0	27790175	0	0	27789715	0	0	8693	/index.php/wp-json/wp/v2/posts/16?_locale=user
+1	1	0	0	0	27791447	0	0	27791447	0	0	3482	/wp-admin/js/widgets.min.js?ver=6.1
+1	7	0	0	0	27790143	0	0	27789728	0	0	39389	/wp-content/uploads/2022/11/postelonmusktw-150x150.jpg
+1	2	0	0	0	27789165	0	0	27789141	0	0	1962	/wp-includes/js/dist/wordcount.min.js?ver=fb8056c75aa0a0569f7ea3ceae97fbc6
+1	2	0	0	0	27791436	0	0	27791398	0	0	1382	/wp-includes/js/wp-auth-check.min.js?ver=6.1
+1	1	0	0	0	27791421	0	0	27791421	0	0	192899	/wp-includes/js/dist/components.min.js?ver=57b49a5bb19d1f1d566a
+1	1	0	0	0	27789193	0	0	27789193	0	0	3542	/wp-includes/images/uploader-icons-2x.png
+1	1	1	0	0	27791226	0	0	27791226	0	0	452	/index.php/2022/11/01/huawei-ra-mat-matepad-se-10-4-snapdragon-680-pin-5100mah/feed/
+1	8	0	0	0	27791225	0	0	27789142	0	0	29016	/wp-includes/css/admin-bar.min.css?ver=6.0.3
+1	1	1	0	0	27790714	0	0	27790714	0	0	21129	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-18&customize_autosaved=on
+1	4	0	0	0	27791436	0	0	27791398	0	0	5040	/wp-includes/js/admin-bar.min.js?ver=6.1
+1	0	0	0	4	0	0	27788969	0	0	27788689	0	/website/wp-includes/wlwmanifest.xml
+1	1	0	0	0	27788628	0	0	27788628	0	0	64	/.well-known/acme-challenge/KCC0P2Z_9N2TD84CC3C24RZ4C7SII4TJ
+1	5	5	0	0	27791442	0	0	27791339	0	0	52500	/gia-xang-dau-tiep-tuc-tang-trong-vong-hai-tuan-vua-qua/
+1	0	0	2	0	0	27789686	0	0	27789135	0	0	/wp-admin
+1	1	1	0	0	27791226	0	0	27791226	0	0	471	/index.php/2022/11/01/gia-xang-dau-tiep-tuc-tang-trong-vong-hai-tuan-vua-qua/feed/
+1	4	0	0	0	27791229	0	0	27789136	0	0	7704	/wp-includes/js/heartbeat.min.js?ver=6.0.3
+1	13	0	0	0	27791442	0	0	27791415	0	0	7527	/wp-content/themes/covernews/assets/fixed-header-script.js?ver=6.1
+1	2	0	0	0	27789165	0	0	27789141	0	0	784	/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.0.3
+1	1	1	0	0	27790714	0	0	27790714	0	0	21160	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-23&customize_autosaved=on
+1	3	0	0	0	27790695	0	0	27789141	0	0	526365	/wp-includes/js/codemirror/codemirror.min.js?ver=5.29.1-alpha-ee20357
+1	13	0	0	0	27791442	0	0	27790411	0	0	66735	/wp-content/uploads/2022/11/biatiemvaccine.jpg
+1	2	0	0	0	27789165	0	0	27789141	0	0	91692	/wp-includes/js/dist/blocks.min.js?ver=658a51e7220626e26a92a46af5c2e489
+1	5	0	0	0	27791422	0	0	27791421	0	0	4067	/wp-json/wp/v2/users/me?_locale=user
+1	8	0	0	0	27791225	0	0	27789135	0	0	280880	/wp-includes/css/dashicons.min.css?ver=6.0.3
+1	3	0	0	0	27790564	0	0	27789193	0	0	534	/wp-includes/js/imgareaselect/border-anim-h.gif
+1	2	0	0	0	27791436	0	0	27791398	0	0	12512	/wp-admin/js/common.min.js?ver=6.1
+1	1	0	0	0	27789136	0	0	27789136	0	0	1905	/wp-includes/js/dist/url.min.js?ver=16385e4d69da65c7283790971de6b297
+1	2	0	0	0	27789165	0	0	27789141	0	0	437394	/wp-includes/js/dist/components.min.js?ver=76c5a4c54d97b02824ed3d3b164c2811
+1	0	0	1	0	0	27791337	0	0	27791337	0	0	/wp-admin/post.php?post=42&action=edit&meta-box-loader=1&meta-box-loader-nonce=5006ca79ec&_locale=user
+1	7	0	0	0	27791422	0	0	27791236	0	0	9395	/wp-json/wp/v2/themes?context=edit&status=active&_locale=user
+1	1	0	0	0	27789715	0	0	27789715	0	0	3469	/wp-includes/js/mce-view.min.js?ver=6.0.3
+1	1	1	0	0	27790714	0	0	27790714	0	0	21180	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-27&customize_autosaved=on
+1	1	0	0	0	27791229	0	0	27791229	0	0	929	/wp-admin/js/media.min.js?ver=6.0.3
+1	1	0	0	0	27789686	0	0	27789686	0	0	970	/wp-admin/js/tags-suggest.min.js?ver=6.0.3
+1	0	0	0	2	0	0	27788642	0	0	27788641	0	/.git/config
+1	3	0	0	0	27790695	0	0	27789141	0	0	3168	/wp-admin/js/widgets/media-video-widget.min.js?ver=6.0.3
+1	1	0	0	0	27790463	0	0	27790463	0	0	715	/index.php/wp-json/wp/v2/media/47?context=view&_locale=user
+1	3	0	0	0	27790695	0	0	27789141	0	0	1335	/wp-includes/js/codemirror/fakejshint.js?ver=2.9.5
+1	1	0	0	0	27790367	0	0	27790367	0	0	823	/index.php/wp-json/wp/v2/media?context=edit&include=39&per_page=100&_locale=user
+1	0	0	0	4	0	0	27788969	0	0	27788689	0	/blog/wp-includes/wlwmanifest.xml
+1	1	0	0	0	27791226	0	0	27791226	0	0	1280	/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/so-hoa-cac-di-san-van-hoa-va-chuyen-doi-so-trong-nganh-du-lich/
+1	1	0	0	0	27791447	0	0	27791447	0	0	1230	/wp-admin/js/code-editor.min.js?ver=6.1
+1	3	0	0	0	27791337	0	0	27790464	0	0	155902	/wp-admin/post.php?post=46&action=edit&message=4
+1	1	0	0	0	27791233	0	0	27791233	0	0	11818	/wp-admin/options-permalink.php?settings-updated=true
+1	2	0	0	0	27790170	0	0	27790170	0	0	23311	/wp-admin/revision.php?revision=22&gutenberg=true
+1	1	1	0	0	27791226	0	0	27791226	0	0	512	/index.php/2022/11/01/dich-sot-xuat-huyet-dien-bien-phuc-tap-xuat-hien-nhieu-o-dich-tai-ha-noi/feed/
+1	3	3	0	0	27791226	0	0	27791182	0	0	33273	/index.php/2022/11/01/gia-xang-dau-tiep-tuc-tang-trong-vong-hai-tuan-vua-qua/
+1	1	0	0	0	27789715	0	0	27789715	0	0	182388	/wp-admin/load-styles.php?c=1&dir=ltr&load[chunk_0]=dashicons,admin-bar,buttons,media-views,editor-buttons,wp-components,wp-block-editor,wp-nux,wp-reusable-blocks,wp-editor,common,&load[chunk_1]=forms,wp-reset-editor-styles,wp-block-library,wp-editor-classic-layout-styles,wp-block-library-theme,wp-edit-blocks,wp-edit-post&load[chunk_2]=,wp-block-directory,wp-format-library,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,wi&load[chunk_3]=dgets,site-icon,l10n,wp-auth-check&ver=6.0.3
+1	1	1	0	0	27790714	0	0	27790714	0	0	21160	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-32&customize_autosaved=on
+1	1	0	0	0	27791339	0	0	27791339	0	0	15	/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=CEO&number=20
+1	1	0	0	0	27791326	0	0	27791326	0	0	10624	/wp-admin/term.php?taxonomy=post_tag&tag_ID=11&post_type=post&wp_http_referer=/wp-admin/edit-tags.php%3Ftaxonomy%3Dpost_tag&message=3
+1	10	0	0	0	27790414	0	0	27789717	0	0	1380	/index.php/wp-json/wp/v2/categories?context=view&per_page=100&orderby=name&order=asc&_fields=id,name,parent&_locale=user
+1	5	0	0	0	27791442	0	0	27791339	0	0	6185	/wp-json/oembed/1.0/embed?url=https://freedays.online/huawei-ra-mat-matepad-se-10-4-snapdragon-680-pin-5100mah/
+1	26	0	0	0	27791441	0	0	27789218	0	0	3528861	/wp-content/uploads/2022/10/anhheader.jpg
+1	1	0	0	0	27788998	0	0	27788998	0	0	0	/wp-cron.php?doing_wp_cron=1667228283.5348041057586669921875
+1	3	0	0	0	27790319	0	0	27790200	0	0	24174	/wp-content/uploads/2022/11/matepadSE-150x150.jpg
+1	14	0	0	0	27791205	0	0	27790143	0	0	17268	/index.php/wp-json/batch/v1?_locale=user
+1	5	0	0	0	27790200	0	0	27790187	0	0	4123	/index.php/wp-json/wp/v2/posts/26/autosaves?_locale=user
+1	5	5	0	0	27791442	0	0	27791339	0	0	2407	/huawei-ra-mat-matepad-se-10-4-snapdragon-680-pin-5100mah/feed/
+1	3	0	0	0	27790695	0	0	27789141	0	0	2295	/wp-includes/js/utils.min.js?ver=6.0.3
+1	5	5	0	0	27791442	0	0	27791339	0	0	45747	/tag/mate_pad_se/
+1	0	0	0	2	0	0	27789730	0	0	27789085	0	/.well-known/security.txt
+1	1	0	0	0	27791421	0	0	27791421	0	0	1200	/wp-includes/js/dist/preferences.min.js?ver=5e6c91c252c0e040f379
+1	2	0	0	0	27789165	0	0	27789141	0	0	28128	/wp-includes/js/dist/core-data.min.js?ver=95df951bbac4c9f2fd2e6da80561595d
+1	3	0	0	0	27791321	0	0	27789686	0	0	3363	/wp-admin/js/inline-edit-tax.min.js?ver=6.0.3
+1	5	0	0	0	27791442	0	0	27791339	0	0	6367	/wp-json/oembed/1.0/embed?url=https://freedays.online/so-hoa-cac-di-san-van-hoa-va-chuyen-doi-so-trong-nganh-du-lich/
+1	1	0	0	0	27790411	0	0	27790411	0	0	789	/index.php/wp-json/wp/v2/media/43?context=view&_locale=user
+1	2	0	0	0	27789165	0	0	27789141	0	0	7098	/wp-admin/js/image-edit.min.js?ver=6.0.3
+1	1	0	0	0	27791336	0	0	27791336	0	0	0	/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=sad&number=20
+1	1	0	0	0	27789136	0	0	27789136	0	0	36058	/wp-admin/load-scripts.php?c=0&load[chunk_0]=jquery-core,jquery-migrate,utils&ver=6.0.3
+1	1	0	0	0	27790138	0	0	27790138	0	0	0	/wp-cron.php?doing_wp_cron=1667296717.0158860683441162109375
+1	1	0	0	0	27791226	0	0	27791226	0	0	1319	/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/so-hoa-cac-di-san-van-hoa-va-chuyen-doi-so-trong-nganh-du-lich/&format=xml
+1	1	0	0	0	27791337	0	0	27791337	0	0	0	/wp-cron.php?doing_wp_cron=1667368668.6753580570220947265625
+1	228	228	84	0	27791450	27791442	0	27788641	27789052	0	5330622	/
+1	1	0	0	0	27789141	0	0	27789141	0	0	982	/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.0.3
+1	2	0	0	0	27791338	0	0	27791338	0	0	0	/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=Huawei Mate&number=20
+1	3	0	0	0	27790577	0	0	27789728	0	0	645	/wp-includes/css/dist/reusable-blocks/style.min.css?ver=6.0.3
+1	3	0	0	0	27790695	0	0	27789141	0	0	1527	/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2
+1	1	0	0	0	27790175	0	0	27790175	0	0	0	/wp-cron.php?doing_wp_cron=1667298922.9804799556732177734375
+1	3	0	0	0	27790695	0	0	27789141	0	0	125949	/wp-includes/js/codemirror/esprima.js?ver=4.0.0
+1	1	1	0	0	27790713	0	0	27790713	0	0	20728	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-1&customize_autosaved=on
+1	1	0	0	0	27791421	0	0	27791421	0	0	7992	/wp-includes/js/dist/data.min.js?ver=d8cf5b24f99c64ae47d6
+1	1	0	0	0	27791226	0	0	27791226	0	0	334	/index.php/wp-json/wp/v2/categories/6
+1	1	0	0	0	27791339	0	0	27791339	0	0	13	/wp-admin/admin-ajax.php?action=ajax-tag-search&tax=post_tag&q=Elo&number=20
+1	1	0	0	0	27791226	0	0	27791226	0	0	314	/index.php/wp-json/wp/v2/categories/4
+1	1	0	0	0	27791226	0	0	27791226	0	0	325	/index.php/wp-json/wp/v2/categories/3
+1	1	0	0	0	27791421	0	0	27791421	0	0	36752	/wp-includes/js/dist/date.min.js?ver=ce7daf24092d87ff18be
+1	1	0	0	0	27791226	0	0	27791226	0	0	298	/index.php/wp-json/wp/v2/categories/2
+1	5	5	0	0	27791442	0	0	27791339	0	0	45323	/tag/chuyen_doi_so_nganh_du_lich/
+1	2	0	0	0	27791436	0	0	27791398	0	0	4294	/wp-includes/js/dist/api-fetch.min.js?ver=bc0029ca2c943aec5311
+1	1	0	0	0	27791421	0	0	27791421	0	0	1024	/wp-includes/js/dist/viewport.min.js?ver=a9868d184d07e4c94fe4
+1	4	0	0	0	27791338	0	0	27791236	0	0	3820	/wp-json/wp/v2/templates?_locale=user
+1	0	0	0	3	0	0	27788969	0	0	27788689	0	/2018/wp-includes/wlwmanifest.xml
+1	2	0	0	0	27791421	0	0	27791421	0	0	29732	/wp-admin/edit.php?post_type=page
+1	7	0	0	0	27790414	0	0	27789715	0	0	359237	/wp-admin/post-new.php
+1	1	0	0	0	27791339	0	0	27791339	0	0	0	/wp-cron.php?doing_wp_cron=1667368768.6005399227142333984375
+1	1	0	0	0	27789135	0	0	27789135	0	0	759	/wp-admin/images/wordpress-logo.svg?ver=20131107
+1	2	0	0	0	27789165	0	0	27789141	0	0	978	/wp-includes/js/dist/is-shallow-equal.min.js?ver=649feec00389556f8015a6b97efc1cb1
+1	1	0	0	0	27789141	0	0	27789141	0	0	566	/index.php/wp-json/aft-useful-plugins/v1/get-useful-plugins?plug=[{"slug":"af-companion","title":"Get Started with Beautiful Starter Templates.","description":"Use AF Companion to import live demo content, widgets, and settings swiftly. This plugin gives fundamental layout to build your website and accelerate the development process."}]&_locale=user
+1	1	1	0	0	27790714	0	0	27790714	0	0	21161	/?customize_changeset_uuid=846a3f87-6213-461a-9362-083dcbfdb365&customize_theme=newsment&customize_messenger_channel=preview-5&customize_autosaved=on
+1	1	0	0	0	27791447	0	0	27791447	0	0	4368	/wp-admin/js/widgets/media-widgets.min.js?ver=6.1
+1	1	1	0	0	27791226	0	0	27791226	0	0	385	/index.php/comments/feed/
+1	1	0	0	0	27791447	0	0	27791447	0	0	554	/wp-json/wp/v2/types?context=view&_locale=user
+1	2	0	0	0	27790695	0	0	27789136	0	0	4710	/wp-includes/js/wp-lists.min.js?ver=6.0.3
+1	25	0	0	0	27791441	0	0	27789141	0	0	3742328	/wp-content/themes/covernews/assets/font-awesome-v6/webfonts/fa-solid-900.woff2
+1	1	0	0	0	27791398	0	0	27791398	0	0	4006	/wp-includes/js/media-models.min.js?ver=6.1
+1	2	0	0	0	27790201	0	0	27790175	0	0	3571	/index.php/wp-json/wp/v2/posts/26?_locale=user
+3	0	0	0	1	0	0	27789193	0	0	27789193	0	https://freedays.online///?author=2
+3	1	1	0	0	27789193	0	0	27789193	0	0	7790	https://freedays.online///?author=1
+3	6	5	0	0	27791442	0	0	27791226	0	0	54535	https://freedays.online/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+3	6	0	0	0	27791442	0	0	27791226	0	0	55452	https://freedays.online/wp-content/uploads/2022/11/biamatepadSE.jpg
+3	2	0	0	0	27791339	0	0	27791226	0	0	34484	https://freedays.online/wp-content/themes/covernews/assets/script.js?ver=6.0.3
+3	1	0	0	0	27789663	0	0	27789663	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667268219.8833749294281005859375
+3	1	0	0	0	27791099	0	0	27791099	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667354356.6622369289398193359375
+3	1	1	0	0	27791226	0	0	27791226	0	0	1688	https://freedays.online/index.php/2022/11/01/huawei-ra-mat-matepad-se-10-4-snapdragon-680-pin-5100mah/feed/
+3	13	1	0	0	27789193	0	0	27789165	0	0	32886	https://freedays.online/?customize_changeset_uuid=e5a60b43-1e5b-4c32-9034-022c52e99fb3&customize_theme=newsment&customize_messenger_channel=preview-0
+3	6	4	0	0	27791442	0	0	27791339	0	0	22456	https://freedays.online/feed/
+3	5	2	0	0	27791442	0	0	27791339	0	0	22690	https://freedays.online/wp-json/oembed/1.0/embed?url=https://freedays.online/huawei-ra-mat-matepad-se-10-4-snapdragon-680-pin-5100mah/
+3	4	2	0	0	27791442	0	0	27791435	0	0	57780	https://freedays.online/wp-includes/css/dist/block-library/style.min.css?ver=6.1
+3	2	2	0	0	27791226	0	0	27791226	0	0	983	https://freedays.online/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/gia-xang-dau-tiep-tuc-tang-trong-vong-hai-tuan-vua-qua/&format=xml
+3	10	4	0	0	27791442	0	0	27790464	0	0	38823	https://freedays.online/wp-content/uploads/2022/11/biasohoadulich.jpg
+3	35	0	0	0	27790356	0	0	27789686	0	0	87838	https://freedays.online/wp-admin/edit-tags.php?taxonomy=category
+3	1	0	0	0	27791317	0	0	27791317	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667367441.3683559894561767578125
+3	5	4	0	0	27791442	0	0	27791339	0	0	53084	https://freedays.online/author/admin_q9e47rgg/
+3	1	0	0	0	27790319	0	0	27790319	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667307597.1634390354156494140625
+3	5	2	0	0	27791442	0	0	27791339	0	0	22880	https://freedays.online/wp-json/oembed/1.0/embed?url=https://freedays.online/cpi-cua-tphcm-tang-045-trong-thang-10/&format=xml
+3	5	0	0	0	27791442	0	0	27791435	0	0	66955	https://freedays.online/wp-content/uploads/2022/11/tiemvacxinchotre-150x150.jpg
+3	1	0	0	0	27788998	0	0	27788998	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667228283.5348041057586669921875
+3	5	3	0	0	27791442	0	0	27791339	0	0	33714	https://freedays.online/dich-sot-xuat-huyet-dien-bien-phuc-tap-xuat-hien-nhieu-o-dich-tai-ha-noi/
+3	1	0	0	0	27791226	0	0	27791226	0	0	334	https://freedays.online/index.php/author/admin_q9e47rgg/feed/
+3	0	0	0	1	0	0	27788998	0	0	27788998	0	https://freedays.online/2022/10/31/hello-world/
+3	56	1	0	0	27791421	0	0	27791421	0	0	1108038	https://freedays.online/wp-admin/post.php?post=3&action=edit
+3	1	0	0	0	27791234	0	0	27791234	0	0	10078	https://freedays.online/wp-admin/users.php
+3	3	0	1	0	27789141	27789141	0	27789140	27789141	0	17432	https://freedays.online/wp-admin/theme-install.php
+3	1	0	0	0	27790319	0	0	27790319	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667307552.3952190876007080078125
+3	1	0	0	0	27791226	0	0	27791226	0	0	1563	https://freedays.online/index.php/2022/11/01/so-hoa-cac-di-san-van-hoa-va-chuyen-doi-so-trong-nganh-du-lich/feed/
+3	4	2	0	0	27791442	0	0	27791339	0	0	3767	https://freedays.online/tag/chuyen_doi_so_nganh_du_lich/feed/
+3	5	0	0	0	27791442	0	0	27791339	0	0	7399	https://freedays.online/wp-json/oembed/1.0/embed?url=https://freedays.online/so-hoa-cac-di-san-van-hoa-va-chuyen-doi-so-trong-nganh-du-lich/
+3	4	0	0	0	27791442	0	0	27791435	0	0	1328	https://freedays.online/wp-content/themes/covernews/assets/slick/css/slick.css?ver=6.1
+3	6	2	0	0	27791442	0	0	27791339	0	0	23983	https://freedays.online/tag/twitter/
+3	6	0	0	0	27791442	0	0	27791226	0	0	80800	https://freedays.online/wp-includes/wlwmanifest.xml
+3	2	1	0	0	27791339	0	0	27791226	0	0	30732	https://freedays.online/wp-content/themes/covernews/assets/bootstrap/css/bootstrap.min.css?ver=6.0.3
+3	104	1	0	0	27789165	0	0	27789141	0	0	1871721	https://freedays.online/wp-admin/customize.php?theme=newsment&return=https://freedays.online/wp-admin/themes.php
+3	1	0	0	0	27789193	0	0	27789193	0	0	1934	http://freedays.online/wp-login.php
+3	1	0	0	0	27791226	0	0	27791226	0	0	1582	https://freedays.online/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/so-hoa-cac-di-san-van-hoa-va-chuyen-doi-so-trong-nganh-du-lich/
+3	2	0	0	0	27791421	0	0	27791421	0	0	14917	https://freedays.online/wp-admin/edit.php?post_status=publish&post_type=page
+3	2	1	0	0	27791226	0	0	27790413	0	0	16908	https://freedays.online/index.php/2022/11/01/lap-ke-hoach-tiem-vac-xin-covid-19-cho-tre-6-thang-tuoi/
+3	1	1	0	0	27791226	0	0	27791226	0	0	9759	https://freedays.online/index.php/2022/11/01/gia-xang-dau-tiep-tuc-tang-trong-vong-hai-tuan-vua-qua/
+3	1	0	0	0	27790138	0	0	27790138	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667296717.0158860683441162109375
+3	6	1	0	0	27791442	0	0	27791226	0	0	65726	https://freedays.online/wp-content/themes/covernews/js/skip-link-focus-fix.js?ver=20151215
+3	1	0	0	0	27790998	0	0	27790998	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667348303.8113811016082763671875
+3	2	0	0	0	27791234	0	0	27791234	0	0	21170	https://freedays.online/wp-admin/options-privacy.php
+3	1	0	0	0	27791226	0	0	27791226	0	0	3995	https://freedays.online/index.php/category/xa-hoi/
+3	1	0	0	0	27791337	0	0	27791337	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667368668.6753580570220947265625
+3	1	0	0	0	27790679	0	0	27790679	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667329157.9672579765319824218750
+3	2	0	0	0	27791339	0	0	27791226	0	0	3662	https://freedays.online/wp-content/themes/covernews/assets/marquee/jquery.marquee.js?ver=6.0.3
+3	5	1	0	0	27791442	0	0	27791339	0	0	130177	https://freedays.online/category/suc-khoe/
+3	1	0	0	0	27790924	0	0	27790924	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667343855.8891220092773437500000
+3	8	0	0	0	27791442	0	0	27791226	0	0	47971	https://freedays.online/wp-content/uploads/2022/11/CPItphcm-150x150.jpg
+3	1	0	0	0	27791226	0	0	27791226	0	0	10946	https://freedays.online/index.php/2022/11/
+3	4	1	0	0	27791442	0	0	27791435	0	0	16848	https://freedays.online/wp-content/uploads/2022/11/biaelonmusktw.jpg
+3	1	0	0	0	27790499	0	0	27790499	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667318352.0039389133453369140625
+3	4	0	0	0	27791442	0	0	27791435	0	0	147736	https://freedays.online/wp-content/themes/covernews/assets/script.js?ver=6.1
+3	1	1	0	0	27791226	0	0	27791226	0	0	441	https://freedays.online/index.php/category/kinh-te/feed/
+3	1	0	0	0	27790868	0	0	27790868	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667340481.4808869361877441406250
+3	1	0	0	0	27789139	0	0	27789139	0	0	51	https://freedays.online/wp-admin/theme-install.php?theme=kadence
+3	5	2	0	0	27791442	0	0	27791339	0	0	13606	https://freedays.online/wp-json/oembed/1.0/embed?url=https://freedays.online/gia-xang-dau-tiep-tuc-tang-trong-vong-hai-tuan-vua-qua/
+3	1	0	0	0	27790623	0	0	27790623	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667325805.4625189304351806640625
+3	1	0	0	0	27790175	0	0	27790175	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667298922.9804799556732177734375
+3	12	12	0	0	27791102	0	0	27791101	0	0	1399	https://freedays.online/?customize_changeset_uuid=4d854840-b8e3-4cc6-9726-aad2767d16d1&customize_theme=newsment&customize_messenger_channel=preview-31&customize_autosaved=on
+3	2	2	0	0	27791339	0	0	27791226	0	0	9369	https://freedays.online/wp-includes/js/comment-reply.min.js?ver=6.0.3
+3	2	0	0	0	27791339	0	0	27791226	0	0	738	https://freedays.online/wp-content/themes/covernews/style.css?ver=6.0.3
+3	1	0	0	0	27789852	0	0	27789852	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667279551.4147660732269287109375
+3	1	0	0	0	27791390	0	0	27791390	0	0	21	https://freedays.online/wp-admin/upgrade.php?step=upgrade_db
+3	5	3	0	0	27791442	0	0	27791339	0	0	20757	https://freedays.online/cpi-cua-tphcm-tang-045-trong-thang-10/feed/
+3	1	0	0	0	27789137	0	0	27789137	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667236678.3956720829010009765625
+3	22	0	0	0	27789141	0	0	27789141	0	0	133732	https://freedays.online/?customize_changeset_uuid=7d0201d3-9d44-4235-8b4e-57fc7d66049f&customize_theme=newsment&customize_messenger_channel=preview-0
+3	4	4	0	0	27791442	0	0	27791435	0	0	39028	https://freedays.online/wp-content/themes/covernews/assets/fixed-header-script.js?ver=6.1
+3	1	0	0	0	27791226	0	0	27791226	0	0	21774	https://freedays.online/index.php/category/kinh-te/
+3	5	1	0	0	27791442	0	0	27791339	0	0	63136	https://freedays.online/gia-xang-dau-tiep-tuc-tang-trong-vong-hai-tuan-vua-qua/
+3	1	0	0	0	27791226	0	0	27791226	0	0	9557	https://freedays.online/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/huawei-ra-mat-matepad-se-10-4-snapdragon-680-pin-5100mah/&format=xml
+3	2	0	0	0	27791339	0	0	27791226	0	0	8510	https://freedays.online/wp-content/themes/covernews/assets/jquery-match-height/jquery.matchHeight.min.js?ver=6.0.3
+3	2	0	0	0	27791421	0	0	27791421	0	0	14725	https://freedays.online/wp-admin/edit.php?post_status=draft&post_type=page
+3	5	0	0	0	27791442	0	0	27791339	0	0	17644	https://freedays.online/wp-json/oembed/1.0/embed?url=https://freedays.online/elon-musk-hien-tai-la-giam-doc-duy-nhat-cua-twitter/
+3	18	1	1	0	27789136	27789136	0	27789135	27789136	0	511425	https://freedays.online/wp-login.php?redirect_to=https://freedays.online/wp-admin/&reauth=1
+3	2	0	0	0	27791403	0	0	27791403	0	0	63934	https://freedays.online/wp-admin/upload.php?item=9
+3	1	0	0	0	27789193	0	0	27789193	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667239986.3502359390258789062500
+3	2	0	0	0	27791404	0	0	27791403	0	0	42332	https://freedays.online/wp-admin/upload.php?item=7
+3	6	0	0	0	27791442	0	0	27791226	0	0	53594	https://freedays.online/wp-content/uploads/2022/11/sotxuathuyet.jpg
+3	5	3	0	0	27791442	0	0	27791339	0	0	5546	https://freedays.online/tag/mate_pad_se/feed/
+3	5	2	0	0	27791442	0	0	27791339	0	0	13439	https://freedays.online/wp-json/oembed/1.0/embed?url=https://freedays.online/gia-xang-dau-tiep-tuc-tang-trong-vong-hai-tuan-vua-qua/&format=xml
+3	1	0	0	0	27791339	0	0	27791339	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667368768.6005399227142333984375
+3	4	1	0	0	27791226	0	0	27789739	0	0	18569	https://freedays.online/index.php/2022/11/01/elon-musk-hien-tai-la-giam-doc-duy-nhat-cua-twitter/
+3	1	0	0	0	27790378	0	0	27790378	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667311128.9272520542144775390625
+3	1	1	0	0	27788998	0	0	27788998	0	0	12530	https://freedays.online/index.php/2022/10/31/hello-world/
+3	585	113	0	14	27791436	0	27791093	27789165	0	27790530	5817954	https://freedays.online/wp-admin/customize.php?url=https://freedays.online/
+3	1	0	0	0	27791226	0	0	27791226	0	0	1586	https://freedays.online/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/dich-sot-xuat-huyet-dien-bien-phuc-tap-xuat-hien-nhieu-o-dich-tai-ha-noi/
+3	1	0	0	0	27791158	0	0	27791158	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667357900.9080700874328613281250
+3	2	0	0	0	27789139	0	0	27789138	0	0	8399	https://freedays.online/wp-admin/load-styles.php?c=1&dir=ltr&load[chunk_0]=dashicons,admin-bar,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets&load[chunk_1]=,site-icon,l10n,buttons,wp-auth-check&ver=6.0.3
+3	2	1	0	0	27791228	0	0	27791226	0	0	21126	https://freedays.online/index.php/2022/11/01/cpi-cua-tphcm-tang-045-trong-thang-10/
+3	5	0	0	0	27791442	0	0	27791339	0	0	21563	https://freedays.online/wp-json/wp/v2/categories/6
+3	5	1	0	0	27791442	0	0	27791339	0	0	5759	https://freedays.online/tag/chuyen_doi_so_nganh_du_lich/
+3	5	2	0	0	27791442	0	0	27791339	0	0	5340	https://freedays.online/wp-json/wp/v2/categories/4
+3	5	0	0	0	27791442	0	0	27791339	0	0	14584	https://freedays.online/wp-json/oembed/1.0/embed?url=https://freedays.online/elon-musk-hien-tai-la-giam-doc-duy-nhat-cua-twitter/&format=xml
+3	5	2	0	0	27791442	0	0	27791339	0	0	13313	https://freedays.online/wp-json/wp/v2/categories/3
+3	5	4	0	0	27791442	0	0	27791339	0	0	23852	https://freedays.online/wp-json/wp/v2/categories/2
+3	0	0	0	11	0	0	27791442	0	0	27791226	0	https://freedays.online/sitemap_index.xml
+3	1	0	0	0	27789114	0	0	27789114	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667235283.7562000751495361328125
+3	6	0	0	0	27791442	0	0	27791226	0	0	35123	https://freedays.online/wp-content/uploads/2022/11/CPItphcm.jpg
+3	1	1	0	0	27791226	0	0	27791226	0	0	2634	https://freedays.online/index.php/category/xa-hoi/feed/
+3	51	1	0	1	27791201	0	27791201	27791106	0	27791201	84505	https://freedays.online/wp-admin/customize.php?return=/wp-admin/widgets.php&autofocus[control]=header_image
+3	10	0	0	0	27791436	0	0	27791421	0	0	162675	https://freedays.online/wp-admin/edit.php?post_type=page
+3	1	1	0	0	27791226	0	0	27791226	0	0	10221	https://freedays.online/index.php/author/admin_q9e47rgg/
+3	2	0	0	0	27791438	0	0	27791399	0	0	71	https://freedays.online/wp-admin/upload.php?item=48
+3	1	0	0	0	27791401	0	0	27791401	0	0	20	https://freedays.online/wp-admin/upload.php?item=47
+3	1	0	0	0	27790449	0	0	27790449	0	0	0	https://freedays.online/wp-cron.php
+3	1	0	0	0	27791226	0	0	27791226	0	0	1314	https://freedays.online/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/elon-musk-hien-tai-la-giam-doc-duy-nhat-cua-twitter/&format=xml
+3	3	0	0	0	27791401	0	0	27791401	0	0	7486	https://freedays.online/wp-admin/upload.php?item=43
+3	6	0	0	0	27791442	0	0	27791226	0	0	73571	https://freedays.online/wp-content/uploads/2022/11/biagiaxangdautang.jpg
+3	1	0	0	0	27791338	0	0	27791338	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667368712.5996930599212646484375
+3	6	0	0	0	27791442	0	0	27791226	0	0	82982	https://freedays.online/wp-content/uploads/2022/11/tiemvacxinchotre.jpg
+3	1	0	0	0	27791401	0	0	27791401	0	0	7881	https://freedays.online/wp-admin/upload.php?item=40
+3	6	3	0	0	27791442	0	0	27791226	0	0	19584	https://freedays.online/wp-content/uploads/2022/11/biatiemvaccine-300x158.jpg
+3	1	0	0	0	27791402	0	0	27791402	0	0	20	https://freedays.online/wp-admin/upload.php?item=36
+3	2	0	0	0	27791402	0	0	27791401	0	0	10700	https://freedays.online/wp-admin/upload.php?item=35
+3	1	0	0	0	27789556	0	0	27789556	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667261779.2216179370880126953125
+3	2	0	0	0	27791339	0	0	27791226	0	0	36473	https://freedays.online/wp-content/themes/covernews/assets/fixed-header-script.js?ver=6.0.3
+3	2	0	0	0	27791402	0	0	27791402	0	0	14522	https://freedays.online/wp-admin/upload.php?item=31
+3	1	0	0	0	27790561	0	0	27790561	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667322095.0999650955200195312500
+3	2	0	0	0	27791403	0	0	27791402	0	0	9577	https://freedays.online/wp-admin/upload.php?item=27
+3	2	1	0	0	27791226	0	0	27790242	0	0	19378	https://freedays.online/index.php/2022/11/01/huawei-ra-mat-matepad-se-10-4-snapdragon-680-pin-5100mah/
+3	1	0	0	0	27789487	0	0	27789487	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667257639.1118268966674804687500
+3	199	0	1	0	27791463	27790175	0	27789686	27790175	0	1448913	https://freedays.online/wp-admin/edit.php
+3	1	0	0	0	27790018	0	0	27790018	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667289538.1574800014495849609375
+3	2	0	0	0	27791403	0	0	27791403	0	0	40	https://freedays.online/wp-admin/upload.php?item=18
+3	3	3	0	0	27791442	0	0	27791435	0	0	5049	https://freedays.online/tag/sot_xuat_huyet/feed/
+3	2	2	0	0	27791100	0	0	27791099	0	0	278	https://freedays.online/?customize_changeset_uuid=ab964550-acef-4a29-9eb4-763aae1b8469&customize_theme=newsment&customize_messenger_channel=preview-28&customize_autosaved=on
+3	3	2	0	0	27791441	0	0	27791339	0	0	3876	https://freedays.online/wp-json/wp/v2/tags/16
+3	6	3	0	0	27791442	0	0	27791339	0	0	5766	https://freedays.online/wp-json/wp/v2/tags/15
+3	5	2	0	0	27791442	0	0	27791339	0	0	22832	https://freedays.online/elon-musk-hien-tai-la-giam-doc-duy-nhat-cua-twitter/feed/
+3	4	3	0	0	27791442	0	0	27791339	0	0	5318	https://freedays.online/wp-json/wp/v2/tags/14
+3	2	0	0	0	27791403	0	0	27791403	0	0	71	https://freedays.online/wp-admin/upload.php?item=11
+3	5	3	0	0	27791442	0	0	27791339	0	0	6001	https://freedays.online/wp-json/wp/v2/tags/13
+3	4	0	0	0	27791443	0	0	27791400	0	0	142	https://freedays.online/wp-admin/upload.php?item=10
+3	5	4	0	0	27791441	0	0	27791339	0	0	7449	https://freedays.online/wp-json/wp/v2/tags/12
+3	5	2	0	0	27791442	0	0	27791339	0	0	4450	https://freedays.online/wp-json/wp/v2/tags/11
+3	5	2	0	0	27791442	0	0	27791339	0	0	4079	https://freedays.online/wp-json/wp/v2/tags/10
+3	1	0	0	0	27791226	0	0	27791226	0	0	1280	https://freedays.online/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/so-hoa-cac-di-san-van-hoa-va-chuyen-doi-so-trong-nganh-du-lich/&format=xml
+3	1	0	0	0	27791337	0	0	27791337	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667368646.5518620014190673828125
+3	5	0	0	0	27791442	0	0	27791339	0	0	2807	https://freedays.online/wp-json/wp/v2/posts/46
+3	1	0	0	0	27789865	0	0	27789865	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667280312.6107549667358398437500
+3	1	0	0	0	27789240	0	0	27789240	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667242806.1556639671325683593750
+3	1	0	0	0	27789452	0	0	27789452	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667255558.1161959171295166015625
+3	5	3	0	0	27791442	0	0	27791339	0	0	43555	https://freedays.online/wp-json/wp/v2/posts/42
+3	5	3	0	0	27791442	0	0	27791339	0	0	27157	https://freedays.online/wp-json/wp/v2/posts/38
+3	5	3	0	0	27791442	0	0	27791339	0	0	11981	https://freedays.online/tag/mate_pad_se/
+3	5	2	0	0	27791442	0	0	27791339	0	0	20093	https://freedays.online/wp-json/wp/v2/posts/34
+3	6	0	0	0	27791442	0	0	27791226	0	0	209488	https://freedays.online/wp-content/themes/newsment/style.css?ver=1.0.0
+3	80	0	0	0	27791461	0	0	27791229	0	0	538501	https://freedays.online/wp-admin/upload.php
+3	5	2	0	0	27791442	0	0	27791339	0	0	18913	https://freedays.online/wp-json/wp/v2/posts/30
+3	5	2	0	0	27791442	0	0	27791339	0	0	41973	https://freedays.online/cpi-cua-tphcm-tang-045-trong-thang-10/
+3	5	0	0	0	27791442	0	0	27791339	0	0	5266	https://freedays.online/wp-json/wp/v2/posts/26
+3	5	1	0	0	27791442	0	0	27791339	0	0	97758	https://freedays.online/so-hoa-cac-di-san-van-hoa-va-chuyen-doi-so-trong-nganh-du-lich/
+3	1	0	0	0	27790081	0	0	27790081	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667293307.2444291114807128906250
+3	2	2	1	0	27790489	27790486	0	27790487	27790486	0	28648	http://baidu.com/
+3	1	0	0	0	27791232	0	0	27791232	0	0	11385	https://freedays.online/wp-admin/options-writing.php
+3	5	3	0	0	27791442	0	0	27791339	0	0	21169	https://freedays.online/wp-json/wp/v2/posts/16
+3	4	2	0	0	27791442	0	0	27791435	0	0	4067	https://freedays.online/tag/gia_xang_dau_tang/feed/
+3	9	5	0	0	27791442	0	0	27790368	0	0	39263	https://freedays.online/wp-content/uploads/2022/11/biasotxuathuyet.jpg
+3	25	0	1	0	27790247	27790247	0	27790241	27790247	0	101019	https://freedays.online/wp-admin/post.php?post=30&action=edit
+3	5	2	0	0	27791442	0	0	27791339	0	0	27622	https://freedays.online/dich-sot-xuat-huyet-dien-bien-phuc-tap-xuat-hien-nhieu-o-dich-tai-ha-noi/feed/
+3	6	0	0	11	27791442	0	27791442	27791226	0	27791226	3420	https://freedays.online/sitemap.xml
+3	1	0	0	0	27791226	0	0	27791226	0	0	298	https://freedays.online/index.php/wp-json/wp/v2/categories/6
+3	1	0	0	0	27791226	0	0	27791226	0	0	10398	https://freedays.online/index.php/wp-json/wp/v2/categories/4
+3	1	0	0	0	27791226	0	0	27791226	0	0	7415	https://freedays.online/index.php/wp-json/wp/v2/categories/3
+3	1	0	0	0	27791226	0	0	27791226	0	0	1246	https://freedays.online/index.php/wp-json/wp/v2/categories/2
+3	4	0	0	0	27791442	0	0	27791435	0	0	1932	https://freedays.online/wp-content/themes/covernews/assets/bootstrap/css/bootstrap.min.css?ver=6.1
+3	5	2	0	0	27791442	0	0	27791339	0	0	11852	https://freedays.online/tag/elon_musk/feed/
+3	5	1	0	0	27791442	0	0	27791339	0	0	20835	https://freedays.online/wp-json/oembed/1.0/embed?url=https://freedays.online/lap-ke-hoach-tiem-vac-xin-covid-19-cho-tre-6-thang-tuoi/
+3	4	2	0	0	27791442	0	0	27791339	0	0	3826	https://freedays.online/wp-json/wp/v2/tags/9
+3	1	0	0	0	27791226	0	0	27791226	0	0	10680	https://freedays.online/index.php/2022/11/01/cpi-cua-tphcm-tang-045-trong-thang-10/feed/
+3	5	1	0	0	27791442	0	0	27791339	0	0	8692	https://freedays.online/tag/elon_musk/
+3	5	3	0	0	27791442	0	0	27791339	0	0	53907	https://freedays.online/2022/11/
+3	2	0	0	0	27791226	0	0	27790464	0	0	11880	https://freedays.online/index.php/2022/11/01/so-hoa-cac-di-san-van-hoa-va-chuyen-doi-so-trong-nganh-du-lich/
+3	0	0	0	1	0	0	27789850	0	0	27789850	0	http://freedays.online/_ignition/health-check/
+3	1	0	0	0	27791458	0	0	27791458	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667375887.5706040859222412109375
+3	1	0	0	0	27789138	0	0	27789138	0	0	33949	https://freedays.online/wp-admin/theme-install.php?browse=popular
+3	1	1	0	0	27791226	0	0	27791226	0	0	474	https://freedays.online/index.php/wp-json/wp/v2/users/1
+3	1	1	0	0	27791226	0	0	27791226	0	0	8803	https://freedays.online/index.php/category/suc-khoe/
+3	5	4	0	0	27791442	0	0	27791339	0	0	2290	https://freedays.online/author/admin_q9e47rgg/feed/
+3	8	4	0	0	27791442	0	0	27790201	0	0	21160	https://freedays.online/wp-content/uploads/2022/11/matepadSE.jpg
+3	3	0	0	0	27791442	0	0	27791437	0	0	11109	https://freedays.online/wp-includes/js/comment-reply.min.js?ver=6.1
+3	6	3	0	0	27791442	0	0	27791339	0	0	28002	https://freedays.online/category/cong-nghe/feed/
+3	7	2	0	0	27791442	0	0	27790247	0	0	18602	https://freedays.online/wp-content/uploads/2022/11/giaxangdautang.jpg
+3	1	0	0	0	27791232	0	0	27791232	0	0	12465	https://freedays.online/wp-admin/options-reading.php
+3	1	0	0	0	27789124	0	0	27789124	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667235850.2269699573516845703125
+3	1	0	0	0	27789610	0	0	27789610	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667265004.8360369205474853515625
+3	6	0	0	1	27791442	0	27791376	27791226	0	27791376	19548	https://freedays.online/wp-content/uploads/2022/10/cropped-rounded-in-photoretrica-32x32.png
+3	1	0	0	0	27791218	0	0	27791218	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667361497.2387309074401855468750
+3	1	0	0	0	27791226	0	0	27791226	0	0	1306	https://freedays.online/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/elon-musk-hien-tai-la-giam-doc-duy-nhat-cua-twitter/
+3	5	1	0	0	27791442	0	0	27791339	0	0	19054	https://freedays.online/gia-xang-dau-tiep-tuc-tang-trong-vong-hai-tuan-vua-qua/feed/
+3	1	0	0	10	27791442	0	27791442	27791442	0	27791226	570	https://freedays.online/sitemap.xml.gz
+3	0	0	2	0	0	27790684	0	0	27790684	0	0	http://www.freedays.online/
+3	1	0	0	0	27791338	0	0	27791338	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667368686.8541290760040283203125
+3	5	3	0	0	27791442	0	0	27791339	0	0	14118	https://freedays.online/so-hoa-cac-di-san-van-hoa-va-chuyen-doi-so-trong-nganh-du-lich/feed/
+3	9	1	0	0	27791421	0	0	27791421	0	0	15157	https://freedays.online/wp-admin/post.php?post=2&action=edit
+3	1	0	0	0	27791226	0	0	27791226	0	0	1228	https://freedays.online/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/huawei-ra-mat-matepad-se-10-4-snapdragon-680-pin-5100mah/
+3	6	0	0	0	27790564	0	0	27789193	0	0	1068	https://freedays.online/wp-includes/js/imgareaselect/imgareaselect.css?ver=0.9.8
+3	5	0	0	0	27791442	0	0	27791339	0	0	27686	https://freedays.online/comments/feed/
+3	1	0	0	0	27791226	0	0	27791226	0	0	18231	https://freedays.online/index.php/category/cong-nghe/
+3	5	0	0	0	27791442	0	0	27791339	0	0	6424	https://freedays.online/wp-json/oembed/1.0/embed?url=https://freedays.online/dich-sot-xuat-huyet-dien-bien-phuc-tap-xuat-hien-nhieu-o-dich-tai-ha-noi/&format=xml
+3	40	0	0	0	27791339	0	0	27789141	0	0	3376866	https://freedays.online/wp-content/themes/covernews/assets/font-awesome-v6/css/all.min.css?ver=6.0.3
+3	1	0	0	0	27791233	0	0	27791233	0	0	11804	https://freedays.online/wp-admin/options-media.php
+3	4	3	0	0	27791442	0	0	27791435	0	0	34153	https://freedays.online/wp-includes/css/classic-themes.min.css?ver=1
+3	5	4	0	0	27791442	0	0	27791339	0	0	46699	https://freedays.online/category/xa-hoi/
+3	2	1	0	0	27791226	0	0	27791226	0	0	5963	https://freedays.online/index.php/wp-json/
+3	1	0	0	0	27789718	0	0	27789718	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667271489.1111490726470947265625
+3	5	0	0	0	27791442	0	0	27791339	0	0	5355	https://freedays.online/wp-json/oembed/1.0/embed?url=https://freedays.online/so-hoa-cac-di-san-van-hoa-va-chuyen-doi-so-trong-nganh-du-lich/&format=xml
+3	11	3	0	0	27791442	0	0	27789729	0	0	28216	https://freedays.online/wp-content/uploads/2022/11/postelonmusktw.jpg
+3	1	0	0	0	27791040	0	0	27791040	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667350845.5799219608306884765625
+3	5	3	0	0	27791442	0	0	27791339	0	0	15553	https://freedays.online/category/xa-hoi/feed/
+3	1	0	0	0	27790577	0	0	27790577	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667323069.5630979537963867187500
+3	0	0	6	0	0	27791442	0	0	27791226	0	0	https://www.freedays.online/
+3	0	0	0	1	0	0	27789851	0	0	27789851	0	http://freedays.online/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
+3	2	0	0	0	27791339	0	0	27791226	0	0	2928	https://freedays.online/wp-content/themes/covernews/assets/bootstrap/js/bootstrap.min.js?ver=6.0.3
+3	1	0	0	0	27791226	0	0	27791226	0	0	1230	https://freedays.online/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/cpi-cua-tphcm-tang-045-trong-thang-10/&format=xml
+3	6	6	0	0	27791442	0	0	27791226	0	0	65134	https://freedays.online/wp-content/uploads/2022/10/rounded-in-photoretrica-1.png
+3	4	0	0	0	27789141	0	0	27789141	0	0	28138	https://freedays.online/wp-admin/themes.php?page=covernews-details
+3	76	3	2	0	27791337	27791337	0	27790382	27790413	0	252040	https://freedays.online/wp-admin/post.php?post=42&action=edit
+3	6	4	0	0	27791442	0	0	27791226	0	0	17869	https://freedays.online/wp-content/themes/covernews/js/navigation.js?ver=20151215
+3	4	0	0	0	27791442	0	0	27791435	0	0	10272	https://freedays.online/wp-content/themes/covernews/assets/marquee/jquery.marquee.js?ver=6.1
+3	5	4	0	0	27791442	0	0	27791339	0	0	12776	https://freedays.online/category/suc-khoe/feed/
+3	4	4	0	0	27791442	0	0	27791435	0	0	36852	https://freedays.online/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+3	1	0	0	0	27791226	0	0	27791226	0	0	314	https://freedays.online/index.php/wp-json/wp/v2/posts/46
+3	13	0	0	0	27789141	0	0	27789138	0	0	772545	https://freedays.online/wp-admin/themes.php
+3	2	2	0	0	27791339	0	0	27791226	0	0	19440	https://freedays.online/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+3	1	1	0	0	27791226	0	0	27791226	0	0	2415	https://freedays.online/index.php/wp-json/wp/v2/posts/42
+3	1	0	0	0	27791226	0	0	27791226	0	0	1271	https://freedays.online/index.php/wp-json/wp/v2/posts/38
+3	1	0	0	0	27789319	0	0	27789319	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667247582.0786058902740478515625
+3	1	0	0	0	27789795	0	0	27789795	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667276105.2991659641265869140625
+3	1	0	0	0	27790413	0	0	27790413	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667313187.3458769321441650390625
+3	1	0	0	0	27791226	0	0	27791226	0	0	325	https://freedays.online/index.php/wp-json/wp/v2/posts/34
+3	1	0	0	0	27791338	0	0	27791338	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667368696.9212150573730468750000
+3	1	0	0	0	27791226	0	0	27791226	0	0	14502	https://freedays.online/index.php/wp-json/wp/v2/posts/30
+3	0	0	0	13	0	0	27791442	0	0	27791226	0	https://freedays.online/sitemap_index.xml.gz
+3	1	0	0	0	27789851	0	0	27789851	0	0	369	http://freedays.online/wp-includes/wlwmanifest.xml
+3	5	2	0	0	27791442	0	0	27791339	0	0	4300	https://freedays.online/tag/vaccine_covid_19/feed/
+3	2	0	1	0	27791327	27791326	0	27791326	27791326	0	24373	https://freedays.online/wp-admin/term.php?taxonomy=post_tag&tag_ID=11&post_type=post&wp_http_referer=/wp-admin/edit-tags.php%3Ftaxonomy%3Dpost_tag
+3	4	0	0	0	27791442	0	0	27791435	0	0	5056	https://freedays.online/wp-content/themes/covernews/assets/bootstrap/js/bootstrap.min.js?ver=6.1
+3	4	0	0	0	27790695	0	0	27789193	0	0	19477	https://freedays.online/wp-admin/load-styles.php?c=1&dir=ltr&load[chunk_0]=dashicons,common,forms,admin-menu,dashboard,list-tables,edit,revisions,media,themes,about,nav-menus,wp-pointer,widgets,site-icon&load[chunk_1]=,l10n,buttons,customize-controls,customize-widgets,wp-block-library,media-views,wp-components,wp-widgets,wp-block-editor,wp-nux,&load[chunk_2]=wp-reusable-blocks,wp-editor,wp-reset-editor-styles,wp-editor-classic-layout-styles,wp-block-library-theme,wp-edit-blocks,wp-cus&load[chunk_3]=tomize-widgets,wp-block-directory,wp-format-library,customize-nav-menus,wp-color-picker,code-editor&ver=6.0.3
+3	1	0	0	0	27791278	0	0	27791278	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667365089.1720159053802490234375
+3	5	1	0	0	27791442	0	0	27791339	0	0	2879	https://freedays.online/tag/twitter/feed/
+3	4	4	0	0	27790696	0	0	27790696	0	0	3578	https://freedays.online/?customize_changeset_uuid=b10b9a9f-6c22-4f95-80fd-41717381fc6d&customize_theme=newsment&customize_messenger_channel=preview-2&customize_autosaved=on
+3	4	0	0	0	27791442	0	0	27791435	0	0	121092	https://freedays.online/wp-content/themes/covernews/assets/jquery-match-height/jquery.matchHeight.min.js?ver=6.1
+3	1	0	0	0	27791226	0	0	27791226	0	0	1323	https://freedays.online/index.php/wp-json/wp/v2/posts/16
+3	79	0	0	0	27791229	0	0	27789136	0	0	1316911	https://freedays.online/wp-admin/
+3	1	0	0	0	27789900	0	0	27789900	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667282417.8414111137390136718750
+3	6	0	0	0	27791442	0	0	27791339	0	0	38565	https://freedays.online/tag/gia_xang_dau_tang/
+3	1	0	0	0	27791398	0	0	27791398	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667372284.1991369724273681640625
+3	14	0	0	0	27789141	0	0	27789141	0	0	948732	https://freedays.online/wp-admin/themes.php?activated=true
+3	6	0	0	0	27791442	0	0	27791226	0	0	64150	https://freedays.online/wp-content/uploads/2022/11/sohoadulich-300x156.jpg
+3	47	0	1	0	27790352	27790319	0	27790250	27790319	0	117259	https://freedays.online/wp-admin/post.php?post=34&action=edit
+3	1	0	0	0	27790258	0	0	27790258	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667303898.8225638866424560546875
+3	11	0	0	0	27790695	0	0	27790695	0	0	27019	https://freedays.online/?customize_changeset_uuid=d6119657-ef3a-44a3-8af6-f60660ef332c&customize_theme=newsment&customize_messenger_channel=preview-0
+3	1	0	0	0	27790464	0	0	27790464	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667316292.2213199138641357421875
+3	1	0	0	0	27791226	0	0	27791226	0	0	1546	https://freedays.online/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/cpi-cua-tphcm-tang-045-trong-thang-10/
+3	1	0	0	0	27791338	0	0	27791338	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667368704.4522340297698974609375
+3	3237	0	0	0	27790175	0	0	27789217	0	0	21465489	https://freedays.online//wp-login.php
+3	4	0	1	0	27791234	27791232	0	27791231	27791232	0	43717	https://freedays.online/wp-admin/options-general.php
+3	146	1	3	0	27790175	27790175	0	27789717	27789729	0	528426	https://freedays.online/wp-admin/post.php?post=16&action=edit
+3	18	14	2	0	27791442	27791004	0	27788706	27790777	0	437062	http://freedays.online/
+3	5	0	0	0	27791442	0	0	27791339	0	0	8041	https://freedays.online/wp-json/oembed/1.0/embed?url=https://freedays.online/dich-sot-xuat-huyet-dien-bien-phuc-tap-xuat-hien-nhieu-o-dich-tai-ha-noi/
+3	1	0	0	0	27790747	0	0	27790747	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667333266.2573940753936767578125
+3	927	43	6	15	27791453	27791442	27791436	27788777	27791226	27788777	15046086	https://freedays.online/
+3	5	0	0	0	27791442	0	0	27791339	0	0	6651	https://freedays.online/tag/sot_xuat_huyet/
+3	6	6	0	0	27791442	0	0	27791226	0	0	75582	https://freedays.online/jfhjkdshfdsfkjhdjfdjfhjskdhfeuwfewifhhdfjkfhkdjhfsdjkfhdjkfhdkfhdfhk
+3	0	0	1	0	0	27789193	0	0	27789193	0	0	http://freedays.online///?author=2
+3	1	0	0	0	27789135	0	0	27789135	0	0	759	https://freedays.online/wp-admin/css/login.min.css?ver=6.0.3
+3	0	0	1	0	0	27789193	0	0	27789193	0	0	http://freedays.online///?author=1
+3	1	0	0	0	27791226	0	0	27791226	0	0	1744	https://freedays.online/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/lap-ke-hoach-tiem-vac-xin-covid-19-cho-tre-6-thang-tuoi/
+3	1	0	0	0	27790247	0	0	27790247	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667303247.0501120090484619140625
+3	5	2	0	0	27791442	0	0	27791339	0	0	6139	https://freedays.online/tag/vaccine_covid_19/
+3	9	2	0	0	27791442	0	0	27790319	0	0	15760	https://freedays.online/wp-content/uploads/2022/11/baiCPIphhcm.jpg
+3	6	0	0	0	27791442	0	0	27791226	0	0	42972	https://freedays.online/wp-content/uploads/2022/11/sotxuathuyet-150x150.jpg
+3	36	0	1	0	27790239	27790201	0	27790188	27790201	0	86789	https://freedays.online/wp-admin/post.php?post=26&action=edit
+3	1	0	0	0	27790368	0	0	27790368	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667310490.9739019870758056640625
+3	2	0	1	0	27791234	27791233	0	27791233	27791233	0	22840	https://freedays.online/wp-admin/options-permalink.php
+3	1	1	0	0	27791226	0	0	27791226	0	0	476	https://freedays.online/index.php/category/suc-khoe/feed/
+3	0	0	0	1	0	0	27789850	0	0	27789850	0	http://freedays.online/public/_ignition/health-check/
+3	5	1	0	0	27791442	0	0	27791339	0	0	15024	https://freedays.online/lap-ke-hoach-tiem-vac-xin-covid-19-cho-tre-6-thang-tuoi/
+3	5	0	0	0	27791442	0	0	27791339	0	0	27213	https://freedays.online/wp-json/wp/v2/users/1
+3	7	7	0	0	27791442	0	0	27791226	0	0	64771	https://freedays.online/wp-content/uploads/2022/10/cropped-rounded-in-photoretrica-180x180.png
+3	5	1	0	0	27791442	0	0	27791339	0	0	14945	https://freedays.online/huawei-ra-mat-matepad-se-10-4-snapdragon-680-pin-5100mah/feed/
+3	1	1	0	0	27791226	0	0	27791226	0	0	10614	https://freedays.online/index.php/2022/11/01/dich-sot-xuat-huyet-dien-bien-phuc-tap-xuat-hien-nhieu-o-dich-tai-ha-noi/
+3	10	4	0	0	27791442	0	0	27790413	0	0	30443	https://freedays.online/wp-content/uploads/2022/11/biatiemvaccine.jpg
+3	0	0	0	10	0	0	27791442	0	0	27791226	0	https://freedays.online/sitemap.ashx
+3	19	19	0	0	27789196	0	0	27789193	0	0	1905	https://freedays.online/?customize_changeset_uuid=e5a60b43-1e5b-4c32-9034-022c52e99fb3&customize_theme=newsment&customize_messenger_channel=preview-4&customize_autosaved=on
+3	7	0	0	0	27791442	0	0	27791339	0	0	2026	https://freedays.online/tag/cpi_tphcm/feed/
+3	1	0	0	0	27789390	0	0	27789390	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667251808.4844629764556884765625
+3	6	0	0	0	27791442	0	0	27791226	0	0	45276	https://freedays.online/wp-content/uploads/2022/11/biagiaxangdautang-150x150.jpg
+3	1	1	0	0	27791226	0	0	27791226	0	0	452	https://freedays.online/index.php/2022/11/01/elon-musk-hien-tai-la-giam-doc-duy-nhat-cua-twitter/feed/
+3	1	1	1	1	27789837	27789837	27788778	27789837	27789837	27788778	74325	https://www.google.com/
+3	1	0	0	0	27791339	0	0	27791339	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667368750.7380900382995605468750
+3	3	3	0	0	27789214	0	0	27789196	0	0	856	https://freedays.online/?customize_changeset_uuid=e5a60b43-1e5b-4c32-9034-022c52e99fb3&customize_theme=newsment&customize_messenger_channel=preview-5&customize_autosaved=on
+3	4	0	0	0	27791442	0	0	27791435	0	0	5856	https://freedays.online/wp-content/themes/covernews/style.css?ver=6.1
+3	12	12	0	0	27789216	0	0	27789215	0	0	1123	https://freedays.online/?customize_changeset_uuid=e5a60b43-1e5b-4c32-9034-022c52e99fb3&customize_theme=newsment&customize_messenger_channel=preview-6&customize_autosaved=on
+3	17	0	0	4	27791442	0	27791442	27791226	0	27791226	6756	https://freedays.online/robots.txt
+3	2	0	0	0	27790170	0	0	27790170	0	0	5965	https://freedays.online/wp-admin/revision.php?revision=22&gutenberg=true
+3	3	3	0	0	27790697	0	0	27790696	0	0	2690	https://freedays.online/index.php/category/xa-hoi/?customize_changeset_uuid=e838132a-25b4-41d7-a911-122ea1de1f8e&customize_theme=newsment&customize_messenger_channel=preview-6&customize_autosaved=on
+3	100	4	3	0	27791422	27791337	0	27790456	27790464	0	292998	https://freedays.online/wp-admin/post.php?post=46&action=edit
+3	20	1	0	0	27791442	0	0	27791339	0	0	195476	https://freedays.online/category/cong-nghe/
+3	5	3	0	0	27791442	0	0	27791339	0	0	16432	https://freedays.online/tag/cpi_tphcm/
+3	1	0	0	0	27791226	0	0	27791226	0	0	1294	https://freedays.online/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/dich-sot-xuat-huyet-dien-bien-phuc-tap-xuat-hien-nhieu-o-dich-tai-ha-noi/&format=xml
+3	16	0	0	0	27791442	0	0	27791433	0	0	1069388	https://freedays.online/wp-content/themes/covernews/assets/font-awesome-v6/css/all.min.css?ver=6.1
+3	1	0	0	0	27791296	0	0	27791296	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667366215.2521929740905761718750
+3	2	0	0	0	27791339	0	0	27791226	0	0	60546	https://freedays.online/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3
+3	0	0	0	13	0	0	27791442	0	0	27791226	0	https://freedays.online/sitemap.txt
+3	30	2	0	2	27791455	0	27791436	27791428	0	27791430	425695	https://freedays.online/huawei-ra-mat-matepad-se-10-4-snapdragon-680-pin-5100mah/
+3	4	4	0	0	27791442	0	0	27791339	0	0	18804	https://freedays.online/wp-json/
+3	6	0	0	0	27791442	0	0	27791226	0	0	48000	https://freedays.online/wp-content/uploads/2022/11/biamatepadSE-150x150.jpg
+3	6	6	0	0	27789220	0	0	27789219	0	0	1013	https://freedays.online/?customize_changeset_uuid=e5a60b43-1e5b-4c32-9034-022c52e99fb3&customize_theme=newsment&customize_messenger_channel=preview-9&customize_autosaved=on
+3	1	0	0	0	27790198	0	0	27790198	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667300288.0227499008178710937500
+3	1	0	0	0	27789958	0	0	27789958	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667285900.2609651088714599609375
+3	2	0	0	0	27791339	0	0	27791226	0	0	1902	https://freedays.online/wp-content/themes/covernews/assets/slick/css/slick.css?ver=6.0.3
+3	5	0	0	0	27791442	0	0	27791339	0	0	6311	https://freedays.online/wp-json/oembed/1.0/embed?url=https://freedays.online/lap-ke-hoach-tiem-vac-xin-covid-19-cho-tre-6-thang-tuoi/&format=xml
+3	2	0	0	0	27791235	0	0	27791235	0	0	17672	https://freedays.online/wp-admin/plugins.php
+3	282	0	0	0	27791447	0	0	27789732	0	0	1297649	https://freedays.online/wp-admin/widgets.php
+3	0	0	0	1	0	0	27789193	0	0	27789193	0	http://freedays.online///wp-json/wp/v2/users/
+3	5	2	0	0	27791442	0	0	27791339	0	0	12823	https://freedays.online/wp-json/oembed/1.0/embed?url=https://freedays.online/cpi-cua-tphcm-tang-045-trong-thang-10/
+3	6	0	0	0	27791442	0	0	27791226	0	0	51767	https://freedays.online/wp-content/uploads/2022/11/sohoadulich.jpg
+3	1	0	0	0	27790810	0	0	27790810	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667337026.7615909576416015625000
+3	1	0	0	0	27790170	0	0	27790170	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667298635.3411860466003417968750
+3	2	0	0	0	27791339	0	0	27791226	0	0	29472	https://freedays.online/wp-content/themes/covernews/assets/slick/js/slick.min.js?ver=6.0.3
+3	1	0	0	0	27791226	0	0	27791226	0	0	1275	https://freedays.online/index.php/wp-json/oembed/1.0/embed?url=https://freedays.online/index.php/2022/11/01/lap-ke-hoach-tiem-vac-xin-covid-19-cho-tre-6-thang-tuoi/&format=xml
+3	9	4	0	0	27791442	0	0	27791226	0	0	242837	https://freedays.online/wp-content/uploads/2022/11/sohoadulich-150x150.jpg
+3	86	3	1	0	27791338	27790368	0	27790360	27790368	0	293968	https://freedays.online/wp-admin/post.php?post=38&action=edit
+3	5	5	0	0	27791442	0	0	27791339	0	0	51062	https://freedays.online/elon-musk-hien-tai-la-giam-doc-duy-nhat-cua-twitter/
+3	6	0	0	0	27791442	0	0	27791226	0	0	5463	https://freedays.online/wp-content/uploads/2022/10/cropped-rounded-in-photoretrica-192x192.png
+3	25	0	0	0	27791336	0	0	27791321	0	0	38926	https://freedays.online/wp-admin/edit-tags.php?taxonomy=post_tag
+3	1	0	0	0	27791226	0	0	27791226	0	0	5476	https://freedays.online/index.php/comments/feed/
+3	1	0	0	0	27789136	0	0	27789136	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667236617.8895459175109863281250
+3	5	1	0	0	27791442	0	0	27791339	0	0	35700	https://freedays.online/lap-ke-hoach-tiem-vac-xin-covid-19-cho-tre-6-thang-tuoi/feed/
+3	2	0	0	0	27791226	0	0	27791226	0	0	2557	https://freedays.online/index.php/category/cong-nghe/feed/
+3	1	0	0	0	27790201	0	0	27790201	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667300468.9546420574188232421875
+3	4	3	0	0	27791441	0	0	27791339	0	0	18849	https://freedays.online/category/kinh-te/feed/
+3	5	1	0	0	27791442	0	0	27791339	0	0	22813	https://freedays.online/wp-json/oembed/1.0/embed?url=https://freedays.online/huawei-ra-mat-matepad-se-10-4-snapdragon-680-pin-5100mah/&format=xml
+3	1	0	0	0	27791234	0	0	27791234	0	0	14166	https://freedays.online/wp-admin/tools.php
+3	1	0	0	0	27790448	0	0	27790448	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667315339.8135991096496582031250
+3	134	7	0	0	27790455	0	0	27789715	0	0	315478	https://freedays.online/wp-admin/post-new.php
+3	1	0	0	0	27791232	0	0	27791232	0	0	10606	https://freedays.online/wp-admin/options-discussion.php
+3	1	0	0	0	27791226	0	0	27791226	0	0	7881	https://freedays.online/index.php/2022/11/01/gia-xang-dau-tiep-tuc-tang-trong-vong-hai-tuan-vua-qua/feed/
+3	1	0	0	0	27791226	0	0	27791226	0	0	1466	https://freedays.online/index.php/2022/11/01/lap-ke-hoach-tiem-vac-xin-covid-19-cho-tre-6-thang-tuoi/feed/
+3	4	3	0	0	27791442	0	0	27791339	0	0	46104	https://freedays.online/category/kinh-te/
+3	1	0	0	0	27789729	0	0	27789729	0	0	0	https://freedays.online/wp-cron.php?doing_wp_cron=1667272193.4483799934387207031250
+3	4	0	0	0	27791442	0	0	27791435	0	0	1476	https://freedays.online/wp-content/themes/covernews/assets/slick/js/slick.min.js?ver=6.1
+4	1	0	0	0	27788982	0	0	27788982	0	0	411	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36
+4	1	0	0	0	27790623	0	0	27790623	0	0	2187	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+4	7	1	0	0	27789030	0	0	27789030	0	0	552509	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/106.0.5249.0 Safari/537.36
+4	1	1	3	0	27790684	27790684	0	27790684	27790684	0	82708	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+4	0	0	0	1	0	0	27788778	0	0	27788778	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+4	2	2	2	0	27791363	27791363	0	27791363	27791363	0	30678	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+4	1659	10	13	0	27791489	27791195	0	27790924	27790924	0	12037934	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+4	2	2	1	0	27790271	27790271	0	27788693	27790271	0	12322	Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+4	1	0	0	0	27791168	0	0	27791168	0	0	2217	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+4	1	0	0	0	27790768	0	0	27790768	0	0	2187	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+4	1	0	0	0	27790851	0	0	27790851	0	0	2187	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+4	2	2	1	0	27790777	27790777	0	27790777	27790777	0	29422	Mozilla/5.0 (Linux; Android 11; vivo 1906; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.141 Mobile Safari/537.36 VivoBrowser/8.9.0.0
+4	1	0	0	0	27788982	0	0	27788982	0	0	411	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.63
+4	1	1	3	0	27789918	27789920	0	27789918	27789918	0	10897	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+4	0	0	6	0	0	27790928	0	0	27789349	0	0	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+4	7	2	1	2	27789276	27789276	27789276	27789276	27789276	27789276	162310	Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+4	34	1	0	1	27791227	0	27791227	27791227	0	27791227	626475	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.113 Safari/537.36
+4	1663	1	3	2	27790175	27790167	27790167	27790167	27790167	27790167	5948799	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+4	3	2	0	0	27791433	0	0	27791432	0	0	25559	Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	5	1	0	0	27788706	0	0	27788706	0	0	4972	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+4	2845	254	35	33	27791463	27791337	27791436	27788777	27789134	27788777	28623157	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+4	2	0	0	0	27790789	0	0	27790664	0	0	4374	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+4	1	0	0	0	27790561	0	0	27790561	0	0	2187	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+4	0	0	0	1	0	0	27789085	0	0	27789085	0	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+4	2	2	0	0	27788641	0	0	27788641	0	0	0	Go-http-client/1.1
+4	35	0	0	0	27791433	0	0	27791433	0	0	304581	Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/106.0.5249.119 Safari/537.36
+4	1	0	0	0	27790872	0	0	27790872	0	0	2187	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+4	2	0	0	0	27790914	0	0	27790810	0	0	4374	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36 MVisionPlayer/1.0.0.0
+4	0	0	0	2	0	0	27791433	0	0	27791433	0	Googlebot-Image/1.0
+4	40	40	0	0	27791297	0	0	27789865	0	0	499076	python-requests/2.26.0
+4	0	0	0	1	0	0	27789527	0	0	27789527	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36
+4	1	0	0	0	27791233	0	0	27791233	0	0	2217	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+4	1	1	0	0	27788789	0	0	27788789	0	0	609	Mozilla/5.0 (Linux; Android 8.0.0; SM-N9500 Build/R16NW; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.83 Mobile Safari/537.36 T7/10.13 baiduboxapp/10.13.0.11 (Baidu; P1 8.0.0)
+4	1	0	0	0	27791212	0	0	27791212	0	0	2217	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36
+4	1	1	2	1	27790122	27790122	27790122	27790122	27790122	27790122	9168	got (https://github.com/sindresorhus/got)
+4	1	1	0	0	27791183	0	0	27791183	0	0	122883	Mozilla/5.0 (compatible; XML Sitemaps Generator; http://www.xml-sitemaps.com) Gecko XML-Sitemaps/1.0
+4	134	49	2	13	27791339	27791339	27791339	27791226	27791339	27791339	806239	Mozilla/5.0 (Macintosh; Intel Mac OS X 12_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+4	1	0	0	0	27790582	0	0	27790582	0	0	2187	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+4	36	1	0	0	27791433	0	0	27791432	0	0	602927	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.119 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	2	2	2	0	27790721	27790721	0	27789052	27789052	0	177776	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
+4	1	1	0	1	27788874	0	27788874	27788874	0	27788874	608	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3495.148 Safari/537.36
+4	4820	2	8	3	27789577	27789556	27789730	27789216	27789216	27789216	17017305	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+4	0	0	0	1	0	0	27789085	0	0	27789085	0	Mozilla/5.0 (Windows NT 4.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+4	0	0	1	1	0	27791078	27791078	0	27791078	27791078	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like)
+4	1	0	0	0	27790644	0	0	27790644	0	0	2187	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+4	3	3	0	14	27788810	0	27788812	27788810	0	27788810	3771	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0 Safari/537.36
+4	1	0	0	0	27791126	0	0	27791126	0	0	2217	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+4	2	0	0	0	27791474	0	0	27790602	0	0	4370	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+4	1	1	0	0	27788982	0	0	27788982	0	0	608	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15
+4	0	0	1	0	0	27791004	0	0	27791004	0	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+4	1	0	0	0	27791342	0	0	27791342	0	0	2217	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+4	0	0	0	1	0	0	27789730	0	0	27789730	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2656.18 Safari/537.36
+4	68	2	2	1	27791389	27791389	27791376	27791376	27791376	27791376	979056	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+4	1	0	0	0	27791190	0	0	27791190	0	0	2217	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+4	9260	18	31	63	27791297	27791295	27791127	27788689	27789227	27788689	4661374	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+4	93	6	0	1	27791390	0	27788998	27788998	0	27788998	75685	WordPress/6.0.3; https://freedays.online
+4	12	1	1	0	27790043	27790042	0	27790043	27790042	0	83668	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+4	1	1	0	0	27790176	0	0	27790176	0	0	55288	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+4	1	0	0	0	27790935	0	0	27790935	0	0	2187	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+4	832	1	4	1	27789615	27789614	27789614	27789614	27789614	27789614	389424	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36
+4	1	1	0	0	27788643	0	0	27788643	0	0	1258	Mozilla/5.0 (X11; Linux i686; rv:10.0) Gecko/20100101 Firefox/10.0
+4	1	0	0	0	27791452	0	0	27791452	0	0	2183	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+4	2	0	0	0	27791364	0	0	27791147	0	0	4434	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+4	1	1	0	2	27788946	0	27788947	27788946	0	27788946	608	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36
+4	198	15	0	0	27791441	0	0	27791226	0	0	3357506	Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4590.2 Mobile Safari/537.36 Chrome-Lighthouse
+4	1	0	0	0	27791062	0	0	27791062	0	0	2187	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+4	60	4	3	0	27791216	27790684	0	27789021	27790684	0	1303487	Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1
+4	4	0	0	0	27788640	0	0	27788640	0	0	348	Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+4	0	0	4	0	0	27789868	0	0	27789552	0	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+4	0	0	0	1	0	0	27788642	0	0	27788642	0	Mozilla/4.0 (compatible; Dillo 3.0)
+4	2	0	0	0	27791040	0	0	27790956	0	0	4374	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+4	15	15	1	1	27791182	27791181	27791181	27791181	27791181	27791181	174933	Mozilla/5.0 (compatible; XML Sitemaps Generator; www.xml-sitemaps.com) Gecko XML-Sitemaps/1.0
+4	24	1	1	0	27790043	27790043	0	27790043	27790043	0	538518	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+4	0	0	0	2	0	0	27788727	0	0	27788724	0	Apache/2.4.34 (Ubuntu) OpenSSL/1.1.1 (internal dummy connection)
+4	2	0	0	0	27791458	0	0	27791398	0	0	0	WordPress/6.1; https://freedays.online
+4	0	0	1	0	0	27791316	0	0	27791316	0	0	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+4	0	0	1	0	0	27791132	0	0	27791132	0	0	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+4	1	0	0	0	27790685	0	0	27790685	0	0	2187	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+4	1	1	1	0	27790311	27790311	0	27790311	27790311	0	11709	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54
+4	1	1	0	0	27791433	0	0	27791433	0	0	12739	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	2	0	0	0	27790706	0	0	27790540	0	0	4374	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+4	1	0	0	0	27790977	0	0	27790977	0	0	2187	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+4	1	1	0	0	27788641	0	0	27788641	0	0	1257	Mozilla/5.0 (iPhone; CPU iPhone OS 15_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1
+4	2	1	4	4	27790868	27789851	27790868	27789851	27789850	27789850	15107	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+4	3	3	1	0	27790675	27790604	0	27790604	27790604	0	389133	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+4	266	94	4	26	27791437	27791437	27791437	27791435	27791435	27791435	1581134	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+4	1	0	0	0	27791019	0	0	27791019	0	0	2187	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+4	1	1	0	0	27789319	0	0	27789319	0	0	9584	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:52.0) Gecko/20100101 Firefox/52.0
+4	1	0	0	0	27791299	0	0	27791299	0	0	2217	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+4	73	5	2	6	27791357	27791357	27791357	27788889	27791356	27788889	958458	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36
+4	1	1	1	0	27789837	27789837	0	27789837	27789837	0	74325	Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+4	1	0	0	0	27790893	0	0	27790893	0	0	2187	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+4	70	2	1	0	27790489	27790486	0	27790487	27790486	0	1171924	Mozilla/5.0 (Linux; U; Android 8.0.0; zh-cn; Mi Note 2 Build/OPR1.170623.032) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.128 Mobile Safari/537.36 XiaoMi/MiuiBrowser/10.1.1
+4	1	1	1	0	27791201	27791201	0	27791201	27791201	0	14750	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/74.0.3729.169 Safari/537.36
+4	86	1	6	2	27790431	27789193	27789193	27789193	27789193	27789193	36792	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96
+4	110	33	2	13	27791227	27791226	27791226	27791226	27791226	27791226	717688	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+4	2	0	0	0	27790126	0	0	27789982	0	0	464	Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/92.0.4515.159 Safari/537.36
+4	1	0	0	0	27791408	0	0	27791408	0	0	2183	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+4	133	47	2	13	27791441	27791441	27791441	27791441	27791441	27791441	790654	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+4	3	3	3	2	27791155	27791155	27791155	27791155	27791155	27791155	34983	Mozilla/5.0 (compatible; ips-agent)
+4	1	1	0	0	27788641	0	0	27788641	0	0	1258	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.139 Safari/537.36
+4	1	0	0	0	27790478	0	0	27790478	0	0	2187	Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+4	1	0	0	0	27791255	0	0	27791255	0	0	2217	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+4	16	15	0	1	27791183	0	27791183	27791183	0	27791183	175000	Mozilla/5.0 (compatible; Pro Sitemaps Generator; pro-sitemaps.com) Gecko Pro-Sitemaps/1.0
+4	1	1	0	0	27788946	0	0	27788946	0	0	0	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/E247C7
+4	2	0	0	0	27791386	0	0	27790499	0	0	4404	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+4	133	47	2	13	27791442	27791442	27791442	27791442	27791442	27791442	790648	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+4	82	4	4	0	27789837	27789837	0	27789837	27789837	0	1510956	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/73.0.3683.75 Safari/537.36
+4	5	0	0	0	27791430	0	0	27790726	0	0	10961	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+4	2	2	1	0	27790271	27790271	0	27788693	27790271	0	12322	Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36
+4	8	0	0	0	27788628	0	0	27788628	0	0	512	Cpanel-HTTP-Client/1.0
+4	0	0	0	1	0	0	27788641	0	0	27788641	0	Mozilla/5.0 (Linux; U; Android 1.5; en-us; sdk Build/CUPCAKE) AppleWebkit/528.5  (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1
+5	1	0	0	0	27789963	0	0	27789963	0	0	232	128.199.109.135
+5	1	0	0	0	27790173	0	0	27790173	0	0	232	130.61.143.194
+5	2	0	0	0	27789718	0	0	27789663	0	0	464	5.161.153.73
+5	1	0	0	0	27789938	0	0	27789938	0	0	232	116.255.178.218
+5	1	0	0	0	27791357	0	0	27791357	0	0	36934	176.53.216.142
+5	420	2	3	0	27791297	27791295	0	27791295	27791295	0	290415	103.192.80.14
+5	1	0	0	0	27790074	0	0	27790074	0	0	232	114.132.250.235
+5	1	0	0	0	27789970	0	0	27789970	0	0	232	51.79.144.41
+5	7	2	1	2	27789276	27789276	27789276	27789276	27789276	27789276	162310	167.248.133.44
+5	1	1	0	0	27788982	0	0	27788982	0	0	608	144.168.222.111
+5	2	0	0	0	27790370	0	0	27790133	0	0	464	180.211.99.217
+5	0	0	2	0	0	27789349	0	0	27789349	0	0	46.211.65.223
+5	34	1	1	1	27791376	27791376	27791376	27791376	27791376	27791376	489528	54.186.4.102
+5	1	0	0	0	27791126	0	0	27791126	0	0	2217	128.199.14.4
+5	1	0	0	0	27790309	0	0	27790309	0	0	232	185.183.122.143
+5	1	0	4	3	27789851	27789851	27789851	27789851	27789850	27789850	369	147.78.47.249
+5	1	0	0	0	27789909	0	0	27789909	0	0	232	162.241.203.232
+5	1	0	0	0	27790157	0	0	27790157	0	0	232	95.81.81.219
+5	1	0	0	0	27791474	0	0	27791474	0	0	2183	94.231.86.20
+5	1	0	0	0	27790198	0	0	27790198	0	0	232	148.72.244.254
+5	0	0	1	0	0	27791357	0	0	27791357	0	0	176.113.43.115
+5	1	0	0	0	27791277	0	0	27791277	0	0	2217	148.72.214.245
+5	1	0	0	0	27791430	0	0	27791430	0	0	2183	157.230.15.115
+5	3	3	0	18	27788846	0	27788846	27788846	0	27788846	3771	20.117.148.168
+5	1	1	0	0	27790675	0	0	27790675	0	0	130271	51.254.49.97
+5	0	0	2	0	0	27789868	0	0	27789867	0	0	52.228.60.238
+5	1	0	0	0	27790299	0	0	27790299	0	0	232	103.90.235.70
+5	5	0	0	1	27791433	0	27791433	27791433	0	27791433	70652	66.249.79.82
+5	1	0	0	0	27790012	0	0	27790012	0	0	232	85.128.143.85
+5	832	1	4	1	27789615	27789614	27789614	27789614	27789614	27789614	389424	40.115.211.213
+5	31	1	0	1	27791433	0	27791433	27791433	0	27791433	417433	66.249.79.81
+5	514	2	4	2	27789218	27789216	27789216	27788874	27789216	27788874	1734140	20.123.45.127
+5	0	0	0	2	0	0	27788642	0	0	27788641	0	3.236.71.203
+5	3655	525	47	112	27791463	27791442	27791442	27788777	27789134	27788777	33935995	171.252.154.78
+5	2	0	0	0	27790006	0	0	27789795	0	0	464	101.99.95.162
+5	2	1	6	2	27789193	27789193	27789193	27789193	27789193	27789193	9724	34.84.42.54
+5	69	1	3	1	27791128	27791127	27791127	27791126	27791126	27791127	150801	103.192.80.142
+5	7	1	0	0	27789030	0	0	27789030	0	0	552509	3.252.134.74
+5	1	1	0	18	27788689	0	27788689	27788689	0	27788689	1257	156.146.45.194
+5	1	0	0	0	27790851	0	0	27790851	0	0	2187	171.244.0.91
+5	1	0	0	0	27790164	0	0	27790164	0	0	232	35.195.135.67
+5	20	20	0	0	27791297	0	0	27791297	0	0	305789	185.251.19.118
+5	1	0	0	0	27789833	0	0	27789833	0	0	232	185.197.195.173
+5	105	8	0	1	27791458	0	27788998	27788628	0	27788998	76197	103.200.23.139
+5	1	0	0	0	27791168	0	0	27791168	0	0	2217	51.91.151.60
+5	3	3	3	2	27791155	27791155	27791155	27791155	27791155	27791155	34983	72.13.46.5
+5	1	0	0	0	27788982	0	0	27788982	0	0	411	95.164.159.237
+5	36	2	2	0	27790043	27790043	0	27790043	27790042	0	622186	65.154.226.220
+5	1	0	0	0	27790289	0	0	27790289	0	0	232	103.154.177.165
+5	1	0	0	0	27789814	0	0	27789814	0	0	232	151.106.35.235
+5	1	0	0	0	27790319	0	0	27790319	0	0	232	103.129.178.69
+5	1	0	0	0	27790420	0	0	27790420	0	0	232	171.244.16.103
+5	1	0	0	0	27790872	0	0	27790872	0	0	2187	198.244.167.101
+5	1	0	0	0	27790047	0	0	27790047	0	0	232	198.144.188.12
+5	0	0	1	0	0	27791356	0	0	27791356	0	0	176.53.221.236
+5	83	5	5	0	27789837	27789837	0	27789837	27789837	0	1585281	83.112.131.196
+5	2	0	0	0	27790054	0	0	27789916	0	0	464	72.9.158.112
+5	1	1	0	1	27790669	0	27790669	27790669	0	27790669	14660	89.104.111.144
+5	1	1	0	0	27788946	0	0	27788946	0	0	0	77.35.18.44
+5	35	1	0	0	27790489	0	0	27790489	0	0	650269	42.236.10.84
+5	1	0	0	0	27790061	0	0	27790061	0	0	232	43.225.53.24
+5	1	1	1	0	27791363	27791363	0	27791363	27791363	0	15315	34.214.68.6
+5	1	0	0	0	27791019	0	0	27791019	0	0	2187	164.46.122.50
+5	0	0	0	2	0	0	27788947	0	0	27788946	0	34.207.194.89
+5	1	0	0	0	27789681	0	0	27789681	0	0	232	161.97.88.147
+5	1092	5	6	20	27790976	27790972	27790972	27788969	27790401	27788969	686073	195.178.120.44
+5	0	0	0	1	0	0	27788778	0	0	27788778	0	112.197.8.71
+5	1	0	0	0	27790081	0	0	27790081	0	0	232	184.168.121.5
+5	1	0	0	0	27790768	0	0	27790768	0	0	2187	125.227.127.195
+5	2	0	0	0	27791386	0	0	27790582	0	0	4404	77.65.212.122
+5	7	0	0	0	27791356	0	0	27791356	0	0	93584	89.104.100.36
+5	1	0	0	0	27789951	0	0	27789951	0	0	232	159.65.239.34
+5	1	0	0	0	27788640	0	0	27788640	0	0	87	18.185.84.245
+5	1	0	0	0	27789470	0	0	27789470	0	0	232	167.99.54.31
+5	1	0	0	0	27789756	0	0	27789756	0	0	232	68.183.177.20
+5	58	2	0	0	27791216	0	0	27789775	0	0	1164958	95.177.177.25
+5	1	0	0	0	27789988	0	0	27789988	0	0	232	51.79.242.130
+5	1	0	0	0	27790088	0	0	27790088	0	0	232	177.52.160.32
+5	15	0	0	0	27791357	0	0	27791357	0	0	227666	89.104.100.190
+5	1	0	0	0	27790893	0	0	27790893	0	0	2187	137.184.124.136
+5	1	0	0	0	27790380	0	0	27790380	0	0	232	177.52.160.29
+5	56	5	0	0	27791441	0	0	27791226	0	0	739178	66.249.82.208
+5	1002	1	3	1	27789414	27789410	27789410	27789410	27789410	27789410	457577	13.82.110.124
+5	0	0	0	1	0	0	27791357	0	0	27791357	0	176.53.217.149
+5	1	0	0	0	27789958	0	0	27789958	0	0	232	192.185.82.99
+5	66	6	0	0	27791441	0	0	27791226	0	0	1084526	66.249.82.206
+5	1	0	0	0	27788640	0	0	27788640	0	0	87	3.137.155.93
+5	76	4	0	0	27791441	0	0	27791226	0	0	1533802	66.249.82.204
+5	1	1	0	0	27789021	0	0	27789021	0	0	55821	69.4.89.106
+5	1002	1	3	1	27789394	27789390	27789390	27789390	27789390	27789390	457577	194.26.192.251
+5	2	2	0	0	27788641	0	0	27788641	0	0	0	195.74.76.198
+5	1	0	0	0	27789452	0	0	27789452	0	0	232	8.129.20.30
+5	1	0	0	0	27790623	0	0	27790623	0	0	2187	185.2.4.147
+5	35	1	0	0	27790487	0	0	27790487	0	0	521655	27.115.124.45
+5	832	1	3	1	27790351	27790347	27790347	27790347	27790347	27790347	439778	157.230.235.99
+5	1	0	0	0	27791190	0	0	27791190	0	0	2217	142.93.203.156
+5	1	0	0	0	27789976	0	0	27789976	0	0	232	103.130.212.57
+5	1	1	0	1	27788890	0	27788890	27788890	0	27788890	609	176.53.217.134
+5	5	1	0	0	27788706	0	0	27788706	0	0	4972	54.160.223.14
+5	1	0	0	0	27789628	0	0	27789628	0	0	232	119.18.52.177
+5	0	0	1	0	0	27791316	0	0	27791316	0	0	79.137.202.188
+5	1	1	0	1	27790868	0	27790868	27790868	0	27790868	14738	193.235.141.173
+5	1	0	0	0	27789610	0	0	27789610	0	0	232	103.98.152.12
+5	1	0	0	0	27791299	0	0	27791299	0	0	2217	47.111.116.44
+5	1	1	0	0	27790604	0	0	27790604	0	0	128591	51.255.62.4
+5	1	0	0	0	27790540	0	0	27790540	0	0	2187	82.165.184.74
+5	1	0	0	0	27790034	0	0	27790034	0	0	232	124.217.226.56
+5	1	0	0	0	27788640	0	0	27788640	0	0	87	23.178.112.103
+5	0	0	1	0	0	27790604	0	0	27790604	0	0	51.255.62.2
+5	0	0	1	0	0	27791004	0	0	27791004	0	0	147.124.216.57
+5	1	0	0	0	27789924	0	0	27789924	0	0	232	104.219.251.247
+5	1	1	0	0	27788641	0	0	27788641	0	0	1258	195.211.77.140
+5	1	0	0	0	27789645	0	0	27789645	0	0	232	66.29.138.73
+5	0	0	1	0	0	27790486	0	0	27790486	0	0	27.115.124.101
+5	1	1	0	0	27791356	0	0	27791356	0	0	15419	176.53.221.140
+5	1	1	0	0	27788641	0	0	27788641	0	0	1257	51.81.167.146
+5	1	0	0	0	27789737	0	0	27789737	0	0	232	103.74.120.192
+5	34	1	1	0	27791389	27791389	0	27791389	27791389	0	489528	54.70.25.112
+5	1	0	0	0	27790478	0	0	27790478	0	0	2187	159.203.121.12
+5	1	0	0	0	27788640	0	0	27788640	0	0	87	52.33.189.219
+5	1	0	0	0	27790041	0	0	27790041	0	0	232	167.99.78.164
+5	0	0	1	1	0	27791078	27791078	0	27791078	27791078	0	87.210.251.147
+5	1	0	0	0	27790914	0	0	27790914	0	0	2187	46.105.29.21
+5	1	0	0	0	27789505	0	0	27789505	0	0	232	162.240.215.177
+5	1	0	0	0	27790096	0	0	27790096	0	0	232	207.244.239.41
+5	1	1	1	0	27789918	27789918	0	27789918	27789918	0	10897	54.190.35.88
+5	2	0	0	0	27790236	0	0	27790236	0	0	4254	148.72.214.59
+5	1	0	0	0	27790561	0	0	27790561	0	0	2187	109.168.97.89
+5	1	0	0	0	27789699	0	0	27789699	0	0	232	88.135.37.49
+5	1	0	0	0	27790410	0	0	27790410	0	0	232	35.225.94.95
+5	1	0	0	0	27790998	0	0	27790998	0	0	2187	5.161.78.133
+5	2	0	0	0	27791233	0	0	27790747	0	0	4404	147.182.249.22
+5	1	1	0	0	27789319	0	0	27789319	0	0	9584	34.76.122.197
+5	12	0	0	0	27791357	0	0	27791357	0	0	78569	176.53.218.187
+5	0	0	0	2	0	0	27788727	0	0	27788724	0	38.75.137.222
+5	16	15	0	1	27791183	0	27791183	27791183	0	27791183	175000	81.19.188.236
+5	1	1	1	0	27791201	27791201	0	27791201	27791201	0	14750	42.83.147.34
+5	1	0	0	0	27790000	0	0	27790000	0	0	232	139.59.6.209
+5	1	1	0	0	27790176	0	0	27790176	0	0	55288	93.119.227.19
+5	1	0	0	0	27791062	0	0	27791062	0	0	2187	209.97.162.248
+5	1	1	0	0	27788643	0	0	27788643	0	0	1258	179.43.169.181
+5	1	0	0	0	27790685	0	0	27790685	0	0	2187	103.130.219.13
+5	4	4	2	0	27790271	27790271	0	27788693	27790271	0	24644	23.111.114.116
+5	1	0	0	0	27790141	0	0	27790141	0	0	232	66.29.131.126
+5	1	0	0	0	27790215	0	0	27790215	0	0	232	107.180.107.103
+5	1	1	0	0	27790656	0	0	27790656	0	0	130271	188.165.87.107
+5	1	0	0	0	27789557	0	0	27789557	0	0	232	8.218.143.243
+5	1	0	0	0	27790181	0	0	27790181	0	0	232	128.199.205.115
+5	28	1	0	0	27791356	0	0	27791356	0	0	309549	89.104.110.199
+5	1	0	0	0	27790810	0	0	27790810	0	0	2187	157.245.110.251
+5	0	0	0	4	0	0	27789730	0	0	27789085	0	82.180.154.122
+5	1659	10	13	0	27791489	27791195	0	27790924	27790924	0	12037934	185.99.135.187
+5	1	0	0	0	27791212	0	0	27791212	0	0	2217	103.129.222.91
+5	1	0	0	0	27789575	0	0	27789575	0	0	232	190.145.68.131
+5	1	0	0	0	27790023	0	0	27790023	0	0	232	103.121.90.150
+5	1	0	0	0	27790789	0	0	27790789	0	0	2187	104.131.68.19
+5	3	0	0	0	27790349	0	0	27789775	0	0	696	103.35.64.73
+5	1	0	0	0	27789487	0	0	27789487	0	0	232	148.72.244.53
+5	1	0	0	0	27789900	0	0	27789900	0	0	232	93.113.111.100
+5	1	1	1	0	27791363	27791363	0	27791363	27791363	0	15363	34.215.253.74
+5	1	0	0	0	27789944	0	0	27789944	0	0	232	120.24.108.217
+5	0	0	2	0	0	27791132	0	0	27791132	0	0	103.83.144.92
+5	1	0	0	0	27790602	0	0	27790602	0	0	2187	35.187.58.136
+5	1	0	0	0	27790431	0	0	27790431	0	0	232	194.163.132.194
+5	1	0	0	0	27790206	0	0	27790206	0	0	232	118.109.137.47
+5	1	1	1	0	27790311	27790311	0	27790311	27790311	0	11709	185.181.60.189
+5	1	0	0	0	27788982	0	0	27788982	0	0	411	138.128.83.229
+5	1	0	0	0	27790499	0	0	27790499	0	0	2187	139.59.96.126
+5	0	0	2	0	0	27789349	0	0	27789349	0	0	88.155.24.55
+5	1	0	0	0	27790067	0	0	27790067	0	0	232	134.209.105.240
+5	3	0	0	0	27790253	0	0	27790189	0	0	4486	15.235.138.120
+5	1663	1	5	2	27790175	27790167	27790167	27790167	27789552	27790167	5948799	45.83.129.167
+5	1	0	0	0	27789872	0	0	27789872	0	0	232	67.222.131.158
+5	1	0	0	0	27790111	0	0	27790111	0	0	232	162.241.174.216
+5	1	0	0	0	27790126	0	0	27790126	0	0	232	162.214.123.41
+5	1444	1	3	1	27790193	27790181	27790181	27790181	27790181	27790181	634587	84.17.57.74
+5	1	1	0	0	27791183	0	0	27791183	0	0	122883	85.92.66.149
+5	2	0	0	0	27791183	0	0	27791182	0	0	73868	85.92.66.150
+5	1	0	0	0	27790726	0	0	27790726	0	0	2187	178.128.5.109
+5	1	1	0	1	27788889	0	27788889	27788889	0	27788889	609	176.53.223.14
+5	1	0	0	0	27790017	0	0	27790017	0	0	232	217.160.10.8
+5	15	15	1	1	27791182	27791181	27791181	27791181	27791181	27791181	174933	85.92.66.148
+5	3	0	0	0	27790333	0	0	27789592	0	0	696	103.146.202.150
+5	0	0	2	0	0	27789920	0	0	27789920	0	0	35.91.202.30
+5	4307	1	4	1	27789577	27789556	27789556	27789556	27789556	27789556	15283773	34.87.169.10
+5	1	0	0	0	27789931	0	0	27789931	0	0	232	111.90.145.188
+5	1002	1	3	1	27789230	27789227	27789227	27789227	27789227	27789227	456661	167.172.85.27
+5	1	0	0	0	27789522	0	0	27789522	0	0	232	212.38.40.215
+5	1	0	0	0	27789852	0	0	27789852	0	0	232	198.136.54.132
+5	2393	1	3	1	27790974	27790963	27790963	27790963	27790963	27790963	1082877	20.25.49.209
+5	1	1	0	0	27788946	0	0	27788946	0	0	608	52.91.27.70
+5	1	0	0	0	27791432	0	0	27791432	0	0	10928	66.249.71.140
+5	1	0	0	0	27790977	0	0	27790977	0	0	2187	212.103.4.29
+5	7	1	0	0	27791433	0	0	27791432	0	0	55020	66.249.71.138
+5	1	0	0	0	27791342	0	0	27791342	0	0	2217	192.227.155.193
+5	0	0	2	0	0	27790928	0	0	27790928	0	0	88.155.112.125
+5	1	0	0	0	27790706	0	0	27790706	0	0	2187	23.99.229.218
+5	1	0	0	0	27790029	0	0	27790029	0	0	232	83.143.116.3
+5	1	0	0	0	27790103	0	0	27790103	0	0	232	194.233.69.10
+5	31	2	0	0	27791433	0	0	27791432	0	0	391773	66.249.71.136
+5	1	0	0	0	27789889	0	0	27789889	0	0	232	47.106.201.134
+5	0	0	1	0	0	27789460	0	0	27789460	0	0	103.192.80.220
+5	1	0	0	0	27791040	0	0	27791040	0	0	2187	34.65.234.0
+5	1	0	0	0	27789994	0	0	27789994	0	0	232	111.90.150.36
+5	2	2	2	0	27790721	27790721	0	27789052	27789052	0	177776	51.77.118.166
+5	2	0	0	0	27791255	0	0	27791147	0	0	4434	185.2.4.33
+5	1	0	0	0	27790956	0	0	27790956	0	0	2187	146.56.99.136
+5	1	0	0	0	27790935	0	0	27790935	0	0	2187	207.154.250.8
+5	1	0	0	0	27790644	0	0	27790644	0	0	2187	188.166.61.228
+5	1	0	0	0	27791452	0	0	27791452	0	0	2183	192.71.144.12
+5	1	1	0	0	27788789	0	0	27788789	0	0	609	1.14.7.100
+5	1	1	2	1	27790122	27790122	27790122	27790122	27790122	27790122	9168	68.69.184.202
+5	1	0	0	0	27790149	0	0	27790149	0	0	232	111.90.150.28
+5	1	0	0	0	27791364	0	0	27791364	0	0	2217	103.219.60.130
+5	0	0	0	1	0	0	27789527	0	0	27789527	0	5.9.119.108
+5	2	2	6	0	27790684	27790684	0	27790684	27790684	0	165416	23.225.199.250
+5	6	0	0	2	27791357	0	27791357	27791357	0	27791357	180859	89.104.110.118
+5	1	0	0	0	27789982	0	0	27789982	0	0	232	119.8.58.8
+5	2	2	1	0	27790777	27790777	0	27790777	27790777	0	29422	118.193.32.253
+5	1	0	0	0	27791408	0	0	27791408	0	0	2183	175.178.125.173
+5	20	20	0	0	27789865	0	0	27789865	0	0	193287	136.144.42.115
+5	1	0	0	0	27790664	0	0	27790664	0	0	2187	138.68.90.29
+5	3	3	0	14	27788810	0	27788812	27788810	0	27788810	3771	79.110.53.22
+z	0	119	16	27791458	0
+z	1	73	0	27791422	417
+z	2	961	0	27791463	55031
+z	3	14191	128	27791447	5760424
+z	4	6446	216	27791489	39112036
+z	5	1017	340	27791455	23282915
+z	6	118	17	27791447	19584095
+c	200	22906	27791489
+c	201	7	27790463
+c	299	12	27791447
+c	301	138	27791442
+c	302	31	27791337
+c	403	16	27790573
+c	404	215	27791442

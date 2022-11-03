@@ -1,0 +1,410 @@
+# Webalizer V2.23-08 Incremental Data - 11/02/2022 14:45:38
+2022 11 2 14 45 38
+158 158 1 144 0 0 4617464 6 2 1
+1 144 144 2 2
+0 0 0 0 0 0
+158 158 4617464 1 6 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+3 3 3980 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+10 10 620828 1
+1 1 10838 0
+0 0 0 0
+0 0 0 0
+144 144 3981818 5
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+158
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/freedays/public_html/wp-content/themes/covernews/inc/template-tags.php
+0 1 34389120 4822 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/bootstrap/fonts/glyphicons-halflings-regular.woff
+0 1 34381008 23424 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/LICENSE.txt
+0 1 34375136 7592 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/hooks/hook-front-page-banner-promotions.php
+0 1 34394720 2126 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/template-images.php
+0 1 34389648 4940 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/css/v5-font-face.min.css
+0 1 34376976 799 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/bootstrap/fonts/glyphicons-halflings-regular.svg
+0 1 34381216 109025 0 0
+/home/freedays/public_html/wp-content/themes/covernews/readme.txt
+0 1 0 14090 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/notice-upgrade.php
+0 1 34389984 8192 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/hooks/hook-full-width-upper-footer.php
+0 1 34395472 563 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/slick/css/fonts/slick.svg
+0 1 34384000 2166 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/hooks/blocks/block-post-header.php
+0 1 34396800 1652 0 0
+/home/freedays/public_html/wp-content/themes/covernews/admin-dashboard/dist/plugin_installer.build.js
+0 1 34385936 2720 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/jquery-match-height/jquery.matchHeight.js
+0 1 34374944 12164 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/customizer-admin.css
+0 1 34374192 922 0 0
+/home/freedays/public_html/wp-content/themes/covernews/tmpl-front-page.php
+0 1 34372064 514 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/hooks/hook-front-page-main-banner-section-1.php
+0 1 34394160 12594 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/css/all.css
+0 1 34377936 147661 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/customizer/frontpage-options.php
+0 1 34390160 17315 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/hooks/blocks/block-post-full.php
+0 1 34396608 2022 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/css/solid.css
+0 1 34378896 644 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/slick/css/fonts/slick.ttf
+0 1 34383456 1892 0 0
+/home/freedays/public_html/wp-content/themes/covernews/lib/breadcrumb-trail/breadcrumb-trail.php
+0 1 34386992 2714 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/slick/js/slick.min.js
+0 1 34382576 53179 0 0
+/home/freedays/public_html/wp-content/themes/covernews/search.php
+0 1 0 2593 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/hooks/hook-front-page-banner-trending-posts.php
+0 1 34393952 4178 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/css/brands.min.css
+0 1 34378704 18599 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/bootstrap/js/bootstrap.min.js
+0 1 34380432 58037 0 0
+/home/freedays/public_html/wp-content/themes/covernews/lib/tgm/class-tgm-plugin-activation.php
+0 1 34386800 127066 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/webfonts/fa-brands-400.woff2
+0 1 34375952 107460 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/hooks/hook-tgm.php
+0 1 34394368 1823 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/slick/js/slick.js
+0 1 34382752 93196 0 0
+/home/freedays/public_html/wp-content/themes/covernews/rtl.css
+0 1 0 6992 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/hooks/blocks/block-post-latest.php
+0 1 34396224 3250 0 0
+/home/freedays/public_html/wp-content/themes/covernews/lib/breadcrumb-trail/inc/breadcrumbs.php
+0 1 34387184 50724 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/widgets/widget-posts-slider.php
+0 1 34391664 6129 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/hooks/blocks/block-post-header-layout-1.php
+0 1 34396032 7687 0 0
+/home/freedays/public_html/wp-content/themes/covernews/template-parts/content-search.php
+0 1 34387552 698 0 0
+/home/freedays/public_html/robots.txt
+0 1 34370816 81 1 1
+/home/freedays/public_html/wp-content/themes/covernews/inc/widgets/widget-posts-double-category.php
+0 1 34392624 10572 0 0
+/home/freedays/public_html/wp-content/themes/covernews/header.php
+0 8 0 16410 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/css/v4-shims.css
+0 1 34378320 43768 0 0
+/home/freedays/public_html/wp-content/themes/covernews/lib/breadcrumb-trail/readme.txt
+0 1 34386624 7334 0 0
+/home/freedays/public_html/wp-content/themes/covernews/functions.php
+0 4 0 43294 0 0
+/home/freedays/public_html/wp-content/themes/covernews/404.php
+0 1 0 1379 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/slick/css/ajax-loader.gif
+0 1 34383104 4178 0 0
+/home/freedays/public_html/wp-content/themes/covernews/sidebar.php
+0 1 0 1361 0 0
+/home/freedays/public_html/wp-content/themes/covernews/screenshot.png
+0 1 0 270772 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/hooks/hook-front-page-banner-exclusive-posts.php
+0 1 34393744 3303 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/widgets/widget-posts-carousel.php
+0 1 34393184 6112 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/customizer-admin.js
+0 1 34373504 351 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/widgets/widgets-common-functions.php
+0 1 34392432 9445 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/customizer/customizer-control.php
+0 1 34390896 7078 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/webfonts/fa-solid-900.ttf
+0 1 34376784 397728 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/jetpack.php
+0 1 0 1534 0 0
+/home/freedays/public_html/wp-content/themes/covernews/admin-dashboard/rest-api/class-admin-notice.php
+0 1 34385360 6522 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/css/svg-with-js.css
+0 1 34379664 22051 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/bootstrap/css/bootstrap.css
+0 1 34381840 152806 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/slick/css/fonts/slick.eot
+0 1 34383824 2048 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/css/v4-font-face.css
+0 1 34379088 1857 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/customizer/customizer-default.php
+0 1 34390704 4719 0 0
+/home/freedays/public_html/wp-content/themes/covernews/footer.php
+0 1 0 6643 0 0
+/home/freedays/public_html/wp-content/themes/covernews/
+0 1 34372240 2512 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/bootstrap/js/bootstrap.js
+0 1 34380624 136072 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/css/woocommerce.css
+0 1 34382400 17150 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/css/all.min.css
+0 1 34380240 101789 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2
+0 1 34381632 18028 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/bootstrap/fonts/glyphicons-halflings-regular.eot
+0 1 34380800 20127 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/css/fontawesome.min.css
+0 1 34378512 80656 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/webfonts/fa-regular-400.ttf
+0 1 34375744 62048 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/marquee/jquery.marquee.min.js
+0 1 34374544 5653 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/custom-header.php
+0 1 34388592 5898 0 0
+/home/freedays/public_html/wp-content/themes/covernews/changelog.txt
+0 1 0 9216 1 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/slick/css/fonts/slick.woff
+0 1 34383632 1380 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/customizer/customizer-callback.php
+0 1 34391088 10449 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/widgets/widgets-init.php
+0 1 34392816 1547 0 0
+/home/freedays/public_html/wp-content/themes/covernews/admin-dashboard/assets/images/af-themes-logo.png
+0 1 34384784 8408 0 0
+/home/freedays/public_html/wp-content/themes/covernews/languages/covernews.pot
+0 1 34388096 55952 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/bootstrap/css/bootstrap.min.css
+0 1 34382032 121229 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/webfonts/fa-v4compatibility.ttf
+0 1 34375328 10136 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/theiaStickySidebar/theia-sticky-sidebar.min.js
+0 1 34384384 5374 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/webfonts/fa-brands-400.ttf
+0 1 34376368 186112 0 0
+/home/freedays/public_html/wp-content/themes/covernews/style.css
+0 4 0 785647 0 0
+/home/freedays/public_html/wp-content/themes/covernews/admin-dashboard/rest-api/class-ajaxcall.php
+0 1 34384976 3858 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/webfonts/fa-v4compatibility.woff2
+0 1 34375536 4584 0 0
+/home/freedays/public_html/wp-content/themes/covernews/js/skip-link-focus-fix.js
+0 1 34386128 716 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/hooks/blocks/block-post-grid.php
+0 1 34395840 2498 0 0
+/home/freedays/public_html/wp-content/themes/covernews/comments.php
+0 1 0 1929 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/customizer/customizer.php
+0 1 34390352 8136 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/fixed-header-script.js
+0 1 34373680 1752 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/widgets.js
+0 1 34374016 2853 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/css/brands.css
+0 1 34379472 25198 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/widgets/widget-author-info.php
+0 1 34392048 8416 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/customizer/css/customizer.css
+0 1 34391472 18264 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/jquery-match-height/jquery.matchHeight.min.js
+0 1 34374736 3391 0 0
+/home/freedays/public_html/wp-content/themes/covernews/js/customizer.js
+0 1 0 1037 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/css/solid.min.css
+0 1 34378128 577 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/css/regular.min.css
+0 1 34377744 585 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/css/svg-with-js.min.css
+0 1 34377168 16776 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/ocdi.php
+0 1 0 2237 0 0
+/home/freedays/public_html/wp-content/themes/covernews/page.php
+0 1 0 1305 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/css/v4-shims.min.css
+0 1 34377360 27598 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/css/notice.css
+0 1 34382224 543 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/css/fontawesome.css
+0 1 34380048 119537 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/template-functions.php
+0 1 34388944 11180 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/hooks/hooks-init.php
+0 1 34394544 1249 0 0
+/home/freedays/public_html/wp-content/themes/covernews/admin-dashboard/admin_dashboard.php
+0 1 34384592 5260 0 0
+/home/freedays/public_html/wp-content/themes/covernews/single.php
+0 1 0 2166 0 0
+/home/freedays/public_html/wp-content/themes/covernews/template-parts/content.php
+0 1 34387920 2196 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/css/regular.css
+0 1 34377552 652 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/multi-author.php
+0 1 34388768 3111 0 0
+/home/freedays/public_html/wp-content/themes/covernews/template-parts/content-page.php
+0 1 34387376 1364 0 0
+/home/freedays/public_html/wp-content/themes/covernews/template-parts/content-none.php
+0 1 34387744 1368 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/woocommerce.php
+0 1 34389296 12327 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/slick/css/slick.css
+0 1 34383280 1895 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/customizer/customizer-sanitize.php
+0 1 34391280 5416 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/hooks/hook-meta.php
+0 1 34395088 8465 0 0
+/home/freedays/public_html/wp-content/themes/covernews/admin-dashboard/dist/admin_dashboard.build.js
+0 1 34385744 314447 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/webfonts/fa-regular-400.woff2
+0 1 34376576 25096 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/notice-review.php
+0 1 34389472 7312 0 0
+/home/freedays/public_html/sitemap.xml
+0 2 34370688 10176 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/slick/css/slick-theme.css
+0 1 34382928 3349 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/theiaStickySidebar/theia-sticky-sidebar.js
+0 1 34384176 16693 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/webfonts/fa-solid-900.woff2
+0 1 34376160 150472 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/customizer/theme-options.php
+0 1 34390528 21398 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/widgets/widget-posts-tabbed.php
+0 1 34392992 7854 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/hooks/hook-blocks.php
+0 1 34395664 561 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/hooks/hook-front-page.php
+0 1 34394912 1894 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/widgets/widgets-register-sidebars.php
+0 1 34391856 3202 0 0
+/home/freedays/public_html/wp-content/themes/covernews/archive.php
+0 1 0 2352 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/css/v4-font-face.min.css
+0 1 34379856 1741 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/hooks/blocks/block-post-related.php
+0 1 34396416 3424 0 0
+/home/freedays/public_html/wp-content/themes/covernews/js/navigation.js
+0 1 0 3073 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/font-awesome-v6/css/v5-font-face.css
+0 1 34379280 893 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf
+0 1 34381424 45404 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/init.php
+0 1 0 619 0 0
+/home/freedays/public_html/wp-content/themes/covernews/admin-dashboard/rest-api/api-request.php
+0 1 34385168 5523 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/marquee/jquery.marquee.js
+0 1 34374368 23347 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/widgets/widgets-base.php
+0 1 34393568 12414 0 0
+/home/freedays/public_html/wp-content/themes/covernews/admin-dashboard/dist/style-admin_dashboard.css
+0 1 34385552 28100 0 0
+/home/freedays/public_html/wp-content/themes/covernews/assets/script.js
+0 1 0 16824 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/widgets/widget-social-contacts.php
+0 1 34392240 3429 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/hooks/hook-front-page-banner-featured-posts.php
+0 1 34395264 3447 0 0
+/home/freedays/public_html/wp-content/themes/covernews/inc/widgets/widget-posts-grid.php
+0 1 34393376 7088 0 0
+# End Of Table - urls
+# -sites- (monthly)
+dynamic-ip-adsl.viettel.vn
+0 158 158 4617464 2 1667400337
+/home/freedays/public_html/wp-content/themes/covernews/lib/breadcrumb-trail/readme.txt
+# End Of Table - sites (monthly)
+# -sites- (daily)
+dynamic-ip-adsl.viettel.vn
+0 158 158 4617464 2 1667400337
+/home/freedays/public_html/wp-content/themes/covernews/lib/breadcrumb-trail/readme.txt
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+doan@freedays.online
+0 158 158 4617464 3 1667400337
+# End Of Table - usernames

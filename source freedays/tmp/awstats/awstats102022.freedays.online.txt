@@ -1,0 +1,338 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202210 will be lost/reset.
+# Last config file used to build this data file was /home/freedays/tmp/awstats/awstats.freedays.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2694                
+POS_VISITOR 3409                
+POS_DAY 4400                
+POS_DOMAIN 4550                
+POS_LOGIN 4877                
+POS_ROBOT 5032                
+POS_WORMS 5287                
+POS_EMAILSENDER 5418                
+POS_EMAILRECEIVER 5561                
+POS_SESSION 5637                
+POS_SIDER 5794                
+POS_FILETYPES 6794                
+POS_DOWNLOADS 6990                
+POS_OS 7038                
+POS_BROWSER 7205                
+POS_SCREENSIZE 7639                
+POS_UNKNOWNREFERER 7713                
+POS_UNKNOWNREFERERBROWSER 7997                
+POS_ORIGIN 8173                
+POS_SEREFERRALS 8306                
+POS_PAGEREFS 8450                
+POS_SEARCHWORDS 8598                
+POS_KEYWORDS 8750                
+POS_MISC 2358                
+POS_ERRORS 8809                
+POS_CLUSTER 4733                
+POS_SIDER_404 8919                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20221101000410 156 33863 16535453086743
+FirstTime 20221031154803
+LastTime 20221031235612
+LastUpdate 20221101151900 156 0 155 0 0
+TotalVisits 27                  
+TotalUnique 23                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 25                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 8 8 512 0 0 0
+16 9 9 5336 23 23 26000
+17 1 5 4972 2 2 2476
+18 4 8 8342 17 18 20399
+19 4 4 4379 19 19 23522
+20 2 2 1218 0 2 0
+21 10 13 30963 19 21 24760
+22 4 9 664151 1 1 707
+23 4 9 562150 0 2 2476
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 25
+103.200.23.139 12 12 23887 20221031235443
+171.252.154.78 5 15 568500 20221031235612
+79.110.53.22 3 3 3771 20221031185035
+195.178.120.44 3 3 3771 20221031212953
+20.117.148.168 3 3 3771 20221031192603
+23.111.114.116 2 2 1216 20221031165303
+3.252.134.74 2 7 552509 20221031223026
+176.53.217.134 1 1 609 20221031201046
+3.137.155.93 1 1 87 20221031160035
+52.91.27.70 1 1 608 20221031210641
+52.33.189.219 1 1 87 20221031160033
+51.77.118.166 1 1 55821 20221031225228
+176.53.223.14 1 1 609 20221031200929
+69.4.89.106 1 1 55821 20221031222105
+144.168.222.111 1 1 608 20221031214208
+20.123.45.127 1 1 608 20221031195457
+77.35.18.44 1 1 0 20221031210631
+23.178.112.103 1 1 87 20221031160033
+18.185.84.245 1 1 87 20221031160033
+51.81.167.146 1 1 1257 20221031160108
+54.160.223.14 1 5 4972 20221031170647
+156.146.45.194 1 1 1257 20221031164937
+195.211.77.140 1 1 1258 20221031160112
+95.164.159.237 0 1 411 
+138.128.83.229 0 1 411 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20221031 46 67 1282023 27
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+us 16 26 622042
+in 12 12 23887
+vn 5 15 568500
+ru 4 4 2476
+si 3 3 3771
+cz 3 3 3771
+gb 2 2 57078
+zz 1 1 87
+ua 0 1 411
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+Go\-http\-client/ 2 0 20221031160100 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 1258 20221031160315 0
+baidu 1 609 20221031182917 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 26
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 14
+/ 27 171965 19 17
+/.well-known/acme-challenge/wrLFrJ2Sap_c9pJ76D3KNYy5FPVAxRhkkWngn8ELnmQ 4 348 4 4
+/wp-cron.php 2 0 1 2
+/wp-content/themes/twentytwentytwo/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2 2 856896 0 1
+http://freedays.online:80/ 2 608 2 2
+/.well-known/acme-challenge/P3JPXYQFM0WAWDRNW4IA6YMOFAQADIFQ 1 64 0 0
+/.well-known/acme-challenge/KCC0P2Z_9N2TD84CC3C24RZ4C7SII4TJ 1 64 0 0
+/.well-known/acme-challenge/NB2DXM_3OX6NKWVY1OKYXJH-1-SXDR1_ 1 64 1 0
+/.well-known/acme-challenge/7ULO6BROQUV_AXDP12H24103DLZYDSEL 1 64 0 1
+/.well-known/acme-challenge/BLMDRFYOHRB5LGC43EK9QLUUGD48FZLK 1 64 0 0
+/.well-known/acme-challenge/LEKVIHIDA22-H-YOL5Y8V0UT65_4QZBQ 1 64 0 0
+/.well-known/acme-challenge/XVKVOCLDB0S_WTDR812ZKVTGI94TM5H7 1 64 0 0
+/index.php/2022/10/31/hello-world/ 1 12530 0 0
+/.well-known/acme-challenge/X34HU_AKN25HFYCLOR463B2L0M5T9IGX 1 64 0 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+svg 4 1566 0 0
+png 2 207278 0 0
+js 8 19557 0 0
+html 30 185103 0 0
+woff2 2 856896 0 0
+php 2 0 0 0
+Unknown 12 860 0 0
+css 7 10763 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+macosx15 2 1
+win8.1 1 1
+ios_iphone 3 3
+androidnougat 1 1
+Unknown 16 16
+win10 36 21
+linux 7 2
+win7 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 19
+chrome63.0.3239.139 1 1
+safari10.0 1 1
+chrome85.0.4183.127 1 1
+chrome106.0.5249.0 7 2
+chrome83.0.4103.106 2 2
+safari13.0.3 1 1
+safari15.1 1 1
+chrome79.0 3 3
+chrome69.0.3495.148 1 1
+chrome96.0.4664.55 1 0
+opera80.0.4170.63 1 0
+chrome94.0.4606.61 2 2
+chrome85.0.4183.102 5 1
+Unknown 12 12
+chrome78.0.3904.108 7 7
+safari15.0 1 1
+chrome107.0.0.0 15 5
+mozilla 4 4
+chrome51.0.2704.106 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20221031160035
+WordPress/6.0.3;_https://freedays.online 20221031235443
+Cpanel-HTTP-Client/1.0 20221031154803
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/6.0.3;_https://freedays.online 20221031235443
+Cpanel-HTTP-Client/1.0 20221031154803
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 40 42
+From1 0 0
+From2 0 0
+From3 0 0
+From4 6 25
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 4 4916
+404 75 92850
+301 1 707
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 24
+/2022/10/31/hello-world/ 1 https://freedays.online/2022/10/31/hello-world/
+/security.txt 1 -
+/sito/wp-includes/wlwmanifest.xml 4 -
+/test/wp-includes/wlwmanifest.xml 4 -
+/wordpress/ 1 -
+/cms/wp-includes/wlwmanifest.xml 4 -
+/favicon.png 1 -
+/wp1/wp-includes/wlwmanifest.xml 4 -
+/2019/wp-includes/wlwmanifest.xml 3 -
+/website/wp-includes/wlwmanifest.xml 4 -
+/site/wp-includes/wlwmanifest.xml 4 -
+/.well-known/security.txt 1 -
+/wp2/wp-includes/wlwmanifest.xml 4 -
+/wp/wp-includes/wlwmanifest.xml 4 -
+/wp-includes/wlwmanifest.xml 4 -
+/blog/wp-includes/wlwmanifest.xml 4 -
+/news/wp-includes/wlwmanifest.xml 4 -
+/media/wp-includes/wlwmanifest.xml 3 -
+/shop/wp-includes/wlwmanifest.xml 3 -
+/xmlrpc.php 4 -
+/wp-admin/setup-config.php 2 -
+/web/wp-includes/wlwmanifest.xml 4 -
+/wordpress/wp-includes/wlwmanifest.xml 4 -
+/2018/wp-includes/wlwmanifest.xml 3 -
+END_SIDER_404

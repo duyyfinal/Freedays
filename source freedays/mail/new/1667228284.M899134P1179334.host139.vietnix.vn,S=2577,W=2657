@@ -1,0 +1,80 @@
+Return-Path: <>
+Delivered-To: freedays@host139.vietnix.vn
+Received: from host139.vietnix.vn
+	by host139.vietnix.vn with LMTP
+	id rvePM3ziX2PG/hEARps5eg
+	(envelope-from <>)
+	for <freedays@host139.vietnix.vn>; Mon, 31 Oct 2022 21:58:04 +0700
+Return-path: <>
+Envelope-to: freedays@host139.vietnix.vn
+Delivery-date: Mon, 31 Oct 2022 21:58:04 +0700
+Received: from mailnull by host139.vietnix.vn with local (Exim 4.95)
+	id 1opWEm-004wmd-PR
+	for freedays@host139.vietnix.vn;
+	Mon, 31 Oct 2022 21:58:04 +0700
+X-Failed-Recipients: admin@freedays.online
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@host139.vietnix.vn>
+To: freedays@host139.vietnix.vn
+References: <gvezla8g1O6APgtOfpZfxD5jodygqBj2cbwKngY7EQ@freedays.online>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1667228284-eximdsn-1899127882
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1opWEm-004wmd-PR@host139.vietnix.vn>
+Date: Mon, 31 Oct 2022 21:58:04 +0700
+
+--1667228284-eximdsn-1899127882
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@freedays.online
+    No Such User Here
+
+--1667228284-eximdsn-1899127882
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; host139.vietnix.vn
+
+Action: failed
+Final-Recipient: rfc822;admin@freedays.online
+Status: 5.0.0
+
+--1667228284-eximdsn-1899127882
+Content-type: message/rfc822
+
+Return-path: <freedays@host139.vietnix.vn>
+Received: from freedays by host139.vietnix.vn with local (Exim 4.95)
+	(envelope-from <freedays@host139.vietnix.vn>)
+	id 1opWEm-004wmM-M4
+	for admin@freedays.online;
+	Mon, 31 Oct 2022 21:58:04 +0700
+To: admin@freedays.online
+Subject: New WordPress Site
+Date: Mon, 31 Oct 2022 14:58:04 +0000
+From: WordPress <wordpress@freedays.online>
+Message-ID: <gvezla8g1O6APgtOfpZfxD5jodygqBj2cbwKngY7EQ@freedays.online>
+X-Mailer: PHPMailer 6.6.0 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Your new WordPress site has been successfully set up at:
+
+https://freedays.online
+
+You can log in to the administrator account with the following information:
+
+Username: admin_q9e47rgg
+Password: The password you chose during installation.
+Log in here: https://freedays.online/wp-login.php
+
+We hope you enjoy your new site. Thanks!
+
+--The WordPress Team
+https://wordpress.org/
+
+
+--1667228284-eximdsn-1899127882--

@@ -1,0 +1,4 @@
+[03-Nov-2022 11:08:01 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/freedays/public_html/wp-content/themes/covernews/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/freedays/public_html/wp-content/themes/covernews/index.php on line 15

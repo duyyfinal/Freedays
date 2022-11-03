@@ -1,0 +1,2338 @@
+# Webalizer V2.23-08 Incremental Data - 11/02/2022 15:29:32
+2022 11 2 15 29 32
+23239 22903 196 393 202 91 88468258 1379 117 0
+88 170 4318 1 2
+14784 14651 44169661 112 485 48
+8455 8252 44298597 88 894 69
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+468 451 8980665 24
+1709 1689 3377395 87
+239 224 3162125 93
+41 36 137532 12
+2016 2008 923418 10
+10 8 23708 2
+3259 3245 1817607 16
+4324 4315 15416641 10
+906 895 1367901 43
+267 248 1596695 63
+579 560 7212246 99
+685 660 7353312 109
+1244 1207 5609243 176
+654 641 5242040 16
+1583 1517 13175224 355
+222 220 1727173 4
+24 21 14326 2
+3293 3276 7764255 64
+117 112 393393 47
+55 50 154910 17
+993 984 1009250 53
+383 375 641075 60
+121 118 1357341 17
+47 43 10783 0
+12
+0
+0
+22903
+7
+0
+0
+0
+0
+0
+0
+138
+31
+0
+0
+0
+0
+0
+0
+0
+12
+136
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/so-hoa-cac-di-san-van-hoa-va-chuyen-doi-so-trong-nganh-du-lich/feed/
+0 5 0 2561 1 0
+/wp-content/themes/twentytwentytwo/screenshot.png
+0 1 17179869184 162290 0 0
+/wp-content/uploads/2022/11/sotxuathuyet-150x150.jpg
+0 31 20922064 156798 0 0
+/wp-admin/theme-install.php
+0 1 0 10328 0 0
+/wp-content/uploads/2022/11/biamatepadSE-150x150.jpg
+0 7 20916768 38332 0 0
+/wp-content/themes/covernews/style.css
+0 39 0 1185863 0 0
+/wp-content/themes/twentytwentytwo/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2
+0 3 0 1285344 0 0
+/wp-admin/options-permalink.php
+0 2 20947344 23622 0 0
+/wp-content/themes/covernews/assets/slick/css/slick.css
+0 38 0 18686 0 0
+/wp-content/themes/covernews/assets/script.js
+0 42 0 108652 0 0
+/wp-content/uploads/2022/10/uriwrplv-150x150.jpg
+0 1 0 2973 0 0
+/wp-content/uploads/2022/11/baiCPIphhcm.jpg
+0 12 20920496 96120 0 0
+/wp-json/wp/v2/users/me
+0 5 20973696 4067 0 0
+/wp-includes/js/dist/vendor/wp-polyfill.min.js
+0 3 0 20616 0 0
+/wp-content/uploads/2022/11/biatiemvaccine.jpg
+0 13 20923328 66735 0 0
+/wp-content/uploads/2022/10/rounded-in-photoretrica-150x150.png
+0 1 0 26001 0 0
+/wp-includes/js/dist/style-engine.min.js
+0 1 20973136 1456 0 0
+/wp-includes/css/dist/editor/style.min.css
+0 3 0 10395 0 0
+/wp-content/uploads/2022/11/tiemvacxinchotre-150x150.jpg
+0 31 0 212598 0 0
+/wp-content/uploads/2022/11/giaxangdautang.jpg
+0 10 20917952 116016 0 0
+/wp-json/wp/v2/categories/4
+0 5 20959232 1510 0 0
+/wp-content/uploads/2022/11/CPItphcm.jpg
+0 31 20921584 422499 0 0
+/sitemap.xml
+0 20 20916224 11555 0 0
+/wp-includes/js/clipboard.min.js
+0 2 18446744073709551615 5943 0 0
+/wp-includes/js/dist/date.min.js
+0 2 0 67869 0 0
+/wp-admin/js/dashboard.min.js
+0 3 0 8505 0 0
+/wp-admin/widgets.php
+0 4 0 233571 0 0
+/wp-content/themes/covernews/inc/customizer/css/customizer.css
+0 3 0 8943 0 0
+/wp-admin/themes.php
+0 4 0 55465 0 0
+/wp-admin/js/widgets/media-gallery-widget.min.js
+0 4 0 4456 0 0
+/wp-content/uploads/2022/10/xocbebtk13-150x150.jpg
+0 1 20807216 3771 0 0
+/wp-admin/js/common.min.js
+0 5 0 31229 0 0
+/wp-json/wp/v2/pages/2
+0 1 20973920 1518 0 0
+/wp-includes/js/codemirror/codemirror.min.css
+0 3 0 12045 0 0
+/wp-json/wp/v2/tags/14
+0 5 20965600 1470 0 0
+/wp-admin/css/l10n.min.css
+0 1 0 596 0 0
+/wp-includes/js/dist/block-directory.min.js
+0 3 0 19014 0 0
+/wp-content/uploads/2022/11/biagiaxangdautang.jpg
+0 31 20921664 286502 0 0
+/wp-includes/js/customize-preview-nav-menus.min.js
+0 3 0 4878 0 0
+/wp-admin/js/customize-controls.min.js
+0 3 0 81924 0 0
+/wp-json/wp/v2/posts/46
+0 10 20949792 16964 1 1
+/wp-includes/js/codemirror/htmlhint.js
+0 3 0 16392 0 0
+/wp-admin/options-reading.php
+0 1 20946624 11385 0 0
+/wp-includes/js/customize-preview.min.js
+0 3 0 8652 0 0
+/wp-admin/upload.php
+0 4 20945424 97484 0 0
+/category/suc-khoe/feed/
+0 5 20964032 13377 1 0
+/wp-content/themes/covernews/assets/font-awesome-v6/webfonts/fa-regular-400.woff2
+0 27 0 677592 0 0
+/wp-includes/css/dist/block-library/theme.min.css
+0 3 0 1794 0 0
+/wp-content/themes/covernews/assets/fixed-header-script.js
+0 41 0 24007 0 0
+/wp-content/uploads/2022/10/uriwrplv.jpg
+0 1 0 5068 0 0
+/wp-json/wp/v2/tags/15
+0 5 20964928 1520 0 0
+/tag/vaccine_covid_19/
+0 5 20957696 45354 0 0
+/wp-includes/js/thickbox/thickbox.js
+0 2 0 7973 0 0
+/category/xa-hoi/feed/
+0 5 20956400 8666 0 1
+/tag/mate_pad_se/feed/
+0 5 20965376 8662 0 0
+/wp-content/uploads/2022/11/matepadSE.jpg
+0 12 20916480 95570 0 0
+/wp-admin/options-privacy.php
+0 1 20948016 11022 0 0
+/wp-content/uploads/2022/11/postelonmusktw-150x150.jpg
+0 7 0 39389 0 0
+/wp-json/wp/v2/users/
+0 1 20951280 626 0 0
+/wp-includes/css/buttons.min.css
+0 1 0 1255 0 0
+/wp-content/themes/covernews/admin-dashboard/dist/style-admin_dashboard.css
+0 2 0 9250 0 0
+/wp-includes/css/classic-themes.min.css
+0 12 20973008 1728 0 0
+/wp-includes/js/customize-models.js
+0 3 0 5400 0 0
+/wp-includes/js/imgareaselect/border-anim-h.gif
+0 3 0 534 0 0
+/wp-admin/js/editor.min.js
+0 3 0 13536 0 0
+/wp-includes/js/jquery/ui/slider.min.js
+0 3 0 9000 0 0
+/wp-json/wp/v2/categories/2
+0 5 20960608 1465 0 0
+/wp-content/uploads/2022/10/cropped-rounded-in-photoretrica.png
+0 2 0 305748 0 0
+/wp-includes/css/customize-preview.min.css
+0 2 0 1494 0 0
+/wp-includes/js/dist/media-utils.min.js
+0 3 0 8326 0 0
+/wp-includes/js/tinymce/wp-tinymce.js
+0 2 0 424400 0 0
+/wp-includes/js/dist/notices.min.js
+0 3 0 2676 0 0
+/wp-includes/js/thickbox/thickbox.css
+0 3 0 2472 0 0
+/wp-includes/js/shortcode.min.js
+0 2 0 2148 0 0
+/wp-includes/js/wp-lists.min.js
+0 2 0 4710 0 0
+/cpi-cua-tphcm-tang-045-trong-thang-10/
+0 5 20956112 53498 0 0
+/wp-includes/js/dist/viewport.min.js
+0 3 0 3048 0 0
+/wp-json/wp/v2/taxonomies/post_tag
+0 5 20950512 4230 0 0
+/tag/elon_musk/feed/
+0 5 20964704 8245 0 0
+/wp-admin/images/arrows-2x.png
+0 2 0 1726 0 0
+/wp-includes/js/jquery/jquery.query.js
+0 3 0 4602 0 0
+/wp-includes/js/dist/api-fetch.min.js
+0 5 0 10735 0 0
+/wp-admin/load-scripts.php
+0 22 0 597277 0 0
+/wp-includes/js/jquery/ui/sortable.min.js
+0 2 4049067259349250659 12658 0 0
+/wp-json/wp/v2/users
+0 8 20949424 470 0 0
+/wp-includes/images/spinner-2x.gif
+0 1 4049068363239992883 7536 0 0
+/elon-musk-hien-tai-la-giam-doc-duy-nhat-cua-twitter/
+0 6 20947584 66819 0 0
+/wp-admin/js/accordion.min.js
+0 3 7454710205531436083 1029 0 0
+/wp-includes/js/dist/i18n.min.js
+0 4 3543542586338537577 14868 0 0
+/wp-content/themes/twentytwentytwo/assets/images/flight-path-on-transparent-d.png
+0 3 87033157931774258 310917 0 0
+/wp-admin/plugins.php
+0 1 20948720 14166 0 0
+/wp-admin/js/plugin-install.min.js
+0 3 426826429441 2694 0 0
+/wp-content/themes/covernews/js/navigation.js
+0 38 120325172784498 36718 0 0
+/wp-json/
+0 12 20949312 52408 0 0
+/wp-json/wp/v2/tags/10
+0 5 20965152 1465 0 0
+/wp-content/uploads/2022/10/xocbebtk13.jpg
+0 1 0 4490 0 0
+/wp-includes/js/customize-preview-widgets.min.js
+0 3 0 7293 0 0
+/wp-admin/post.php
+0 25 0 1319064 0 0
+/wp-admin/js/widgets/media-audio-widget.min.js
+0 4 0 2440 0 0
+/wp-includes/js/underscore.min.js
+0 3 0 21531 0 0
+/tag/chuyen_doi_so_nganh_du_lich/
+0 5 20959872 45323 1 1
+/wp-admin/css/forms.min.css
+0 1 0 5916 0 0
+/wp-admin/js/widgets/media-image-widget.min.js
+0 4 0 3048 0 0
+/wp-json/wp/v2/tags
+0 15 20950400 835 0 2
+/wp-includes/js/dist/wordcount.min.js
+0 3 0 2940 0 0
+/wp-content/themes/twentytwentytwo/style.css
+0 3 0 5346 0 0
+/wp-includes/js/dist/blocks.min.js
+0 3 0 140434 0 0
+/wp-includes/wlwmanifest.xml
+0 21 0 16168 0 0
+/wp-includes/css/editor.min.css
+0 2 0 11336 0 0
+/so-hoa-cac-di-san-van-hoa-va-chuyen-doi-so-trong-nganh-du-lich/
+0 5 0 53090 0 0
+/huawei-ra-mat-matepad-se-10-4-snapdragon-680-pin-5100mah/feed/
+0 5 0 2407 0 1
+/wp-content/uploads/2022/11/biaelonmusktw-150x150.jpg
+0 2 0 10700 0 0
+/wp-content/uploads/2022/11/biasohoadulich-150x150.jpg
+0 1 20924832 6894 0 0
+/wp-admin/
+0 4 0 81300 0 0
+/tag/twitter/
+0 5 20963264 45722 0 0
+/tag/sot_xuat_huyet/
+0 5 20957936 45430 0 0
+/wp-includes/js/wp-auth-check.min.js
+0 6 0 4146 0 0
+/wp-content/uploads/2022/11/sohoadulich.jpg
+0 31 20925392 353307 0 0
+/category/xa-hoi/
+0 5 20955440 45733 0 0
+/wp-includes/js/dist/priority-queue.min.js
+0 3 0 2606 0 0
+/wp-json/wp/v2/themes
+0 7 20949904 9395 0 0
+/wp-includes/js/plupload/plupload.min.js
+0 2 0 10742 0 0
+/wp-admin/load-styles.php
+0 25 0 2650742 0 0
+/wp-includes/js/dist/vendor/moment.min.js
+0 1 0 18177 0 0
+/wp-includes/js/heartbeat.min.js
+0 6 0 11564 0 0
+/wp-admin/users.php
+0 1 20948384 12611 0 0
+/wp-admin/edit-tags.php
+0 5 0 69480 0 0
+/tag/vaccine_covid_19/feed/
+0 5 20966272 9458 0 0
+/wp-content/themes/covernews/assets/jquery-match-height/jquery.matchHeight.min.js
+0 41 0 52300 0 0
+/wp-includes/js/mediaelement/mediaelement-and-player.min.js
+0 3 0 109055 0 0
+/wp-includes/js/dist/a11y.min.js
+0 3 0 2574 0 0
+/wp-includes/js/zxcvbn.min.js
+0 1 0 389493 0 0
+/wp-includes/css/dist/components/style.min.css
+0 3 0 43911 0 0
+/wp-includes/js/dist/preferences-persistence.min.js
+0 1 20973280 2137 0 0
+/wp-content/themes/covernews/admin-dashboard/dist/admin_dashboard.build.js
+0 4 0 376332 0 0
+/wp-json/wp/v2/taxonomies/category
+0 5 20950016 4415 0 0
+/wp-content/uploads/2022/11/tiemvacxinchotre.jpg
+0 31 20923904 247783 0 0
+/wp-content/themes/newsment/style.css
+0 40 0 74116 0 0
+/wp-includes/js/codemirror/codemirror.min.js
+0 3 0 526365 0 0
+/wp-includes/css/dist/reusable-blocks/style.min.css
+0 3 0 645 0 0
+/wp-includes/js/imgareaselect/imgareaselect.css
+0 2 8030604425832458095 430 0 0
+/wp-includes/css/dist/block-library/editor.min.css
+0 3 0 29532 0 0
+/wp-includes/css/admin-bar.min.css
+0 11 742542374698486434 39924 0 0
+/wp-includes/js/media-audiovideo.min.js
+0 3 0 9410 0 0
+/wp-includes/js/wp-ajax-response.min.js
+0 3 0 2877 0 0
+/wp-admin/js/inline-edit-tax.min.js
+0 3 0 3363 0 0
+/gia-xang-dau-tiep-tuc-tang-trong-vong-hai-tuan-vua-qua/feed/
+0 5 0 2466 0 0
+/wp-json/oembed/1.0/embed
+0 70 20957456 89390 0 0
+/wp-includes/blocks/navigation/style.min.css
+0 3 0 5358 0 0
+/wp-includes/js/jquery/ui/droppable.min.js
+0 4 0 7589 0 0
+/2022/11/
+0 5 20953424 50882 1 0
+/wp-content/uploads/2022/10/anhheader.jpg
+0 28 0 3818839 0 0
+/wp-admin/js/theme.min.js
+0 1 0 7004 0 0
+/wp-content/uploads/2022/10/cropped-rounded-in-photoretrica-192x192.png
+0 14 0 517076 0 0
+/wp-content/themes/covernews/assets/customizer-admin.js
+0 3 0 561 0 0
+/wp-includes/js/dist/edit-post.min.js
+0 3 0 86025 0 0
+/wp-admin/js/customize-nav-menus.min.js
+0 3 0 33261 0 0
+/wp-includes/css/dist/widgets/style.min.css
+0 1 20886368 1038 0 0
+/wp-json/wp/v2/types
+0 1 20977168 554 0 0
+/wp-content/themes/covernews/screenshot.png
+0 1 0 270772 0 0
+/wp-includes/js/hoverIntent.min.js
+0 3 0 2004 0 0
+/wp-content/themes/newsment/screenshot.png
+0 4 0 965112 0 0
+/wp-json/wp/v2/posts/34
+0 5 20958864 7799 0 0
+/wp-json/wp/v2/posts/38
+0 6 20952640 9778 0 0
+/wp-includes/js/imgareaselect/border-anim-v.gif
+0 3 0 534 0 0
+/gia-xang-dau-tiep-tuc-tang-trong-vong-hai-tuan-vua-qua/
+0 5 0 52500 0 0
+/wp-includes/js/dist/format-library.min.js
+0 3 3689628069304348974 19110 0 0
+/wp-includes/js/dist/vendor/lodash.min.js
+0 1 8752868413093537132 24132 0 0
+/wp-admin/edit.php
+0 24 4048236011395626550 400064 0 0
+/wp-admin/options-writing.php
+0 1 20946384 11297 0 0
+/wp-includes/js/jquery/ui/draggable.min.js
+0 4 3543824069855622194 18594 0 0
+/wp-content/uploads/2022/11/biasohoadulich.jpg
+0 11 20924688 86184 0 0
+/wp-content/themes/covernews/assets/bootstrap/css/bootstrap.min.css
+0 40 0 735000 0 0
+/wp-includes/js/jquery/ui/mouse.min.js
+0 2 4120289211665233715 2001 0 0
+/wp-includes/js/customize-views.js
+0 3 7885630522593735795 3930 0 0
+/wp-includes/js/dist/components.min.js
+0 3 426848712449 630293 0 0
+/wp-admin/js/widgets/custom-html-widgets.min.js
+0 4 3543546997269947758 7032 0 0
+/wp-content/uploads/2022/10/anhheader-1024x640.jpg
+0 1 20972368 63914 0 0
+/wp-includes/js/wp-sanitize.min.js
+0 2 7205759403792793600 472 0 0
+/wp-content/uploads/2022/11/baiCPIphhcm-150x150.jpg
+0 2 20920864 16306 0 0
+/wp-includes/js/media-editor.min.js
+0 3 109273270386992 10382 0 0
+/tag/gia_xang_dau_tang/feed/
+0 5 20967328 7466 0 0
+/wp-includes/css/dashicons.min.css
+0 11 27973957219070260 386210 0 0
+/wp-includes/js/customize-base.min.js
+0 2 109267565936953 4752 0 0
+/wp-json/wp/v2/tags/11
+0 5 20964256 1275 0 0
+/wp-admin/js/inline-edit-post.min.js
+0 3 109267565936944 8251 0 0
+/wp-includes/js/mediaelement/wp-mediaelement.min.css
+0 2 0 1964 0 0
+/wp-json/wp/v2/tags/9
+0 5 20966736 1560 0 0
+/wp-content/uploads/2022/10/rounded-in-photoretrica.png
+0 2 703698230901803526 84624 0 0
+/wp-includes/js/tinymce/tinymce.min.js
+0 1 20973568 119543 0 0
+/tag/mate_pad_se/
+0 5 20961312 45747 0 0
+/wp-content/themes/covernews/assets/slick/js/slick.min.js
+0 41 0 449536 0 0
+/wp-content/themes/covernews/admin-dashboard/dist/plugin_installer.build.js
+0 5 0 4765 0 0
+/wp-content/themes/covernews/assets/marquee/jquery.marquee.js
+0 41 0 175527 0 0
+/wp-json/wp/v2/categories/3
+0 5 20960112 1595 0 0
+/wp-includes/js/mediaelement/mediaelement-migrate.min.js
+0 3 0 1437 0 0
+/wp-includes/js/comment-reply.min.js
+0 10 0 12280 0 0
+/wp-content/themes/covernews/admin-dashboard/assets/images/af-themes-logo.png
+0 1 0 8408 0 0
+/wp-admin/revision.php
+0 2 20914256 23311 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 41 0 164487 0 0
+/wp-includes/js/tinymce/plugins/compat3x/plugin.min.js
+0 1 20973424 1664 0 0
+/wp-includes/js/zxcvbn-async.min.js
+0 1 0 187 0 0
+/lap-ke-hoach-tiem-vac-xin-covid-19-cho-tre-6-thang-tuoi/
+0 5 0 54521 0 0
+/wp-admin/js/revisions.min.js
+0 1 20914544 4635 0 0
+/wp-includes/js/dist/vendor/react.min.js
+0 4 0 17140 0 0
+/wp-includes/js/dist/token-list.min.js
+0 3 0 1764 0 0
+/wp-json/wp/v2/pages/3
+0 1 20973808 1518 0 0
+/wp-admin/post-new.php
+0 7 0 359237 0 0
+/wp-json/wp/v2/templates
+0 8 20949536 3844 0 0
+/wp-admin/upgrade.php
+0 1 20972144 21 0 0
+/wp-includes/js/jquery/ui/core.min.js
+0 3 0 20237 0 0
+/wp-includes/js/dist/editor.min.js
+0 3 25442 113742 0 0
+/wp-admin/images/browser.png
+0 2 8030604429305541232 81252 0 0
+/wp-includes/js/dist/block-serialization-default-parser.min.js
+0 3 8602282532781686784 3165 0 0
+/cpi-cua-tphcm-tang-045-trong-thang-10/feed/
+0 5 20956864 2360 0 0
+/wp-includes/js/dist/redux-routine.min.js
+0 3 7954874759243064680 7927 0 0
+/wp-admin/tools.php
+0 1 20948496 10078 0 0
+/wp-includes/js/wp-util.min.js
+0 3 3761968237713359104 1982 0 0
+/wp-json/wp/v2/categories/6
+0 5 20956512 1620 0 0
+/wp-includes/js/mediaelement/wp-playlist.min.js
+0 3 3330748573459427630 3024 0 0
+/wp-content/themes/covernews/assets/css/notice.css
+0 3 1667377783 528 0 0
+/wp-content/uploads/2022/10/rounded-in-photoretrica-1-150x150.png
+0 1 7160959201243967032 31456 0 0
+/wp-includes/js/dist/vendor/react-dom.min.js
+0 4 8026310017015964792 148244 0 0
+/wp-includes/css/dist/edit-post/classic.min.css
+0 3 8575198083241097262 1533 0 0
+/author/admin_q9e47rgg/feed/
+0 5 20961072 30915 0 0
+/wp-includes/js/dist/html-entities.min.js
+0 3 3347142576038897015 1182 0 0
+/wp-admin/js/updates.min.js
+0 2 3906079062119034423 17358 0 0
+/wp-includes/js/media-models.min.js
+0 3 0 12054 0 0
+/wp-login.php
+0 4938 482817762401 32599674 0 0
+/wp-includes/js/dist/hooks.min.js
+0 3 1836016430 4725 0 0
+/wp-json/wp/v2/posts
+0 1 20977856 6368 0 0
+/wp-includes/js/dist/keycodes.min.js
+0 3 7522266399035829870 4192 0 0
+/wp-json/wp/v2/tags/16
+0 5 20965824 1375 0 0
+/wp-admin/css/login.min.css
+0 1 0 1947 0 0
+/wp-content/uploads/2022/10/rounded-in-photoretrica-1.png
+0 38 0 1510082 0 0
+/wp-admin/js/site-health.min.js
+0 3 0 5883 0 0
+/category/kinh-te/
+0 5 20954304 46194 0 1
+/wp-admin/js/edit-comments.min.js
+0 3 139668084521984 14580 0 0
+/wp-includes/js/backbone.min.js
+0 1 139668083846432 7723 0 0
+/wp-content/uploads/2022/11/CPItphcm-150x150.jpg
+0 32 20921008 281280 0 0
+/wp-includes/js/imgareaselect/jquery.imgareaselect.min.js
+0 2 20857680 7134 0 0
+/wp-content/uploads/2022/11/biasotxuathuyet.jpg
+0 12 20922352 70929 0 0
+/wp-admin/js/widgets/media-widgets.min.js
+0 4 856541484049108018 17484 0 0
+/tag/cpi_tphcm/
+0 5 20958048 45316 0 0
+/wp-includes/js/dist/plugins.min.js
+0 3 213079868844016458 5654 0 0
+/wp-json/wp/v2/posts/42
+0 7 20952416 12493 0 0
+/category/cong-nghe/feed/
+0 5 20961536 12363 0 0
+/wp-admin/js/media.min.js
+0 2 20946128 1858 0 0
+/wp-admin/js/tags-suggest.min.js
+0 3 1667290740 2898 0 0
+/wp-includes/js/dist/widgets.min.js
+0 4 0 27806 0 0
+/wp-includes/js/dist/is-shallow-equal.min.js
+0 3 120325172782958 1467 0 0
+/author/admin_q9e47rgg/
+0 5 20953648 51062 0 0
+/huawei-ra-mat-matepad-se-10-4-snapdragon-680-pin-5100mah/
+0 10 0 118067 0 0
+/wp-admin/options-discussion.php
+0 1 20946864 12465 0 0
+/wp-includes/js/dist/autop.min.js
+0 3 120325172782444 6150 0 0
+/wp-json/wp/v2/media/10
+0 1 20977968 767 0 0
+/wp-includes/js/wp-emoji-release.min.js
+0 39 7308330023623536178 180945 0 0
+/wp-admin/js/postbox.min.js
+0 2 4121974728715283820 4105 0 0
+/wp-includes/js/wp-backbone.min.js
+0 2 3833177017464796213 2172 0 0
+/wp-json/wp/v2/posts/16
+0 5 20960848 7409 0 0
+/dich-sot-xuat-huyet-dien-bien-phuc-tap-xuat-hien-nhieu-o-dich-tai-ha-noi/
+0 5 20955936 53732 0 1
+/wp-includes/js/dist/edit-widgets.min.js
+0 4 7957713625452457573 63080 0 0
+/wp-content/themes/twentytwentyone/screenshot.png
+0 1 8026309753950204773 282897 0 0
+/wp-content/uploads/2022/11/sohoadulich-150x150.jpg
+0 31 20925120 210924 0 0
+/wp-includes/js/dist/element.min.js
+0 5 7023211281467405173 21935 0 0
+/wp-includes/js/mediaelement/wp-mediaelement.min.js
+0 3 8029750109558418997 1176 0 0
+/wp-includes/js/dist/blob.min.js
+0 3 4122536583351042048 1341 0 0
+/wp-admin/term.php
+0 3 20921808 32136 0 0
+/wp-admin/js/color-picker.min.js
+0 3 426826429441 3192 0 0
+/wp-includes/js/thickbox/loadingAnimation.gif
+0 3 0 45714 0 0
+/xmlrpc.php
+0 13382 3688779267618005861 5352845 0 0
+/wp-content/themes/newsment/assets/img/default-header-image.jpeg
+0 2 8320808666024995950 286704 0 0
+/wp-includes/js/dist/preferences.min.js
+0 3 3347427285478223474 3340 0 0
+/wp-content/themes/covernews/assets/font-awesome-v6/css/all.min.css
+0 41 109267565936952 894334 0 0
+/wp-includes/js/quicktags.min.js
+0 2 7161333048082117681 6654 0 0
+/wp-json/wp/v2/block-patterns/patterns
+0 7 20950272 71737 2 0
+/wp-includes/js/dist/dom-ready.min.js
+0 3 3329344509878351154 843 0 0
+/wp-json/wp/v2/posts/26
+0 5 20958592 7823 0 0
+/tag/sot_xuat_huyet/feed/
+0 5 20967200 8843 0 0
+/wp-includes/blocks/navigation/view.min.js
+0 3 3832055524093736500 7791 0 0
+/wp-includes/js/hoverintent-js.min.js
+0 11 3329059736366887218 7315 0 0
+/wp-includes/js/dist/block-editor.min.js
+0 3 8027717154716593714 452287 0 0
+/wp-includes/css/dist/nux/style.min.css
+0 3 7959267916447219712 2061 0 0
+/wp-content/themes/covernews/assets/customizer-admin.css
+0 3 0 720 0 0
+/wp-includes/js/api-request.min.js
+0 2 1667290740 1060 0 0
+/wp-includes/js/jquery/jquery.ui.touch-punch.js
+0 3 7579051504987682356 1527 0 0
+/wp-json/wp/v2/blocks
+0 7 20948944 42 0 0
+/wp-admin/images/wordpress-logo.svg
+0 1 8026310038507843440 759 0 0
+/wp-includes/js/dist/url.min.js
+0 3 3344050766601926456 8709 0 0
+/wp-admin/js/user-profile.min.js
+0 1 3 2112 0 0
+/lap-ke-hoach-tiem-vac-xin-covid-19-cho-tre-6-thang-tuoi/feed/
+0 5 0 2511 0 0
+/wp-includes/js/media-grid.min.js
+0 2 20945888 7308 0 0
+/wp-admin/js/media-upload.min.js
+0 2 0 1076 0 0
+/wp-content/uploads/2022/11/biatiemvaccine-300x158.jpg
+0 8 20923472 83184 0 0
+/wp-content/uploads/2022/11/biasotxuathuyet-150x150.jpg
+0 1 20922208 6500 0 0
+/wp-includes/js/jquery/jquery.min.js
+0 41 0 1244589 0 0
+/wp-admin/js/widgets/text-widgets.min.js
+0 4 0 7540 0 0
+/wp-content/themes/covernews/assets/bootstrap/js/bootstrap.min.js
+0 40 0 592076 0 0
+/wp-content/themes/twentytwenty/screenshot.png
+0 1 0 53066 0 0
+/wp-admin/js/widgets.min.js
+0 4 1132954137490754816 13952 0 0
+/wp-content/uploads/2022/11/sotxuathuyet.jpg
+0 31 20921920 168206 0 0
+/wp-includes/js/wplink.min.js
+0 2 0 7349 0 0
+/category/cong-nghe/
+0 7 20954640 69422 1 0
+/wp-content/uploads/2022/10/cropped-rounded-in-photoretrica-32x32.png
+0 17 0 24888 0 0
+/
+0 755 0 8299402 105 35
+/wp-includes/js/utils.min.js
+0 3 0 2295 0 0
+/wp-content/themes/covernews/js/customizer.js
+0 3 0 1017 0 0
+/wp-content/uploads/2022/10/cropped-rounded-in-photoretrica-270x270.png
+0 2 0 146374 0 0
+/wp-admin/js/svg-painter.js
+0 6 0 11826 0 0
+/wp-includes/js/dist/deprecated.min.js
+0 3 0 1395 0 0
+/tag/cpi_tphcm/feed/
+0 5 20966048 8559 0 0
+/wp-admin/js/iris.min.js
+0 3 0 23172 0 0
+/wp-includes/js/mediaelement/renderers/vimeo.min.js
+0 3 0 6213 0 0
+/wp-content/themes/covernews/assets/font-awesome-v6/webfonts/fa-solid-900.woff2
+0 27 0 4043272 0 0
+/wp-json/wp/v2/tags/13
+0 5 20963760 1500 0 0
+/category/kinh-te/feed/
+0 5 20963008 11404 0 0
+/elon-musk-hien-tai-la-giam-doc-duy-nhat-cua-twitter/feed/
+0 5 0 2497 0 0
+/wp-content/uploads/2022/11/sohoadulich-300x156.jpg
+0 16 20924976 229072 0 0
+/wp-json/wp/v2/taxonomies
+0 8 20949664 8863 0 0
+/tag/elon_musk/
+0 5 20961872 45613 1 0
+/wp-includes/js/dist/block-library.min.js
+0 3 0 494053 0 0
+/wp-includes/js/codemirror/csslint.js
+0 3 0 192045 0 0
+/wp-admin/images/spinner-2x.gif
+0 2 0 15072 0 0
+/category/suc-khoe/
+0 5 20954752 46172 0 0
+/wp-content/uploads/2022/11/matepadSE-150x150.jpg
+0 3 20916624 24174 0 0
+/wp-admin/js/widgets/media-video-widget.min.js
+0 4 0 4224 0 0
+/wp-json/wp/v2/media/48
+0 1 20974032 881 0 0
+/wp-json/wp/v2/block-patterns/categories
+0 7 20949168 803 0 0
+/wp-content/uploads/2022/11/biamatepadSE.jpg
+0 33 20917040 264000 0 0
+/comments/feed/
+0 5 20953152 2100 0 0
+/wp-json/wp/v2/tags/12
+0 5 20966512 1405 0 0
+/wp-content/themes/covernews/assets/widgets.js
+0 3 0 2409 0 0
+/wp-admin/options-media.php
+0 1 20947104 10606 0 0
+/wp-includes/js/dist/keyboard-shortcuts.min.js
+0 3 0 5237 0 0
+/wp-includes/js/codemirror/esprima.js
+0 3 109 125949 0 0
+/wp-includes/js/dist/compose.min.js
+0 3 109 33145 0 0
+/wp-content/themes/covernews/js/skip-link-focus-fix.js
+0 40 3891391553024819200 13616 0 0
+/wp-admin/options-general.php
+0 3 20946256 59060 0 0
+/wp-content/uploads/2022/11/postelonmusktw.jpg
+0 20 30803244233226081 80955 0 0
+/wp-includes/js/admin-bar.min.js
+0 12 3543822943798689792 15160 0 0
+/wp-json/wp/v2/widgets
+0 1 20978192 3952 0 0
+/wp-includes/js/jquery/jquery.color.min.js
+0 2 7160959201243838254 5600 0 0
+/wp-includes/js/dist/shortcode.min.js
+0 3 3543831775073599488 4414 0 0
+/tag/chuyen_doi_so_nganh_du_lich/feed/
+0 5 20966960 8766 0 0
+/wp-content/uploads/2022/11/biagiaxangdautang-150x150.jpg
+0 32 0 229280 0 0
+/wp-content/uploads/2022/10/anhheader-300x188.jpg
+0 1 109267565936947 10725 0 0
+/wp-admin/js/password-strength-meter.min.js
+0 1 3904953140737289781 558 0 0
+/wp-includes/js/dist/escape-html.min.js
+0 5 7566047373982433280 2465 0 0
+/wp-json/wp/v2/categories
+0 6 20950144 1260 0 1
+/wp-includes/css/dist/block-editor/style.min.css
+0 3 3688790262868177776 45588 0 0
+/wp-json/wp/v2/users/1
+0 5 20960352 1325 0 1
+/tag/gia_xang_dau_tang/
+0 5 20962096 45300 0 0
+/wp-includes/js/plupload/moxie.min.js
+0 2 8317981584497324334 53004 0 0
+/wp-json/wp/v2/posts/30
+0 5 20962896 6661 1 0
+/wp-includes/js/jquery/ui/autocomplete.min.js
+0 3 470020206195 8050 0 0
+/wp-includes/css/dist/edit-widgets/style.min.css
+0 1 20886256 4098 0 0
+/robots.txt
+0 31 20913104 2511 0 0
+/wp-admin/js/nav-menu.min.js
+0 3 0 21102 0 0
+/wp-includes/js/dist/rich-text.min.js
+0 3 0 31890 0 0
+/wp-json/batch/v1
+0 1 20978080 305 0 0
+/wp-content/uploads/2022/10/cropped-rounded-in-photoretrica-300x300.png
+0 2 0 177692 0 0
+/feed/
+0 5 20952752 30656 0 0
+/dich-sot-xuat-huyet-dien-bien-phuc-tap-xuat-hien-nhieu-o-dich-tai-ha-noi/feed/
+0 5 20957168 2682 0 0
+/wp-admin/async-upload.php
+0 12 0 7155 0 0
+/wp-includes/js/codemirror/fakejshint.js
+0 3 0 1335 0 0
+/wp-includes/js/plupload/wp-plupload.min.js
+0 3 0 6523 0 0
+/wp-includes/js/customize-selective-refresh.min.js
+0 3 0 10449 0 0
+/wp-includes/images/uploader-icons-2x.png
+0 1 0 3542 0 0
+/wp-includes/js/mce-view.min.js
+0 2 0 6938 0 0
+/wp-content/uploads/2022/10/cropped-rounded-in-photoretrica-180x180.png
+0 10 0 339050 0 0
+/wp-cron.php
+0 63 0 0 0 0
+/wp-admin/js/privacy-tools.min.js
+0 1 20948144 1533 0 0
+/wp-includes/js/jquery/ui/menu.min.js
+0 3 0 8642 0 0
+/wp-content/uploads/2022/11/biaelonmusktw.jpg
+0 31 20915008 172918 0 0
+/wp-includes/js/dist/vendor/regenerator-runtime.min.js
+0 3 0 7062 0 0
+/wp-content/uploads/2022/11/giaxangdautang-150x150.jpg
+0 2 20918256 19310 0 0
+/wp-includes/js/dist/primitives.min.js
+0 3 0 2905 0 0
+/wp-includes/js/dist/dom.min.js
+0 3 0 13399 0 0
+/wp-includes/js/dist/reusable-blocks.min.js
+0 3 0 6405 0 0
+/wp-includes/js/dist/warning.min.js
+0 3 0 699 0 0
+/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+0 2 0 4788 0 0
+/wp-includes/js/dist/server-side-render.min.js
+0 3 0 4419 0 0
+/wp-admin/admin-ajax.php
+0 1021 0 210082 0 0
+/wp-includes/js/media-views.min.js
+0 3 0 74267 0 0
+/wp-admin/js/image-edit.min.js
+0 3 0 10642 0 0
+/wp-includes/js/dist/customize-widgets.min.js
+0 3 0 31926 0 0
+/wp-admin/js/tags.min.js
+0 3 0 2502 0 0
+/wp-admin/js/code-editor.min.js
+0 4 0 4920 0 0
+/wp-admin/customize.php
+0 10 0 891826 0 0
+/wp-includes/js/dist/data.min.js
+0 3 0 24930 0 0
+/tag/twitter/feed/
+0 5 20964480 8217 0 0
+/wp-includes/js/dist/core-data.min.js
+0 3 0 43159 0 0
+/wp-includes/css/dist/block-library/style.min.css
+0 41 0 460149 0 0
+# End Of Table - urls
+# -sites- (monthly)
+89.mil1.virtuafarm.com
+0 1 1 2187 0 0
+-
+ec2-54-190-35-88.us-west-2.compute.amazonaws.com
+0 2 1 11604 1 1667308704
+/
+ec2-34-214-68-6.us-west-2.compute.amazonaws.com
+0 2 1 16022 1 1667395414
+/
+29.4.103.212.rev.sfr.net
+0 1 1 2187 0 0
+-
+google-proxy-66-249-82-208.google.com
+0 56 56 739178 2 1667400107
+/
+smardb.net
+0 1 1 232 0 0
+-
+104.131.68.19
+0 1 1 2187 0 0
+-
+95.94.225.35.bc.googleusercontent.com
+0 1 1 232 0 0
+-
+167.99.54.31
+0 1 1 232 0 0
+-
+vps-cfa70ff7.vps.ovh.net
+0 1 1 2187 0 0
+-
+197.122.76.34.bc.googleusercontent.com
+0 1 1 9584 1 1667272781
+/
+ip91.222.129.103.in-addr.arpa.unknwn.cloudhost.asia
+0 1 1 2217 0 0
+-
+crawl-66-249-71-140.googlebot.com
+0 1 1 10928 0 0
+-
+103.192.80.142
+0 73 69 152746 1 1667381224
+-
+180.211.99.217
+0 2 2 464 0 0
+-
+google-proxy-66-249-82-204.google.com
+0 76 76 1533802 1 1667400115
+/
+ec2-54-70-25-112.us-west-2.compute.amazonaws.com
+0 35 34 490235 1 1667396945
+/
+254.244.72.148.host.secureserver.net
+0 1 1 232 0 0
+-
+server5.orasys.org
+0 1 1 232 0 0
+-
+br1034.hostgator.com.br
+0 1 1 232 0 0
+-
+147-251-210-87.ftth.glasoperator.nl
+0 2 0 1945 0 0
+-
+45.83.129.167
+0 1670 1663 5953396 2 1667323670
+-
+lhcp1147.webapps.net
+0 1 1 2187 0 0
+-
+g-point.com.tw
+0 1 1 232 0 0
+-
+ns41.luxyweb.com
+0 1 1 232 0 0
+-
+ivory-zebra-aa3b0dcc5d971a51.znlc.jp
+0 1 1 2187 0 0
+-
+mills.probe.onyphe.net
+0 1 1 130271 1 1667354126
+/
+23.99.229.218
+0 1 1 2187 0 0
+-
+srv.mssarlak.ir
+0 1 1 232 0 0
+-
+cp1.dnsflusher.com
+0 1 1 232 0 0
+-
+c10-19.tlh.ro
+0 1 1 55288 1 1667324170
+/
+176.53.221.140
+0 1 1 15419 1 1667394987
+/
+461586.cloudwaysapps.com
+0 1 1 232 0 0
+-
+185.99.135.187
+0 1672 1659 12047125 6 1667385340
+/
+unn-84-17-57-74.cdn77.com
+0 1448 1444 636532 1 1667324516
+-
+46-211-65-223.mobile.kyivstar.net
+0 2 0 1414 1 1667274543
+/
+server1.kamon.la
+0 3 3 696 0 0
+-
+google-proxy-66-249-82-206.google.com
+0 66 66 1084526 3 1667399831
+/
+nc-ph-3463.web-hosting.com
+0 1 1 232 0 0
+-
+207.154.250.8
+0 1 1 2187 0 0
+-
+171.244.16.103
+0 1 1 232 0 0
+-
+ec2-54-186-4-102.us-west-2.compute.amazonaws.com
+0 36 34 491473 1 1667396170
+/
+89.104.100.190
+0 15 15 227666 0 0
+-
+undefined.hostname.localhost
+0 8 1 6911 1 1667304658
+-
+128.199.109.135
+0 1 1 232 0 0
+-
+ip.bkhost.vn
+0 1 1 232 0 0
+-
+p7148.progreso.pl
+0 2 2 4404 0 0
+-
+crawl-66-249-79-81.googlebot.com
+0 32 31 418671 1 1667399611
+/
+27.115.124.101
+0 1 0 707 1 1667342817
+/
+br16.dialhost.com.br
+0 1 1 232 0 0
+-
+shared-akm85.rev.nazwa.pl
+0 1 1 232 0 0
+-
+static.73.153.161.5.clients.your-server.de
+0 2 2 464 0 0
+-
+114.132.250.235
+0 1 1 232 0 0
+-
+43-225-53-24.webhostbox.net
+0 1 1 232 0 0
+-
+136.58.187.35.bc.googleusercontent.com
+0 1 1 2187 0 0
+-
+crawl-66-249-79-82.googlebot.com
+0 6 5 71890 0 0
+-
+new1.xml-sitemaps.com
+0 17 15 176878 1 1667384527
+/
+138.68.90.29
+0 1 1 2187 0 0
+-
+176.53.221.236
+0 1 0 707 1 1667394984
+/
+178.128.5.109
+0 1 1 2187 0 0
+-
+176.53.218.187
+0 12 12 78569 0 0
+-
+157.230.15.115
+0 1 1 2183 0 0
+-
+vps-5371342.angolanaweb.com
+0 1 1 232 0 0
+-
+65.154.226.220
+0 38 36 623600 1 1667316201
+/
+ns31263085.ip-151-106-35.eu
+0 1 1 232 0 0
+-
+89.104.111.144
+0 2 1 15898 1 1667353760
+/
+crawl-66-249-71-138.googlebot.com
+0 7 7 55020 1 1667399578
+/
+139.59.96.126
+0 1 1 2187 0 0
+-
+s1.teamgroovy.com
+0 1 1 2187 0 0
+-
+103.154.177.165
+0 1 1 232 0 0
+-
+103.121.90.150
+0 1 1 232 0 0
+-
+vmi592157.contaboserver.net
+0 1 1 232 0 0
+-
+leaf.websitewelcome.com
+0 1 1 232 0 0
+-
+0.234.65.34.bc.googleusercontent.com
+0 1 1 2187 0 0
+-
+5.121.168.184.host.secureserver.net
+0 1 1 232 0 0
+-
+23.225.199.250
+0 8 2 168244 1 1667354663
+/
+yosemite.dns8.net
+0 2 2 464 0 0
+-
+137.184.124.136
+0 1 1 2187 0 0
+-
+59.214.72.148.host.secureserver.net
+0 2 2 4254 0 0
+-
+146.56.99.136
+0 1 1 2187 0 0
+-
+pro1.pro-sitemaps.com
+0 1 1 122883 1 1667384599
+/
+128.199.14.4
+0 1 1 2217 0 0
+-
+rdns.tino.org
+0 1 1 2187 0 0
+-
+13.82.110.124
+0 1006 1002 459522 1 1667278229
+-
+pro4.pro-sitemaps.com
+0 71 70 1327170 1 1667384623
+/
+ubuntu14.04-512mb
+0 1 1 2187 0 0
+-
+vmi574112.contaboserver.net
+0 1 1 232 0 0
+-
+server.sastaservers.com
+0 1 1 2217 0 0
+-
+53.244.72.148.host.secureserver.net
+0 1 1 232 0 0
+-
+142.93.203.156
+0 1 1 2217 0 0
+-
+8.129.20.30
+0 1 1 232 0 0
+-
+server54.mainpacket.com
+0 1 1 232 0 0
+-
+103.192.80.220
+0 1 0 707 1 1667281202
+/
+176.53.217.149
+0 1 0 1238 0 0
+-
+47.106.201.134
+0 1 1 232 0 0
+-
+120.24.108.217
+0 1 1 232 0 0
+-
+crawl-66-249-71-136.googlebot.com
+0 31 31 391773 1 1667399612
+/
+128.199.205.115
+0 1 1 232 0 0
+-
+159.65.239.34
+0 1 1 232 0 0
+-
+mail.thegardenvn.com
+0 1 1 232 0 0
+-
+136.144.42.115
+0 20 20 193287 3 1667305522
+/
+177-52-160-32
+0 1 1 232 0 0
+-
+175.178.125.173
+0 1 1 2183 0 0
+-
+leased-line-185-183-122-143.velcom.by
+0 1 1 232 0 0
+-
+103.98.152.12
+0 1 1 232 0 0
+-
+88.155.24.55
+0 2 0 1414 1 1667274543
+/
+hn.kd.ny.adsl
+0 35 35 650269 1 1667342967
+/
+ip120.ip-15-235-138.net
+0 3 3 4486 0 0
+-
+72.13.46.5
+0 8 3 38873 1 1667382931
+/
+119-18-52-177.webhostbox.net
+0 1 1 232 0 0
+-
+147.124.216.57
+0 1 0 707 1 1667373894
+/
+103.90.235.70
+0 1 1 232 0 0
+-
+8.218.143.243
+0 1 1 232 0 0
+-
+27.115.124.45
+0 35 35 521655 1 1667342821
+/
+245.214.72.148.host.secureserver.net
+0 1 1 2217 0 0
+-
+167.172.85.27
+0 1006 1002 458606 1 1667267254
+-
+martinez.probe.onyphe.net
+0 1 1 130271 1 1667353013
+/
+116.255.178.218
+0 1 1 232 0 0
+-
+47.111.116.44
+0 1 1 2217 0 0
+-
+94.231.86.20
+0 1 1 2183 0 0
+-
+185.251.19.118
+0 20 20 305789 1 1667391446
+/
+broadwicklive-com.nh-serv.co.uk
+0 1 1 232 0 0
+-
+195.178.120.44
+0 1097 1089 686192 2 1667371939
+-
+157.230.235.99
+0 836 832 441723 1 1667334436
+-
+167.99.78.164
+0 1 1 232 0 0
+-
+adidas-2.com
+0 1 1 232 0 0
+-
+89.104.110.118
+0 8 6 183335 0 0
+-
+192.71.144.12
+0 1 1 2183 0 0
+-
+cute-mist.aeza.network
+0 1 0 707 0 0
+-
+powered.by.rdp.sh
+0 1006 1002 459522 1 1667277010
+-
+52.228.60.238
+0 2 0 1414 1 1667305680
+/
+176.113.43.115
+0 1 0 707 0 0
+-
+fl1-118-109-137-47.kng.mesh.ad.jp
+0 1 1 232 0 0
+-
+ns3156771.ip-51-77-118.eu
+0 2 1 122662 1 1667356916
+/
+yehuda.probe.onyphe.net
+0 1 1 128591 1 1667349862
+/
+103.192.80.14
+0 423 420 291122 1 1667391308
+/wp-json/wp/v2/users/
+185.181.60.189
+0 2 1 12416 1 1667332295
+/
+static.108.119.9.5.clients.your-server.de
+0 1 0 1229 0 0
+-
+23.111.114.116
+0 4 2 24842 1 1667329893
+/
+209.97.162.248
+0 1 1 2187 0 0
+-
+mx6.dvdngto.com
+0 1 1 232 0 0
+-
+server1.vectorcoder.xyz
+0 1 1 232 0 0
+-
+139.59.6.209
+0 1 1 232 0 0
+-
+ec2-35-91-202-30.us-west-2.compute.amazonaws.com
+0 2 0 1414 1 1667308819
+/
+devovh301.ezxdemo.com
+0 1 1 2187 0 0
+-
+82.180.154.122
+0 2 0 2476 0 0
+-
+20.25.49.209
+0 2397 2393 1084822 1 1667371384
+-
+drop7.ipya.com
+0 2 2 4404 0 0
+-
+54.42.84.34.bc.googleusercontent.com
+0 10 2 20547 1 1667265217
+/
+40.115.211.213
+0 837 832 391369 1 1667290445
+-
+server2.spellbit.com
+0 1 1 232 0 0
+-
+ecs-119-8-58-8.compute.hwclouds-dns.com
+0 1 1 232 0 0
+-
+103.83.144.92
+0 2 0 1414 1 1667381558
+/
+68.183.177.20
+0 1 1 232 0 0
+-
+10.169.87.34.bc.googleusercontent.com
+0 4312 4307 15285718 1 1667286979
+-
+162-241-174-216.webhostbox.net
+0 1 1 232 0 0
+-
+dynamic-ip-adsl.viettel.vn
+0 3797 3621 33958774 33 1667400904
+/category/cong-nghe/
+82.165.184.74
+0 1 1 2187 0 0
+-
+88.155.112.125
+0 2 0 1414 1 1667369295
+/
+6194352.transcendps.com
+0 1 1 232 0 0
+-
+212.38.40.215
+0 1 1 232 0 0
+-
+103.107.180.107.host.secureserver.net
+0 1 1 232 0 0
+-
+88.135.37.49
+0 1 1 232 0 0
+-
+103.74.120.192
+0 1 1 232 0 0
+-
+89.104.110.199
+0 28 28 309549 1 1667394985
+/
+ip150.202.146.103.in-addr.arpa.unknwn.cloudhost.asia
+0 3 3 696 0 0
+-
+89.104.100.36
+0 7 7 93584 0 0
+-
+42.83.147.34
+0 2 1 15457 1 1667385719
+/
+125-227-127-195.hinet-ip.hinet.net
+0 1 1 2187 0 0
+-
+mail.vuanem.com
+0 3 3 696 0 0
+-
+vital.host-care.com
+0 1 1 232 0 0
+-
+67.135.195.35.bc.googleusercontent.com
+0 1 1 232 0 0
+-
+118.193.32.253
+0 3 2 30129 1 1667360275
+/
+190.145.68.131
+0 1 1 232 0 0
+-
+srv1.palmonlinesystems.com
+0 1 1 232 0 0
+-
+vps-77665bcf.vps.ovh.ca
+0 1 1 232 0 0
+-
+95.177.177.25
+0 58 58 1164958 2 1667386562
+/
+usa.suwahas.com
+0 1 1 2187 0 0
+-
+lhcp1033.webapps.net
+0 2 2 4434 0 0
+-
+second.brink-multimedia.nl
+0 1 1 2187 0 0
+-
+pro3.pro-sitemaps.com
+0 17 16 176238 1 1667384618
+/
+aaubervilliers-655-1-22-196.w83-112.abo.wanadoo.fr
+0 88 83 1588816 1 1667303855
+/
+server1.creativedesigndok.com
+0 1 1 232 0 0
+-
+scanner-08.ch1.censys-scanner.com
+0 10 7 165493 1 1667270170
+/
+ec2-34-215-253-74.us-west-2.compute.amazonaws.com
+0 2 1 16070 1 1667395414
+/
+51.91.151.60
+0 1 1 2217 0 0
+-
+us1-khalidit.host4speed.com
+0 1 1 2217 0 0
+-
+host139.vietnix.vn
+0 93 93 52310 4 1667397043
+/
+193.235.141.173
+0 2 1 15976 1 1667365681
+/
+68.69.184.202
+0 4 1 11820 1 1667320958
+/
+welsh.probe.onyphe.net
+0 1 0 707 1 1667349857
+/
+176.53.216.142
+0 1 1 36934 0 0
+-
+171.244.0.91
+0 1 1 2187 0 0
+-
+20.123.45.127
+0 518 513 1735477 1 1667266591
+-
+vmi667304.contaboserver.net
+0 1 1 232 0 0
+-
+130.61.143.194
+0 1 1 232 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+89.mil1.virtuafarm.com
+0 1 1 2187 0 0
+-
+ec2-34-214-68-6.us-west-2.compute.amazonaws.com
+0 2 1 16022 1 1667395414
+/
+29.4.103.212.rev.sfr.net
+0 1 1 2187 0 0
+-
+google-proxy-66-249-82-208.google.com
+0 56 56 739178 2 1667400107
+/
+104.131.68.19
+0 1 1 2187 0 0
+-
+vps-cfa70ff7.vps.ovh.net
+0 1 1 2187 0 0
+-
+ip91.222.129.103.in-addr.arpa.unknwn.cloudhost.asia
+0 1 1 2217 0 0
+-
+crawl-66-249-71-140.googlebot.com
+0 1 1 10928 0 0
+-
+103.192.80.142
+0 73 69 152746 1 1667381224
+-
+google-proxy-66-249-82-204.google.com
+0 76 76 1533802 1 1667400115
+/
+ec2-54-70-25-112.us-west-2.compute.amazonaws.com
+0 35 34 490235 1 1667396945
+/
+147-251-210-87.ftth.glasoperator.nl
+0 2 0 1945 0 0
+-
+lhcp1147.webapps.net
+0 1 1 2187 0 0
+-
+ivory-zebra-aa3b0dcc5d971a51.znlc.jp
+0 1 1 2187 0 0
+-
+mills.probe.onyphe.net
+0 1 1 130271 1 1667354126
+/
+23.99.229.218
+0 1 1 2187 0 0
+-
+176.53.221.140
+0 1 1 15419 1 1667394987
+/
+185.99.135.187
+0 1672 1659 12047125 6 1667385340
+/
+google-proxy-66-249-82-206.google.com
+0 66 66 1084526 3 1667399831
+/
+207.154.250.8
+0 1 1 2187 0 0
+-
+ec2-54-186-4-102.us-west-2.compute.amazonaws.com
+0 36 34 491473 1 1667396170
+/
+89.104.100.190
+0 15 15 227666 0 0
+-
+p7148.progreso.pl
+0 2 2 4404 0 0
+-
+crawl-66-249-79-81.googlebot.com
+0 32 31 418671 1 1667399611
+/
+136.58.187.35.bc.googleusercontent.com
+0 1 1 2187 0 0
+-
+crawl-66-249-79-82.googlebot.com
+0 6 5 71890 0 0
+-
+new1.xml-sitemaps.com
+0 17 15 176878 1 1667384527
+/
+138.68.90.29
+0 1 1 2187 0 0
+-
+176.53.221.236
+0 1 0 707 1 1667394984
+/
+178.128.5.109
+0 1 1 2187 0 0
+-
+176.53.218.187
+0 12 12 78569 0 0
+-
+157.230.15.115
+0 1 1 2183 0 0
+-
+89.104.111.144
+0 2 1 15898 1 1667353760
+/
+crawl-66-249-71-138.googlebot.com
+0 7 7 55020 1 1667399578
+/
+s1.teamgroovy.com
+0 1 1 2187 0 0
+-
+0.234.65.34.bc.googleusercontent.com
+0 1 1 2187 0 0
+-
+23.225.199.250
+0 8 2 168244 1 1667354663
+/
+137.184.124.136
+0 1 1 2187 0 0
+-
+146.56.99.136
+0 1 1 2187 0 0
+-
+pro1.pro-sitemaps.com
+0 1 1 122883 1 1667384599
+/
+128.199.14.4
+0 1 1 2217 0 0
+-
+rdns.tino.org
+0 1 1 2187 0 0
+-
+pro4.pro-sitemaps.com
+0 71 70 1327170 1 1667384623
+/
+server.sastaservers.com
+0 1 1 2217 0 0
+-
+142.93.203.156
+0 1 1 2217 0 0
+-
+176.53.217.149
+0 1 0 1238 0 0
+-
+crawl-66-249-71-136.googlebot.com
+0 31 31 391773 1 1667399612
+/
+175.178.125.173
+0 1 1 2183 0 0
+-
+72.13.46.5
+0 8 3 38873 1 1667382931
+/
+147.124.216.57
+0 1 0 707 1 1667373894
+/
+245.214.72.148.host.secureserver.net
+0 1 1 2217 0 0
+-
+martinez.probe.onyphe.net
+0 1 1 130271 1 1667353013
+/
+47.111.116.44
+0 1 1 2217 0 0
+-
+94.231.86.20
+0 1 1 2183 0 0
+-
+185.251.19.118
+0 20 20 305789 1 1667391446
+/
+195.178.120.44
+0 836 832 458853 1 1667371939
+-
+89.104.110.118
+0 8 6 183335 0 0
+-
+192.71.144.12
+0 1 1 2183 0 0
+-
+cute-mist.aeza.network
+0 1 0 707 0 0
+-
+176.113.43.115
+0 1 0 707 0 0
+-
+ns3156771.ip-51-77-118.eu
+0 2 1 122662 1 1667356916
+/
+yehuda.probe.onyphe.net
+0 1 1 128591 1 1667349862
+/
+103.192.80.14
+0 423 420 291122 1 1667391308
+/wp-json/wp/v2/users/
+209.97.162.248
+0 1 1 2187 0 0
+-
+devovh301.ezxdemo.com
+0 1 1 2187 0 0
+-
+20.25.49.209
+0 2397 2393 1084822 1 1667371384
+-
+drop7.ipya.com
+0 2 2 4404 0 0
+-
+103.83.144.92
+0 2 0 1414 1 1667381558
+/
+dynamic-ip-adsl.viettel.vn
+0 2350 2216 20355393 21 1667400904
+/category/cong-nghe/
+88.155.112.125
+0 2 0 1414 1 1667369295
+/
+89.104.110.199
+0 28 28 309549 1 1667394985
+/
+89.104.100.36
+0 7 7 93584 0 0
+-
+42.83.147.34
+0 2 1 15457 1 1667385719
+/
+125-227-127-195.hinet-ip.hinet.net
+0 1 1 2187 0 0
+-
+118.193.32.253
+0 3 2 30129 1 1667360275
+/
+95.177.177.25
+0 34 34 626436 1 1667386562
+/
+usa.suwahas.com
+0 1 1 2187 0 0
+-
+lhcp1033.webapps.net
+0 2 2 4434 0 0
+-
+second.brink-multimedia.nl
+0 1 1 2187 0 0
+-
+pro3.pro-sitemaps.com
+0 17 16 176238 1 1667384618
+/
+ec2-34-215-253-74.us-west-2.compute.amazonaws.com
+0 2 1 16070 1 1667395414
+/
+51.91.151.60
+0 1 1 2217 0 0
+-
+us1-khalidit.host4speed.com
+0 1 1 2217 0 0
+-
+host139.vietnix.vn
+0 40 40 14756 2 1667397043
+/
+193.235.141.173
+0 2 1 15976 1 1667365681
+/
+welsh.probe.onyphe.net
+0 1 0 707 1 1667349857
+/
+176.53.216.142
+0 1 1 36934 0 0
+-
+171.244.0.91
+0 1 1 2187 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://freedays.online/tag/chuyen_doi_so_nganh_du_lich/
+0 5
+https://freedays.online/wp-content/themes/covernews/assets/slick/css/slick.css
+0 6
+https://freedays.online/index.php/2022/11/01/cpi-cua-tphcm-tang-045-trong-thang-10/
+0 2
+https://freedays.online/wp-content/themes/covernews/assets/script.js
+0 6
+https://freedays.online/wp-content/uploads/2022/11/sohoadulich-150x150.jpg
+0 9
+http://freedays.online/
+0 13
+https://freedays.online/tag/chuyen_doi_so_nganh_du_lich/feed/
+0 4
+http://freedays.online///wp-json/wp/v2/users/
+0 1
+https://freedays.online/category/cong-nghe/
+0 20
+https://freedays.online/wp-admin/
+0 79
+https://freedays.online/wp-content/uploads/2022/10/cropped-rounded-in-photoretrica-180x180.png
+0 7
+https://freedays.online/wp-content/themes/newsment/style.css
+0 6
+https://freedays.online/sitemap_index.xml.gz
+0 13
+https://freedays.online/sitemap_index.xml
+0 11
+https://freedays.online/tag/mate_pad_se/
+0 5
+https://freedays.online/index.php/2022/11/
+0 1
+https://freedays.online/wp-admin/customize.php
+0 755
+https://freedays.online/wp-content/uploads/2022/11/sotxuathuyet.jpg
+0 6
+https://freedays.online/category/xa-hoi/feed/
+0 5
+https://freedays.online/tag/twitter/feed/
+0 5
+https://freedays.online/wp-content/uploads/2022/10/cropped-rounded-in-photoretrica-32x32.png
+0 7
+https://freedays.online/wp-content/uploads/2022/11/biatiemvaccine-300x158.jpg
+0 6
+https://freedays.online/wp-json/wp/v2/tags/16
+0 3
+https://freedays.online/wp-content/uploads/2022/11/sohoadulich-300x156.jpg
+0 6
+https://freedays.online/wp-json/wp/v2/tags/11
+0 5
+https://freedays.online/index.php/author/admin_q9e47rgg/
+0 1
+https://freedays.online/index.php/2022/11/01/huawei-ra-mat-matepad-se-10-4-snapdragon-680-pin-5100mah/
+0 2
+https://freedays.online/index.php/wp-json/wp/v2/categories/4
+0 1
+https://freedays.online/wp-json/wp/v2/posts/30
+0 5
+https://freedays.online/wp-json/wp/v2/tags/15
+0 6
+https://freedays.online/wp-admin/load-styles.php
+0 6
+https://freedays.online/robots.txt
+0 21
+https://freedays.online/wp-includes/js/comment-reply.min.js
+0 5
+https://freedays.online/tag/cpi_tphcm/feed/
+0 7
+https://freedays.online/wp-content/uploads/2022/11/CPItphcm-150x150.jpg
+0 8
+https://freedays.online/dich-sot-xuat-huyet-dien-bien-phuc-tap-xuat-hien-nhieu-o-dich-tai-ha-noi/
+0 5
+https://freedays.online/wp-content/uploads/2022/11/CPItphcm.jpg
+0 6
+https://freedays.online/wp-content/uploads/2022/11/baiCPIphhcm.jpg
+0 9
+https://freedays.online/index.php/2022/11/01/huawei-ra-mat-matepad-se-10-4-snapdragon-680-pin-5100mah/feed/
+0 1
+https://freedays.online/wp-admin/options-privacy.php
+0 2
+https://freedays.online/wp-content/themes/covernews/assets/slick/js/slick.min.js
+0 6
+https://freedays.online/wp-content/themes/covernews/style.css
+0 6
+https://freedays.online/category/suc-khoe/
+0 5
+https://freedays.online/wp-content/uploads/2022/11/tiemvacxinchotre-150x150.jpg
+0 5
+https://freedays.online/sitemap.xml
+0 17
+https://freedays.online/index.php/2022/11/01/gia-xang-dau-tiep-tuc-tang-trong-vong-hai-tuan-vua-qua/feed/
+0 1
+https://freedays.online/index.php/comments/feed/
+0 1
+https://freedays.online/index.php/category/kinh-te/
+0 1
+https://freedays.online/wp-admin/widgets.php
+0 282
+https://freedays.online/category/xa-hoi/
+0 5
+https://freedays.online/index.php/category/xa-hoi/feed/
+0 1
+https://freedays.online/lap-ke-hoach-tiem-vac-xin-covid-19-cho-tre-6-thang-tuoi/feed/
+0 5
+https://freedays.online/index.php/wp-json/wp/v2/posts/16
+0 1
+https://freedays.online/wp-json/wp/v2/users/1
+0 5
+https://freedays.online/wp-json/wp/v2/categories/2
+0 5
+https://freedays.online/index.php/wp-json/wp/v2/posts/30
+0 1
+https://freedays.online/wp-content/uploads/2022/11/biasotxuathuyet.jpg
+0 9
+https://freedays.online/tag/gia_xang_dau_tang/
+0 6
+https://freedays.online/index.php/category/cong-nghe/
+0 1
+https://freedays.online/elon-musk-hien-tai-la-giam-doc-duy-nhat-cua-twitter/
+0 5
+https://freedays.online/huawei-ra-mat-matepad-se-10-4-snapdragon-680-pin-5100mah/feed/
+0 5
+https://freedays.online/index.php/author/admin_q9e47rgg/feed/
+0 1
+https://freedays.online/category/suc-khoe/feed/
+0 5
+https://freedays.online//wp-login.php
+0 3237
+https://freedays.online/index.php/category/suc-khoe/
+0 1
+http://freedays.online/wp-login.php
+0 1
+https://freedays.online/tag/cpi_tphcm/
+0 5
+https://freedays.online/wp-content/uploads/2022/11/sohoadulich.jpg
+0 6
+https://freedays.online/wp-content/uploads/2022/11/matepadSE.jpg
+0 8
+https://freedays.online/wp-admin/options-reading.php
+0 1
+http://freedays.online
+0 3
+https://freedays.online/wp-content/uploads/2022/10/cropped-rounded-in-photoretrica-192x192.png
+0 6
+https://freedays.online/tag/elon_musk/feed/
+0 5
+https://freedays.online/index.php/wp-json/wp/v2/categories/6
+0 1
+http://baidu.com/
+0 3
+https://freedays.online/wp-json/wp/v2/posts/42
+0 5
+https://freedays.online/wp-content/uploads/2022/11/biagiaxangdautang-150x150.jpg
+0 6
+https://freedays.online/wp-admin/edit.php
+0 214
+https://freedays.online/wp-json/wp/v2/tags/13
+0 5
+https://freedays.online/wp-admin/post.php
+0 593
+https://freedays.online/dich-sot-xuat-huyet-dien-bien-phuc-tap-xuat-hien-nhieu-o-dich-tai-ha-noi/feed/
+0 5
+http://freedays.online/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
+0 1
+https://freedays.online/tag/vaccine_covid_19/
+0 5
+https://freedays.online/sitemap.xml.gz
+0 11
+https://freedays.online/so-hoa-cac-di-san-van-hoa-va-chuyen-doi-so-trong-nganh-du-lich/
+0 5
+https://freedays.online/wp-admin/css/login.min.css
+0 1
+https://freedays.online/wp-content/themes/covernews/assets/jquery-match-height/jquery.matchHeight.min.js
+0 6
+https://freedays.online/wp-content/uploads/2022/11/postelonmusktw.jpg
+0 11
+https://freedays.online/jfhjkdshfdsfkjhdjfdjfhjskdhfeuwfewifhhdfjkfhkdjhfsdjkfhdjkfhdkfhdfhk
+0 6
+https://freedays.online/index.php/wp-json/wp/v2/users/1
+0 1
+- (Direct Request)
+0 15550
+https://freedays.online/tag/mate_pad_se/feed/
+0 5
+https://freedays.online/wp-admin/options-media.php
+0 1
+https://freedays.online/
+0 1088
+https://freedays.online/wp-content/themes/covernews/js/navigation.js
+0 6
+https://freedays.online/index.php/wp-json/wp/v2/categories/2
+0 1
+https://freedays.online/lap-ke-hoach-tiem-vac-xin-covid-19-cho-tre-6-thang-tuoi/
+0 5
+https://freedays.online/gia-xang-dau-tiep-tuc-tang-trong-vong-hai-tuan-vua-qua/
+0 5
+https://freedays.online/author/admin_q9e47rgg/feed/
+0 5
+https://freedays.online/wp-content/uploads/2022/11/biamatepadSE.jpg
+0 6
+https://freedays.online/wp-content/uploads/2022/11/biasohoadulich.jpg
+0 10
+https://freedays.online/gia-xang-dau-tiep-tuc-tang-trong-vong-hai-tuan-vua-qua/feed/
+0 5
+https://freedays.online/index.php/category/kinh-te/feed/
+0 1
+https://freedays.online/index.php/wp-json/
+0 2
+https://freedays.online/2022/11/
+0 5
+https://freedays.online/wp-includes/js/jquery/jquery-migrate.min.js
+0 6
+https://freedays.online/wp-admin/options-general.php
+0 5
+https://freedays.online/wp-json/wp/v2/posts/46
+0 5
+http://freedays.online/_ignition/health-check/
+0 1
+https://freedays.online/index.php/wp-json/oembed/1.0/embed
+0 14
+https://freedays.online/wp-json/wp/v2/posts/26
+0 5
+https://freedays.online/wp-content/uploads/2022/11/biaelonmusktw.jpg
+0 4
+https://freedays.online/tag/gia_xang_dau_tang/feed/
+0 4
+https://freedays.online/wp-admin/tools.php
+0 1
+https://freedays.online/wp-login.php
+0 19
+https://freedays.online/wp-json/wp/v2/posts/34
+0 5
+https://freedays.online/wp-admin/options-permalink.php
+0 3
+https://freedays.online/index.php/wp-json/wp/v2/categories/3
+0 1
+https://freedays.online/index.php/category/suc-khoe/feed/
+0 1
+https://freedays.online/wp-json/wp/v2/categories/6
+0 5
+https://freedays.online/index.php/2022/11/01/lap-ke-hoach-tiem-vac-xin-covid-19-cho-tre-6-thang-tuoi/feed/
+0 1
+https://freedays.online/wp-admin/plugins.php
+0 2
+http://www.freedays.online/
+0 2
+https://freedays.online/wp-json/wp/v2/categories/4
+0 5
+https://freedays.online/huawei-ra-mat-matepad-se-10-4-snapdragon-680-pin-5100mah/
+0 32
+https://freedays.online/wp-admin/theme-install.php
+0 6
+https://freedays.online/index.php/2022/11/01/cpi-cua-tphcm-tang-045-trong-thang-10/feed/
+0 1
+https://freedays.online/wp-content/uploads/2022/11/giaxangdautang.jpg
+0 7
+https://freedays.online/index.php/2022/11/01/so-hoa-cac-di-san-van-hoa-va-chuyen-doi-so-trong-nganh-du-lich/
+0 2
+https://freedays.online///
+0 2
+https://freedays.online/cpi-cua-tphcm-tang-045-trong-thang-10/
+0 5
+https://freedays.online/wp-json/oembed/1.0/embed
+0 70
+https://freedays.online/index.php/wp-json/wp/v2/posts/42
+0 1
+https://freedays.online/wp-content/themes/covernews/js/skip-link-focus-fix.js
+0 6
+https://freedays.online/index.php/2022/11/01/elon-musk-hien-tai-la-giam-doc-duy-nhat-cua-twitter/feed/
+0 1
+https://freedays.online/wp-admin/revision.php
+0 2
+https://freedays.online/wp-json/
+0 4
+https://freedays.online/wp-admin/post-new.php
+0 134
+https://freedays.online/tag/sot_xuat_huyet/feed/
+0 3
+https://freedays.online/comments/feed/
+0 5
+https://freedays.online/index.php/2022/11/01/gia-xang-dau-tiep-tuc-tang-trong-vong-hai-tuan-vua-qua/
+0 1
+http://freedays.online/wp-includes/wlwmanifest.xml
+0 1
+https://freedays.online/wp-content/themes/covernews/assets/marquee/jquery.marquee.js
+0 6
+https://freedays.online/wp-json/wp/v2/tags/10
+0 5
+https://freedays.online/wp-content/uploads/2022/11/sotxuathuyet-150x150.jpg
+0 6
+https://www.google.com
+0 2
+https://freedays.online/wp-content/themes/covernews/assets/fixed-header-script.js
+0 6
+https://freedays.online/index.php/2022/11/01/so-hoa-cac-di-san-van-hoa-va-chuyen-doi-so-trong-nganh-du-lich/feed/
+0 1
+https://freedays.online/category/kinh-te/feed/
+0 4
+https://freedays.online/elon-musk-hien-tai-la-giam-doc-duy-nhat-cua-twitter/feed/
+0 5
+http://freedays.online///
+0 2
+https://freedays.online/index.php/2022/11/01/lap-ke-hoach-tiem-vac-xin-covid-19-cho-tre-6-thang-tuoi/
+0 2
+https://freedays.online/wp-admin/themes.php
+0 31
+https://freedays.online/wp-json/wp/v2/categories/3
+0 5
+https://freedays.online/tag/sot_xuat_huyet/
+0 5
+https://freedays.online/author/admin_q9e47rgg/
+0 5
+https://freedays.online/index.php/2022/11/01/elon-musk-hien-tai-la-giam-doc-duy-nhat-cua-twitter/
+0 4
+https://freedays.online/wp-content/uploads/2022/11/biamatepadSE-150x150.jpg
+0 6
+https://freedays.online/wp-includes/js/imgareaselect/imgareaselect.css
+0 6
+https://freedays.online/tag/twitter/
+0 6
+https://freedays.online/tag/elon_musk/
+0 5
+https://freedays.online/wp-cron.php
+0 63
+https://freedays.online/cpi-cua-tphcm-tang-045-trong-thang-10/feed/
+0 5
+https://freedays.online/wp-json/wp/v2/posts/38
+0 5
+https://freedays.online/sitemap.ashx
+0 10
+https://freedays.online/wp-content/themes/covernews/assets/bootstrap/js/bootstrap.min.js
+0 6
+https://freedays.online/wp-admin/upgrade.php
+0 1
+https://www.freedays.online
+0 6
+https://freedays.online/wp-admin/upload.php
+0 106
+https://freedays.online/index.php/2022/11/01/dich-sot-xuat-huyet-dien-bien-phuc-tap-xuat-hien-nhieu-o-dich-tai-ha-noi/
+0 1
+https://freedays.online/wp-content/themes/covernews/assets/bootstrap/css/bootstrap.min.css
+0 6
+https://freedays.online
+0 6
+https://freedays.online/feed/
+0 6
+https://freedays.online/index.php/category/xa-hoi/
+0 4
+https://freedays.online/wp-json/wp/v2/tags/9
+0 4
+https://freedays.online/wp-includes/css/dist/block-library/style.min.css
+0 6
+https://freedays.online/wp-json/wp/v2/tags/12
+0 5
+https://freedays.online/wp-admin/term.php
+0 3
+https://freedays.online/category/kinh-te/
+0 4
+https://freedays.online/wp-includes/css/classic-themes.min.css
+0 4
+http://freedays.online/public/_ignition/health-check/
+0 1
+https://freedays.online/so-hoa-cac-di-san-van-hoa-va-chuyen-doi-so-trong-nganh-du-lich/feed/
+0 5
+https://freedays.online/wp-admin/options-discussion.php
+0 1
+https://freedays.online/wp-includes/js/jquery/jquery.min.js
+0 6
+https://freedays.online/wp-content/uploads/2022/11/biatiemvaccine.jpg
+0 10
+https://freedays.online/wp-content/uploads/2022/11/tiemvacxinchotre.jpg
+0 6
+https://freedays.online/index.php/category/cong-nghe/feed/
+0 2
+https://freedays.online/wp-admin/users.php
+0 1
+https://freedays.online/index.php/wp-json/wp/v2/posts/34
+0 1
+https://freedays.online/index.php/wp-json/wp/v2/posts/38
+0 1
+https://freedays.online/wp-admin/edit-tags.php
+0 60
+https://freedays.online/wp-json/wp/v2/posts/16
+0 5
+https://freedays.online/wp-admin/options-writing.php
+0 1
+https://freedays.online/sitemap.txt
+0 13
+https://freedays.online/wp-content/uploads/2022/10/rounded-in-photoretrica-1.png
+0 6
+https://freedays.online/index.php/wp-json/wp/v2/posts/46
+0 1
+https://freedays.online/wp-content/uploads/2022/11/biagiaxangdautang.jpg
+0 6
+https://freedays.online/wp-includes/wlwmanifest.xml
+0 6
+https://freedays.online/wp-json/wp/v2/tags/14
+0 4
+https://freedays.online/category/cong-nghe/feed/
+0 6
+https://freedays.online/wp-content/themes/covernews/assets/font-awesome-v6/css/all.min.css
+0 60
+https://freedays.online/tag/vaccine_covid_19/feed/
+0 5
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+0 2
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/106.0.5
+0 35
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 13
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+0 296
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+0 25
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like)
+0 2
+\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3882.0 Safari/537.36\"
+0 69
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4590.2 Mobile Safari/537.36 C
+0 198
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; Pro Sitemaps Generator; pro-sitemaps.com) Gecko Pro-Sitemaps/1.0
+0 17
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile S
+0 1
+got (https://github.com/sindresorhus/got)
+0 4
+python-requests/2.26.0
+0 40
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+0 1668
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 3
+WordPress/6.0.3; https://freedays.online
+0 89
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 10
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2656.18 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+0 4831
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36
+0 77
+Googlebot-Image/1.0
+0 2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4240.193 Safari/537.36
+0 837
+Mozilla/5.0 (Linux; Android 11; vivo 1906; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.141 Mobile
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 
+0 62
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36 MVisionPlayer/1
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+0 148
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+0 6
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.119 Mobile
+0 36
+Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.
+0 2
+Mozilla/5.0 (compatible; XML Sitemaps Generator; http://www.xml-sitemaps.com) Gecko XML-Sitemaps/1.0
+0 1
+Mozilla/5.0 (Linux; U; Android 8.0.0; zh-cn; Mi Note 2 Build/OPR1.170623.032) AppleWebKit/537.36 (KHTML, like Gecko) Version/
+0 71
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E14
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+0 148
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+0 71
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 9293
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/92.0.4515.159 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:52.0) Gecko/20100101 Firefox/52.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; XML Sitemaps Generator; www.xml-sitemaps.com) Gecko XML-Sitemaps/1.0
+0 17
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+0 2
+Mozilla/5.0 (compatible; ips-agent)
+0 8
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96
+0 94
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+0 5
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/73.0.3683.75 Safari/537.36
+0 86
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+0 125
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+0 149
+WordPress/6.1; https://freedays.online
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+0 4
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+0 1672
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+0 2896
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.113 Safari/537.36
+0 35
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 10
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/74.0.3729.169 Safari/537.36
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
